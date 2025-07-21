@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@id/rlayWidget"
+    android:background="@drawable/widget_background"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_marginLeft="@dimen/widget_margin_left"
+    android:layout_marginTop="@dimen/widget_margin_top2"
+    android:layout_marginRight="@dimen/widget_margin_right"
+    android:layout_marginBottom="@dimen/widget_margin_bottom2"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView
+        android:textAppearance="?android:textAppearanceMedium"
+        android:textColor="@android:color/black"
+        android:gravity="center"
+        android:id="@id/txvWidget"
+        android:visibility="gone"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/widget_name"
+        android:layout_centerVertical="true" />
+    <TextView
+        android:textAppearance="?android:textAppearanceSmall"
+        android:textColor="@color/gray_dark"
+        android:gravity="center"
+        android:id="@id/txvWidgetHint"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/widget_hint"
+        android:layout_centerVertical="true" />
+</RelativeLayout>
