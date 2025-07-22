@@ -1,0 +1,43 @@
+{
+  "apkFileName": "Sync_Manager_v6.5.80(80)_src.apk",
+  "VersionInfo": {
+    "versionName": "6.5.80",
+    "versionCode": "80"
+  },
+  "UsesFramework": {
+    "ids": [1],
+    "tag": null
+  },
+  "unknownFiles": {
+    "org/apache/harmony/awt/internal/nls/messages.properties": "8",
+    "mimetypes.default": "8",
+    "com/sun/mail/dsn/mailcap": "8",
+    "dsn.mf": "8",
+    "javamail.pop3.provider": "8",
+    "mailcap.default": "8",
+    "javamail.default.providers": "8",
+    "javamail.smtp.address.map": "8",
+    "javamail.default.address.map": "8",
+    "javamail.smtp.provider": "8",
+    "javamail.charset.map": "8",
+    "javamail.imap.provider": "8",
+    "mailcap": "8"
+  },
+  "PackageInfo": {
+    "forcedPackageId": "127",
+    "renameManifestPackage": null
+  },
+  "doNotCompress": [
+    "resources.arsc",
+    "png"
+  ],
+  "isFrameworkApk": false,
+  "compressionType": false,
+  "sparseResources": false,
+  "version": "2.4.0-221119",
+  "sharedLibrary": false,
+  "sdkInfo": {
+    "minSdkVersion": "19",
+    "targetSdkVersion": "33"
+  }
+}

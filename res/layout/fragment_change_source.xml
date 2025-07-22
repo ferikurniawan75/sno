@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:minWidth="250.0dip">
+        <RadioButton
+            android:textSize="18.0sp"
+            android:id="@id/type0"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin_text"
+            android:layout_marginRight="@dimen/margin_text"
+            android:text="@string/dialog_src0"
+            style="@style/BaseTextStyle" />
+        <RadioButton
+            android:textSize="18.0sp"
+            android:id="@id/type1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin_text"
+            android:layout_marginRight="@dimen/margin_text"
+            android:text="@string/dialog_src1"
+            style="@style/BaseTextStyle" />
+        <RadioButton
+            android:textSize="18.0sp"
+            android:id="@id/type2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin_text"
+            android:layout_marginRight="@dimen/margin_text"
+            android:text="@string/dialog_src2"
+            style="@style/BaseTextStyle" />
+        <RadioButton
+            android:textSize="18.0sp"
+            android:id="@id/type3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin_text"
+            android:layout_marginRight="@dimen/margin_text"
+            android:text="@string/dialog_src3"
+            style="@style/BaseTextStyle" />
+        <RadioButton
+            android:textSize="18.0sp"
+            android:id="@id/type4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin_text"
+            android:layout_marginRight="@dimen/margin_text"
+            android:text="@string/dialog_src4"
+            style="@style/BaseTextStyle" />
+        <RadioButton
+            android:textSize="18.0sp"
+            android:id="@id/type5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin_text"
+            android:layout_marginRight="@dimen/margin_text"
+            android:text="@string/dialog_src5"
+            style="@style/BaseTextStyle" />
+        <RadioButton
+            android:textSize="18.0sp"
+            android:id="@id/type6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin_text"
+            android:layout_marginRight="@dimen/margin_text"
+            android:text="@string/dialog_src6"
+            style="@style/BaseTextStyle" />
+        <RadioButton
+            android:textSize="18.0sp"
+            android:id="@id/type7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin_text"
+            android:layout_marginRight="@dimen/margin_text"
+            android:text="@string/dialog_src7"
+            style="@style/BaseTextStyle" />
+        <RadioButton
+            android:textSize="18.0sp"
+            android:id="@id/type8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin_text"
+            android:layout_marginRight="@dimen/margin_text"
+            android:text="@string/dialog_src8"
+            style="@style/BaseTextStyle" />
+        <RadioButton
+            android:textSize="18.0sp"
+            android:id="@id/type9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin_text"
+            android:layout_marginRight="@dimen/margin_text"
+            android:text="@string/dialog_src9"
+            style="@style/BaseTextStyle" />
+        <TableRow
+            android:gravity="center_horizontal"
+            android:orientation="horizontal"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:weightSum="2.0">
+            <Button
+                android:id="@id/btnInstOk"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:text="@android:string/ok"
+                android:layout_weight="1.0" />
+        </TableRow>
+    </LinearLayout>
+</ScrollView>

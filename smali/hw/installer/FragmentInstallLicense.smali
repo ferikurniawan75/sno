@@ -1,0 +1,151 @@
+.class public Lhw/installer/FragmentInstallLicense;
+.super Lhw/installer/a;
+.source ""
+
+
+# instance fields
+.field private Z:Lhw/installer/b;
+
+.field a0:Landroid/widget/CheckBox;
+
+
+# direct methods
+.method public constructor <init>()V
+    .locals 0
+
+    invoke-direct {p0}, Lhw/installer/a;-><init>()V
+
+    return-void
+.end method
+
+.method static synthetic u1(Lhw/installer/FragmentInstallLicense;)Lhw/installer/b;
+    .locals 0
+
+    iget-object p0, p0, Lhw/installer/FragmentInstallLicense;->Z:Lhw/installer/b;
+
+    return-object p0
+.end method
+
+.method public static v1()Lhw/installer/FragmentInstallLicense;
+    .locals 1
+
+    new-instance v0, Lhw/installer/FragmentInstallLicense;
+
+    invoke-direct {v0}, Lhw/installer/FragmentInstallLicense;-><init>()V
+
+    return-object v0
+.end method
+
+
+# virtual methods
+.method public f0(Landroid/os/Bundle;)V
+    .locals 1
+
+    invoke-super {p0, p1}, Lb/j/a/d;->f0(Landroid/os/Bundle;)V
+
+    invoke-virtual {p0}, Lb/j/a/d;->c1()Lb/j/a/e;
+
+    move-result-object p1
+
+    invoke-static {p1}, Landroidx/lifecycle/v;->b(Lb/j/a/e;)Landroidx/lifecycle/u;
+
+    move-result-object p1
+
+    const-class v0, Lhw/installer/b;
+
+    invoke-virtual {p1, v0}, Landroidx/lifecycle/u;->a(Ljava/lang/Class;)Landroidx/lifecycle/t;
+
+    move-result-object p1
+
+    check-cast p1, Lhw/installer/b;
+
+    iput-object p1, p0, Lhw/installer/FragmentInstallLicense;->Z:Lhw/installer/b;
+
+    return-void
+.end method
+
+.method public j0(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;
+    .locals 1
+
+    sget p3, Lhw/installer/d;->f:I
+
+    const/4 v0, 0x0
+
+    invoke-virtual {p1, p3, p2, v0}, Landroid/view/LayoutInflater;->inflate(ILandroid/view/ViewGroup;Z)Landroid/view/View;
+
+    move-result-object p1
+
+    sget p2, Lhw/installer/c;->a:I
+
+    invoke-virtual {p1, p2}, Landroid/view/View;->findViewById(I)Landroid/view/View;
+
+    move-result-object p2
+
+    check-cast p2, Landroid/widget/Button;
+
+    invoke-virtual {p2, v0}, Landroid/widget/Button;->setEnabled(Z)V
+
+    new-instance p3, Lhw/installer/FragmentInstallLicense$a;
+
+    invoke-direct {p3, p0}, Lhw/installer/FragmentInstallLicense$a;-><init>(Lhw/installer/FragmentInstallLicense;)V
+
+    invoke-virtual {p2, p3}, Landroid/widget/Button;->setOnClickListener(Landroid/view/View$OnClickListener;)V
+
+    sget p3, Lhw/installer/c;->b:I
+
+    invoke-virtual {p1, p3}, Landroid/view/View;->findViewById(I)Landroid/view/View;
+
+    move-result-object p3
+
+    check-cast p3, Landroid/widget/CheckBox;
+
+    iput-object p3, p0, Lhw/installer/FragmentInstallLicense;->a0:Landroid/widget/CheckBox;
+
+    new-instance v0, Lhw/installer/FragmentInstallLicense$b;
+
+    invoke-direct {v0, p0, p2}, Lhw/installer/FragmentInstallLicense$b;-><init>(Lhw/installer/FragmentInstallLicense;Landroid/widget/Button;)V
+
+    invoke-virtual {p3, v0}, Landroid/widget/CheckBox;->setOnCheckedChangeListener(Landroid/widget/CompoundButton$OnCheckedChangeListener;)V
+
+    sget p2, Lhw/installer/c;->d0:I
+
+    invoke-virtual {p1, p2}, Landroid/view/View;->findViewById(I)Landroid/view/View;
+
+    move-result-object p2
+
+    check-cast p2, Landroid/widget/TextView;
+
+    new-instance p3, Lhw/installer/FragmentInstallLicense$c;
+
+    invoke-direct {p3, p0}, Lhw/installer/FragmentInstallLicense$c;-><init>(Lhw/installer/FragmentInstallLicense;)V
+
+    invoke-virtual {p2, p3}, Landroid/widget/TextView;->setOnClickListener(Landroid/view/View$OnClickListener;)V
+
+    return-object p1
+.end method
+
+.method r1()Ljava/lang/String;
+    .locals 1
+
+    invoke-virtual {p0}, Ljava/lang/Object;->getClass()Ljava/lang/Class;
+
+    move-result-object v0
+
+    invoke-virtual {v0}, Ljava/lang/Class;->getName()Ljava/lang/String;
+
+    move-result-object v0
+
+    return-object v0
+.end method
+
+.method s1()V
+    .locals 2
+
+    iget-object v0, p0, Lhw/installer/FragmentInstallLicense;->Z:Lhw/installer/b;
+
+    const/4 v1, 0x0
+
+    invoke-virtual {v0, v1}, Lhw/installer/b;->f0(Z)V
+
+    return-void
+.end method

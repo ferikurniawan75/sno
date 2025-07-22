@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@id/testTest"
+    android:layout_width="180.0dip"
+    android:layout_height="300.0dip"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <Button
+        android:textSize="10.0dip"
+        android:id="@id/button_start_pause"
+        android:layout_width="100.0dip"
+        android:layout_height="100.0dip"
+        android:text="START"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>

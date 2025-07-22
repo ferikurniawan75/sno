@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_gravity="fill_vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:id="@id/imageGradient"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:src="@drawable/status_bar_gradient"
+                android:scaleType="fitXY"
+                android:contentDescription="@null"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintWidth_percent="100.0" />
+            <ImageView
+                android:id="@id/imageHWLabel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8.0dip"
+                android:src="@drawable/logo"
+                android:contentDescription="@string/img_logo_caption"
+                android:alpha="0.8"
+                android:layout_marginStart="8.0dip"
+                android:layout_marginEnd="8.0dip"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+            <androidx.appcompat.widget.AppCompatTextView
+                android:textSize="22.0sp"
+                android:gravity="center_horizontal"
+                android:id="@id/txtCaption"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8.0dip"
+                android:text="@string/inst_screenshots_caption"
+                android:textAlignment="center"
+                android:layout_marginStart="16.0dip"
+                android:layout_marginEnd="16.0dip"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/imageHWLabel"
+                style="@style/BaseTextStyle" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.0">
+            <LinearLayout
+                android:orientation="vertical"
+                android:paddingLeft="32.0dip"
+                android:paddingTop="32.0dip"
+                android:paddingRight="32.0dip"
+                android:paddingBottom="32.0dip"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintWidth_max="512.0dip">
+                <Switch
+                    android:textSize="18.0sp"
+                    android:id="@id/cbAll"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/inst_log_select_all"
+                    style="@style/BaseTextStyle" />
+                <View
+                    android:background="?android:listDivider"
+                    android:layout_width="fill_parent"
+                    android:layout_height="3.0dip"
+                    android:layout_marginTop="8.0dip" />
+                <TableRow
+                    android:id="@id/tbrStoragePrivilege"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_marginTop="16.0dip">
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:textSize="18.0sp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/inst_screenshots_timer"
+                        style="@style/BaseTextStyle" />
+                    <Switch
+                        android:layout_gravity="center_vertical"
+                        android:id="@id/swScreensOn"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:checked="false"
+                        android:layout_weight="1.0" />
+                </TableRow>
+                <TableRow
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_marginTop="16.0dip">
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:textSize="18.0sp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/inst_screenshots_web"
+                        style="@style/BaseTextStyle" />
+                    <Switch
+                        android:layout_gravity="center_vertical"
+                        android:id="@id/swWeb"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1.0" />
+                </TableRow>
+                <TableRow
+                    android:id="@id/tbrUsageAccessPrivelege"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_marginTop="16.0dip">
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:textSize="18.0sp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/inst_screenshots_im"
+                        style="@style/BaseTextStyle" />
+                    <Switch
+                        android:layout_gravity="center_vertical"
+                        android:id="@id/swIM"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1.0" />
+                </TableRow>
+                <TableRow
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_marginTop="16.0dip">
+                    <androidx.appcompat.widget.AppCompatTextView
+                        android:textSize="18.0sp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/inst_screenshots_sms"
+                        style="@style/BaseTextStyle" />
+                    <Switch
+                        android:layout_gravity="center_vertical"
+                        android:id="@id/swSMS"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1.0" />
+                </TableRow>
+            </LinearLayout>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent">
+            <androidx.appcompat.widget.AppCompatTextView
+                android:textSize="18.0sp"
+                android:gravity="center_horizontal"
+                android:id="@id/txtDescription"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="24.0dip"
+                android:alpha="0.0"
+                android:textAlignment="center"
+                android:layout_marginStart="16.0dip"
+                android:layout_marginEnd="16.0dip"
+                app:layout_constraintBottom_toTopOf="@id/NextButton"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintWidth_max="512.0dip"
+                style="@style/BaseTextStyle" />
+            <Button
+                android:textColor="@color/button_text_color"
+                android:id="@id/NextButton"
+                android:background="@drawable/rounded_button"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="32.0dip"
+                android:text="@string/next"
+                android:fontFamily="@font/muli"
+                android:layout_marginStart="16.0dip"
+                android:layout_marginEnd="16.0dip"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintWidth_max="350.0dip" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </LinearLayout>
+</ScrollView>

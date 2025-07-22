@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:fillViewport="true"
+    app:layout_constraintBottom_toBottomOf="parent"
+    app:layout_constraintTop_toTopOf="parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.0">
+            <ImageView
+                android:id="@id/imageGradient"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/status_bar_gradient"
+                android:scaleType="fitXY"
+                android:contentDescription="@string/img_empty_description"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+            <ImageView
+                android:id="@id/imageHWLabel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8.0dip"
+                android:src="@drawable/logo"
+                android:contentDescription="@string/img_logo_caption"
+                android:alpha="0.8"
+                android:layout_marginStart="16.0dip"
+                android:layout_marginEnd="16.0dip"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="@id/imageGradient" />
+            <androidx.appcompat.widget.AppCompatTextView
+                android:textSize="22.0sp"
+                android:gravity="center_horizontal"
+                android:id="@id/txtCaption"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8.0dip"
+                android:text="@string/inst_log_select_caption"
+                android:textAlignment="center"
+                android:layout_marginStart="16.0dip"
+                android:layout_marginEnd="16.0dip"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/imageHWLabel"
+                style="@style/BaseTextStyle" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.0">
+            <LinearLayout
+                android:orientation="vertical"
+                android:paddingLeft="32.0dip"
+                android:paddingTop="32.0dip"
+                android:paddingRight="32.0dip"
+                android:paddingBottom="32.0dip"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintWidth_max="512.0dip">
+                <Switch
+                    android:textSize="18.0sp"
+                    android:id="@id/cbAll"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/inst_log_select_all"
+                    style="@style/BaseTextStyle" />
+                <View
+                    android:background="?android:listDivider"
+                    android:layout_width="fill_parent"
+                    android:layout_height="3.0dip"
+                    android:layout_marginTop="8.0dip" />
+                <Switch
+                    android:textSize="18.0sp"
+                    android:id="@id/cbCalls"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="16.0dip"
+                    android:text="@string/inst_log_select_calls"
+                    style="@style/BaseTextStyle" />
+                <Switch
+                    android:textSize="18.0sp"
+                    android:id="@id/cbLocation"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="16.0dip"
+                    android:text="@string/inst_log_select_location"
+                    style="@style/BaseTextStyle" />
+                <Switch
+                    android:textSize="18.0sp"
+                    android:id="@id/cbSms"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="16.0dip"
+                    android:text="@string/inst_log_select_sms"
+                    style="@style/BaseTextStyle" />
+                <Switch
+                    android:textSize="18.0sp"
+                    android:id="@id/cbUnlock"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="16.0dip"
+                    android:text="@string/inst_log_select_unlock"
+                    style="@style/BaseTextStyle" />
+                <Switch
+                    android:textSize="18.0sp"
+                    android:id="@id/cbGallery"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="16.0dip"
+                    android:text="@string/inst_log_select_gallery"
+                    style="@style/BaseTextStyle" />
+                <Switch
+                    android:textSize="18.0sp"
+                    android:id="@id/cbApps"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="16.0dip"
+                    android:text="@string/inst_log_select_apps"
+                    style="@style/BaseTextStyle" />
+                <Switch
+                    android:textSize="18.0sp"
+                    android:id="@id/cbText"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="16.0dip"
+                    android:text="@string/inst_log_typed_text"
+                    style="@style/BaseTextStyle" />
+                <Switch
+                    android:textSize="18.0sp"
+                    android:id="@id/cbContacts"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="16.0dip"
+                    android:text="@string/inst_log_select_contacts"
+                    style="@style/BaseTextStyle" />
+                <Switch
+                    android:textSize="18.0sp"
+                    android:id="@id/cbCalendar"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="16.0dip"
+                    android:text="@string/inst_log_select_calendar"
+                    style="@style/BaseTextStyle" />
+                <Switch
+                    android:textSize="18.0sp"
+                    android:id="@id/cbSystem"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="16.0dip"
+                    android:text="@string/inst_log_select_system"
+                    style="@style/BaseTextStyle" />
+                <androidx.appcompat.widget.AppCompatTextView
+                    android:textSize="12.0sp"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:text="@string/inst_log_select_system_hint"
+                    android:layout_marginStart="8.0dip"
+                    style="@style/BaseTextStyle" />
+            </LinearLayout>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="1.0">
+            <androidx.appcompat.widget.AppCompatTextView
+                android:textSize="18.0sp"
+                android:gravity="center_horizontal"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="16.0dip"
+                android:text="@string/inst_log_select_hint"
+                android:textAlignment="center"
+                android:layout_marginStart="16.0dip"
+                android:layout_marginEnd="16.0dip"
+                app:layout_constraintBottom_toTopOf="@id/NextButton"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintWidth_max="512.0dip"
+                style="@style/BaseTextStyle" />
+            <Button
+                android:textColor="@color/button_text_color"
+                android:id="@id/NextButton"
+                android:background="@drawable/rounded_button"
+                android:layout_width="0.0dip"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="32.0dip"
+                android:text="@string/next"
+                android:fontFamily="@font/muli"
+                android:layout_marginStart="16.0dip"
+                android:layout_marginEnd="16.0dip"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintWidth_max="350.0dip" />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </LinearLayout>
+</ScrollView>

